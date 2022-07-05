@@ -5,1715 +5,1546 @@
 
 ## Contents
 
+- [AutoIt](#autoit)
 - [Batchfile](#batchfile)
+- [BitBake](#bitbake)
+- [BlitzBasic](#blitzbasic)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [CUE](#cue)
-- [Clojure](#clojure)
-- [CodeQL](#codeql)
-- [Cython](#cython)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
-- [Elixir](#elixir)
+- [Erlang](#erlang)
 - [Go](#go)
 - [HTML](#html)
-- [Haskell](#haskell)
-- [Haxe](#haxe)
+- [Hack](#hack)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jinja](#jinja)
-- [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
-- [Markdown](#markdown)
-- [Mustache](#mustache)
-- [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
-- [PLpgSQL](#plpgsql)
+- [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Raku](#raku)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [SCSS](#scss)
 - [Scala](#scala)
-- [Scheme](#scheme)
 - [Shell](#shell)
-- [Starlark](#starlark)
-- [Swift](#swift)
+- [Smarty](#smarty)
 - [TypeScript](#typescript)
+- [Vala](#vala)
+- [Vim script](#vim-script)
+- [Visual Basic](#visual-basic)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
+- [YARA](#yara)
+
+## AutoIt 
+
+- [bustd86/bing-dork-scanner](https://github.com/bustd86/bing-dork-scanner) - Bing Dork Scanner and simple sqli-injection checker
 
 ## Batchfile 
 
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
+- [amirDEV/JohnTechFreeRDP](https://github.com/amirDEV/JohnTechFreeRDP) - 
+- [NirajShr3stha/coffinRDP](https://github.com/NirajShr3stha/coffinRDP) - You can get unlimited rdp for free.
+- [ZephrFish/WindowsHardeningScript](https://github.com/ZephrFish/WindowsHardeningScript) - Some settings stolen from multiple scripts @ZephrFish
+
+## BitBake 
+
+- [ehsahil/IntruderPayloads](https://github.com/ehsahil/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
+
+## BlitzBasic 
+
+- [1N3/IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 
 ## C 
 
-- [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
-- [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
-- [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android(GKI) Aarch64.
-- [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-- [RedisLabs/redisraft](https://github.com/RedisLabs/redisraft) - A Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [RedisGraph/RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
-- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
-- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
-- [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
-- [jtesta/ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
-- [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
-- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
-- [RedisBloom/RedisBloom](https://github.com/RedisBloom/RedisBloom) - Probabilistic Datatypes Module for Redis
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
-- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-- [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields.
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
-- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
-- [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
+- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie - Open Source
+- [arthepsy/CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034) - PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)
+- [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
+- [SecWiki/windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) - windows-kernel-exploits   Windows平台提权漏洞集合
+- [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
+- [nil0x42/duplicut](https://github.com/nil0x42/duplicut) - Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
+- [bhassani/EternalBlueC](https://github.com/bhassani/EternalBlueC) - EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader
+- [USBBios/Joker-Mirai-Botnet-Source-V1](https://github.com/USBBios/Joker-Mirai-Botnet-Source-V1) - People have been wanting this Mirai Botnet for awhile now. The Joker Mirai V1 developed by IoTNet himself. This powerful botnet has the basic attack methods for homes, servers, L7, and bypasses. Yes i
+- [gordboy/rtl8812au-5.9.3.2](https://github.com/gordboy/rtl8812au-5.9.3.2) - Realtek 8812AU driver version 5.9.3.2
+- [cdown/psi-notify](https://github.com/cdown/psi-notify) - Alert when your machine is becoming oversaturated, *before* it slows to a crawl
+- [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
+- [opsxcq/exploit-CVE-2017-7494](https://github.com/opsxcq/exploit-CVE-2017-7494) - SambaCry exploit and vulnerable container (CVE-2017-7494)
+- [tpruvot/cpuminer-multi](https://github.com/tpruvot/cpuminer-multi) - crypto cpuminer (linux + windows)
+- [swiperproxy/swiperproxy](https://github.com/swiperproxy/swiperproxy) - A Python-based HTTP/HTTPS-proxy.
+- [nmap/ncrack](https://github.com/nmap/ncrack) - Ncrack network authentication tool
+- [Ranginang67/SQLVuln](https://github.com/Ranginang67/SQLVuln) - Simple tool to scanning sql injection vulnerability, easy to use!!
+- [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
+- [csete/gpredict](https://github.com/csete/gpredict) - Gpredict satellite tracking application
+- [kapilratnani/JSON-Viewer](https://github.com/kapilratnani/JSON-Viewer) - A JSON viewer plugin for Notepad++. Displays the selected JSON string in a tree view.
+- [sieukrem/jn-npp-plugin](https://github.com/sieukrem/jn-npp-plugin) - Plugin for Notepad++ allowing you to automate some tasks using JavaScript
+- [dail8859/ElasticTabstops](https://github.com/dail8859/ElasticTabstops) - Elastic Tabstops plugin for Notepad++
+- [superolmo/BigFiles](https://github.com/superolmo/BigFiles) - Notepad++ Plugin for reading large files
+- [sivazozo/hidden-cry](https://github.com/sivazozo/hidden-cry) - Windows Crypter/Decrypter Generator with AES 256 bits key
+- [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition.
+- [alexxy/netdiscover](https://github.com/alexxy/netdiscover) - netdiscover
+- [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The official Exploit Database repository
+- [znort987/blockparser](https://github.com/znort987/blockparser) - Simple C++ bitcoin blockchain parser
+- [ryancdotorg/brainflayer](https://github.com/ryancdotorg/brainflayer) - A proof-of-concept cracker for cryptocurrency brainwallets and other low entropy key alogrithms.
+- [kulukami/Build-a-Mirai-botnet](https://github.com/kulukami/Build-a-Mirai-botnet) - Build a Mirai botnet from the source code.
+- [kribesk/security-project-mirai](https://github.com/kribesk/security-project-mirai) - Running mirai botnet in lab environment
+- [eulo08/Mirai-ioT-Botnet-Source-Code-With-Setup-Guide](https://github.com/eulo08/Mirai-ioT-Botnet-Source-Code-With-Setup-Guide) - https://en.wikipedia.org/wiki/Mirai_(malware) - Source Code for Research Purposes!
+- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
+- [ruCyberPoison/-Mirai-Iot-BotNet](https://github.com/ruCyberPoison/-Mirai-Iot-BotNet) - [Mirai] Mirai Iot Botnet && Tutorial !
+- [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
+- [noptrix/lulzbuster](https://github.com/noptrix/lulzbuster) - A very fast and smart web directory and file enumeration tool written in C.
+- [vanhoefm/krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - 
+- [e-ago/bitcracker](https://github.com/e-ago/bitcracker) - BitCracker is the first open source password cracking tool for memory units encrypted with BitLocker
+- [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
+- [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
+- [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) - Small utilities that are useful in advanced password cracking
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
-- [libgit2/pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
+- [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
+- [nullsecuritynet/tools](https://github.com/nullsecuritynet/tools) - Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.
+- [mohuihui/antispy](https://github.com/mohuihui/antispy) - AntiSpy is a free but powerful anti virus and rootkits toolkit.It offers you the ability with the highest privileges that can detect,analyze and restore various kernel modifications and hooks.With its
+- [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
+- [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
+- [s0lst1c3/eaphammer](https://github.com/s0lst1c3/eaphammer) - Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.
+- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
+- [deiv/driftnet](https://github.com/deiv/driftnet) - Driftnet watches network traffic, and picks out and displays JPEG and GIF images for display
+- [screetsec/TheFatRat](https://github.com/screetsec/TheFatRat) - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then 
+- [rockdaboot/wget2](https://github.com/rockdaboot/wget2) - The successor of GNU Wget. Contributions preferred at https://gitlab.com/gnuwget/wget2. But accepted here as well 😍
 
 ## C# # 
 
-- [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
+- [d-edge/Cardidy](https://github.com/d-edge/Cardidy) - A .net library to identify credit card number and cvv
+- [kzorin52/stealerchecker](https://github.com/kzorin52/stealerchecker) - Работа с логами Echelon, RedLine, Racoon, DCRat etc
+- [swagkarna/Echelon-Stealer](https://github.com/swagkarna/Echelon-Stealer) - ☣️ Stealer chrome v81+, Firefox v75+, And more than 30 different programs and crypto-wallets
+- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
+- [Overmiind/Puppeteer-sharp-extra](https://github.com/Overmiind/Puppeteer-sharp-extra) - Plugin framework for PuppeteerSharp
+- [HunnicCyber/SharpML](https://github.com/HunnicCyber/SharpML) - Machine Learning Network Share Password Hunting Toolkit
+- [UnamSanctam/SilentCryptoMiner](https://github.com/UnamSanctam/SilentCryptoMiner) - A Silent (Hidden) Free Crypto Miner Builder - Supports ETH, ETC, XMR and many more.
+- [guptaofficial17/Mailify](https://github.com/guptaofficial17/Mailify) - The Best Mail-Access Checker/Penetesting Tool Ever Made!
+- [Leaked-wiki/throwbin.io-bruteforcer](https://github.com/Leaked-wiki/throwbin.io-bruteforcer) - A small project I made for educational purposes, I wanted to see how small and fast I could make it.
+- [anscripter/UcO](https://github.com/anscripter/UcO) - Ultimate Combolist Optimizer
+- [svenmauch/WinSlap](https://github.com/svenmauch/WinSlap) - Swiftly configure a fresh Windows 10 installation with useful tweaks and antispy settings.
+- [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
+- [Flangvik/SharpProxyLogon](https://github.com/Flangvik/SharpProxyLogon) - C# POC for CVE-2021-26855 aka ProxyLogon, supports the classically semi-interactive web shell as well as shellcode injection
+- [ipwnosx/Convert-OpenBullet-Configs-to-Standalone](https://github.com/ipwnosx/Convert-OpenBullet-Configs-to-Standalone) - Convert OpenBullet Configs to Standalone .exe Crackers - Completely Automated + Instant
+- [Viralmaniar/BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon) - BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.
+- [RyuzakiH/CloudflareSolverRe](https://github.com/RyuzakiH/CloudflareSolverRe) - Cloudflare Javascript & reCaptcha challenge (I'm Under Attack Mode or IUAM) solving / bypass .NET Standard library.
+- [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2) - OpenBullet reinvented
+- [Rdsmunna/PornHub-checker](https://github.com/Rdsmunna/PornHub-checker) - Fixed version. Brute/Checker for pornhub.com
+- [Taiizor/MAChanger](https://github.com/Taiizor/MAChanger) - MAChanger v1.7
+- [FarisFAhmed/NppDpFormatPlugin](https://github.com/FarisFAhmed/NppDpFormatPlugin) - Notepad++ Plugin for Text Formatting
+- [ph09nix/APSoft-Web-Scanner-v2](https://github.com/ph09nix/APSoft-Web-Scanner-v2) - Powerful dork searcher and vulnerability scanner for windows platform
+- [syrex1013/RainbowSQL](https://github.com/syrex1013/RainbowSQL) - RainbowSQL is very fast dork&SQL injection scanner.
+- [djhohnstein/SharpChromium](https://github.com/djhohnstein/SharpChromium) - .NET 4.0 CLR Project to retrieve Chromium data, such as cookies, history and saved logins.
+- [Raikia/CredNinja](https://github.com/Raikia/CredNinja) - A multithreaded tool designed to identify if credentials are valid, invalid, or local admin valid credentials within a network at-scale via SMB, plus now with a user hunter
+- [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
+- [openbullet/openbullet](https://github.com/openbullet/openbullet) - The OpenBullet web testing application.
+- [LimerBoy/Adamantium-Thief](https://github.com/LimerBoy/Adamantium-Thief) - :key: Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version &gt; 80 is supported.
+- [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+- [vivami/SauronEye](https://github.com/vivami/SauronEye) - Search tool to find specific files containing specific words, i.e. files containing passwords..
+- [sensepost/wikto](https://github.com/sensepost/wikto) - Nikto for Windows with some extra features.
+- [ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 
 ## C++ 
 
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-- [opencurve/curve](https://github.com/opencurve/curve) - Curve is a high-performance, lightweight-operation, cloud-native open source distributed storage system. Curve can be applied to: 1) mainstream cloud-native infrastructure platforms OpenStack and Kube
-- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
-- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code
-- [pingcap/tiflash](https://github.com/pingcap/tiflash) - The analytical engine for TiDB and TiDB Cloud. Try free: https://tidbcloud.com/free-trial
-- [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
-- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
-- [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
-- [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
-- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [apache/incubator-brpc](https://github.com/apache/incubator-brpc) - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. "brpc" means "better RPC".
-- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
-- [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
-- [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [Tencent/Tendis](https://github.com/Tencent/Tendis) - Tendis is a high-performance distributed storage system fully compatible with the Redis protocol.
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an MPP-based interactive SQL data warehousing for reporting and analysis.
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
-- [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
-- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
-- [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
-- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
-- [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
-- [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-- [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
-- [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
-- [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
-- [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
-- [apple/turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-- [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
-- [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
-- [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
-- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
+- [JohnHubcr/navicat-keygen](https://github.com/JohnHubcr/navicat-keygen) - A keygen for Navicat
+- [0x09AL/IIS-Raid](https://github.com/0x09AL/IIS-Raid) - A native backdoor module for Microsoft IIS (Internet Information Services)
+- [0x09AL/RdpThief](https://github.com/0x09AL/RdpThief) - Extracting Clear Text Passwords from mstsc.exe using API Hooking.
+- [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+- [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager) - Notepad++ Plugin Manager
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
+- [oviradoi/npp-explorer-plugin](https://github.com/oviradoi/npp-explorer-plugin) - Modified version of the Explorer plugin for Notepad++ that matches its colors with the current theme
+- [Predelnik/DSpellCheck](https://github.com/Predelnik/DSpellCheck) - Notepad++ Spell-checking Plug-in
+- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
+- [viva64/how-to-use-pvs-studio-free](https://github.com/viva64/how-to-use-pvs-studio-free) - How to use PVS-Studio for Free?
+- [brichard19/BitCrack](https://github.com/brichard19/BitCrack) - A tool for cracking Bitcoin private keys
+- [batchenRothenberg/AllRepair](https://github.com/batchenRothenberg/AllRepair) - 
+- [Phildo/brutedist](https://github.com/Phildo/brutedist) - brute forces a list of passwords a short distance based on a seed password
+- [Phildo/expandpass](https://github.com/Phildo/expandpass) - Implements a simple nested grammar for expanding passwords
+- [nomacs/nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
+- [4ndronicus/keylogger](https://github.com/4ndronicus/keylogger) - This is a keylogger. I created it so that I could understand how one could go about detecting keyloggers that may have different behavior. Rather than finding one every time I wanted a particular beha
+- [4ndronicus/remote-access-tool](https://github.com/4ndronicus/remote-access-tool) - Remote Access Tool. I created it so that I could understand how one could go about detecting RATs that may have different behavior. Rather than finding one every time I wanted a particular behavior, I
+- [tenable/routeros](https://github.com/tenable/routeros) - RouterOS Security Research Tooling and Proof of Concepts
+- [sepehrdaddev/hashcobra](https://github.com/sepehrdaddev/hashcobra) - HashCobra Hash Cracking tool.
+- [UBoat-Botnet/UBoat](https://github.com/UBoat-Botnet/UBoat) - HTTP Botnet
+- [kismetwireless/kismet](https://github.com/kismetwireless/kismet) - Github mirror of official Kismet repository
+- [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
+- [shinnok/netcatgui](https://github.com/shinnok/netcatgui) - NetcatGUI is a simple GUI program that is set to emulate the popular network "swiss army knife" tool netcat (nc) using an easy to use graphical user interface and cross platform availability.
+- [openwall/johnny](https://github.com/openwall/johnny) - GUI frontend to John the Ripper password cracker
+- [DeclanRussell/IntelOIDenoiser](https://github.com/DeclanRussell/IntelOIDenoiser) - A simple implementation of Intels Open Image denoiser -&gt; https://github.com/OpenImageDenoise/oidn
+- [DeclanRussell/NvidiaAIDenoiser](https://github.com/DeclanRussell/NvidiaAIDenoiser) - A simple implementation of Nvidia's AI denoiser
 
 ## CSS 
 
-- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
-- [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
-- [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
-- [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-
-## CUE 
-
-- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
-
-## Clojure 
-
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
-
-## CodeQL 
-
-- [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise
-
-## Cython 
-
-- [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
+- [arifszn/email-scraper](https://github.com/arifszn/email-scraper) - An email scraper made with Node and React.
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+- [ajinabraham/CMSScan](https://github.com/ajinabraham/CMSScan) - CMS Scanner: Scan Wordpress, Drupal, Joomla, vBulletin websites for Security issues
+- [CPH-SEC/CPH-SEC.github.io](https://github.com/CPH-SEC/CPH-SEC.github.io) - CPH:SEC - Copenhagen Ethical Hacking and Penetration Testing Society
+- [appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training!
+- [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
+- [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) - Phishing Tool & Information Collector
+- [hashview/hashview-old](https://github.com/hashview/hashview-old) - A web front-end for password cracking and analytics
+- [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of  public penetration test reports released by several consulting firms and academic security groups
 
 ## Dart 
 
-- [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
-- [vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks) - A Collection of Flutter and Dart Tips and Tricks
-- [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
-- [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
-- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
-- [abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme](https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme) - 
-- [aws-amplify/amplify-flutter](https://github.com/aws-amplify/amplify-flutter) - A declarative library with an easy-to-use interface for building Flutter applications on AWS.
-- [abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web](https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web) - We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.
-- [OpenFlutter/fluwx](https://github.com/OpenFlutter/fluwx) - Flutter版微信SDK.WeChat SDK for flutter.
-- [getsentry/sentry-mobile](https://github.com/getsentry/sentry-mobile) - Sentry Mobile App
-- [JiangJuHong/FlutterTencentImPlugin](https://github.com/JiangJuHong/FlutterTencentImPlugin) - 腾讯即时通讯(IM)，Flutter插件
-- [rongcloud/rongcloud-im-flutter-sdk](https://github.com/rongcloud/rongcloud-im-flutter-sdk) - IM Flutter SDK of RongCloud
-- [TheAlphamerc/flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in  flutter framework using Firebase realtime database and storage
-- [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
-- [erluxman/awesomefluttertips](https://github.com/erluxman/awesomefluttertips) - ❤️ Awesome Flutter Tips and Tricks  ❤️
-- [fluttercandies/wechat_flutter](https://github.com/fluttercandies/wechat_flutter) - wechat_flutter  Flutter版本微信，一个优秀的Flutter即时通讯IM开源库！
-- [peng8350/flutter_pulltorefresh](https://github.com/peng8350/flutter_pulltorefresh) - a widget provided to the flutter scroll component drop-down refresh and pull up load.
-- [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
-- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - 
+- [filiph/linkcheck](https://github.com/filiph/linkcheck) - Fast link checker
 
 ## Dockerfile 
 
+- [mining-containers/xmrig](https://github.com/mining-containers/xmrig) - An up-to-date and easy to use XMRig image for mining Monero on any Docker host including Azure ACI and AWS ECS.
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
-- [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - ReDroid (Remote-Android) is a multi-arch, GPU enabled, Android in Container solution. Track issues / docs here
-- [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
+- [aaaguirrep/offensive-docker](https://github.com/aaaguirrep/offensive-docker) - Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets.
 
-## Elixir 
+## Erlang 
 
-- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
-- [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
-- [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
+- [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability
 
 ## Go 
 
-- [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
-- [mosn/layotto](https://github.com/mosn/layotto) - A fast and efficient cloud native application runtime
-- [cloudwego/hertz](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
-- [go-mysql-org/go-mysql](https://github.com/go-mysql-org/go-mysql) - a powerful mysql toolset with Go
-- [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
-- [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-- [furiko-io/furiko](https://github.com/furiko-io/furiko) - Cloud-native, enterprise-level cron job platform for Kubernetes
-- [devstream-io/devstream](https://github.com/devstream-io/devstream) - DevStream: the open-source DevOps toolchain manager (DTM).
-- [alibaba/IOC-golang](https://github.com/alibaba/IOC-golang) - 一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection framework, helps developers to build any go application.
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
-- [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
-- [up9inc/mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
-- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
-- [clusternet/clusternet](https://github.com/clusternet/clusternet) - Managing your Kubernetes clusters (including public, private, edge, etc) as easily as visiting the Internet ⎈
-- [d4l3k/go-pry](https://github.com/d4l3k/go-pry) - An interactive REPL for Go that allows you to drop into your code at any point.
-- [labring/sealos](https://github.com/labring/sealos) - kubernetes-kernel-based cloud os! Let's sealos run kubernetes and applications.
-- [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
-- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform l
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot
-- [keyval-dev/opentelemetry-go-instrumentation](https://github.com/keyval-dev/opentelemetry-go-instrumentation) - OpenTelemetry auto-instrumentation for Go applications
-- [silenceper/wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
-- [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
-- [google/btree](https://github.com/google/btree) - BTree provides a simple, ordered, in-memory data structure for Go programs.
-- [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
-- [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
-- [bufbuild/connect-go](https://github.com/bufbuild/connect-go) - Simple, reliable, interoperable. A better gRPC.
-- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-- [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
-- [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
-- [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.
-- [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
-- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [h8r-dev/heighliner](https://github.com/h8r-dev/heighliner) - An app development platform using cloud native stacks
-- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
-- [infrahq/infra](https://github.com/infrahq/infra) - Manage infrastructure access
-- [OldSmokeGun/go-scaffold](https://github.com/OldSmokeGun/go-scaffold) - Go 开发基础脚手架
-- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
-- [golang/proposal](https://github.com/golang/proposal) - Go Project Design Documents
-- [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns
-- [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform network tool designed for developers. 一个为开发者设计的跨平台网络工具.
-- [envoyproxy/protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate) - protoc plugin to generate polyglot message validators
-- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A light weight log and data visual analytic platform  for clickhouse.
-- [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
-- [koordinator-sh/koordinator](https://github.com/koordinator-sh/koordinator) - QoS based scheduling system for hybrid orchestration workloads on Kubernetes, bringing workloads the best layout and status.
-- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
-- [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
-- [orlangure/gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
-- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
-- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-- [brokercap/Bifrost](https://github.com/brokercap/Bifrost) - Bifrost ---- 面向生产环境的 MySQL 同步到Redis,MongoDB,ClickHouse,MySQL等服务的异构中间件
-- [golang-design/go-questions](https://github.com/golang-design/go-questions) - 📖 Go 程序员面试笔试宝典 | 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions
-- [glide-im/GlideIM](https://github.com/glide-im/GlideIM) - 👀👀👀本仓库已废弃, 请转到 glide-im/glide
-- [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
-- [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-- [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
-- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [sealerio/sealer](https://github.com/sealerio/sealer) - A tool to seal application's all dependencies and Kubernetes into ClusterImage, distribute this application anywhere via ClusterImage, and run it within any cluster in one command.
-- [lifei6671/interview-go](https://github.com/lifei6671/interview-go) - golang面试题集合
-- [google/go-licenses](https://github.com/google/go-licenses) - Reports on the licenses used by a Go package and its dependencies.
-- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
-- [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
-- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
-- [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
-- [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
-- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
-- [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
-- [alibaba/open-local](https://github.com/alibaba/open-local) - cloud-native local storage management system
-- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
-- [geektutu/high-performance-go](https://github.com/geektutu/high-performance-go) - high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- [actions-runner-controller/actions-runner-controller](https://github.com/actions-runner-controller/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
-- [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
-- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
-- [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
-- [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
-- [davidschlachter/embedded-struct-visualizer](https://github.com/davidschlachter/embedded-struct-visualizer) - Tool to visualize the graph of embedded structs in Go projects
-- [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-- [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly & Safer GORM powered by Code Generation
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
-- [kubesphere/ks-devops](https://github.com/kubesphere/ks-devops) - This is a cloud-native application that focuses on the DevOps area.
-- [alibaba/open-simulator](https://github.com/alibaba/open-simulator) - K8s cluster simulator for capacity planning
-- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to production, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See o
-- [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
-- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game library for Go
-- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。
-- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
-- [google/gnostic](https://github.com/google/gnostic) - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
-- [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
-- [shipwright-io/build](https://github.com/shipwright-io/build) - Shipwright - a framework for building container images on Kubernetes
-- [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)
-- [penglongli/gin-metrics](https://github.com/penglongli/gin-metrics) - gin-gonic/gin  metrics for prometheus.
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
-- [submariner-io/submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
-- [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
-- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
-- [polarismesh/polaris](https://github.com/polarismesh/polaris) - Service Governance Center for Distributed and Microservice Architecture
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
-- [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
-- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
-- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
-- [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
-- [golang-module/carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for datetime
-- [homeport/havener](https://github.com/homeport/havener) - /ˈheɪvənə/ - Think of it as a swiss army knife for Kubernetes tasks
-- [marmotedu/iam](https://github.com/marmotedu/iam) - 企业级的 Go 语言实战项目：认证和授权系统
-- [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
-- [klintcheng/kim](https://github.com/klintcheng/kim) - King IM Cloud 分布式即时通信云IM
-- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
-- [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
-- [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [emicklei/go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go
-- [araddon/dateparse](https://github.com/araddon/dateparse) - GoLang Parse many date strings without knowing format in advance.
-- [didi/sharingan](https://github.com/didi/sharingan) - Sharingan（写轮眼）是一个基于golang的流量录制回放工具，适合项目重构、回归测试等。
-- [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
-- [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.
-- [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-- [openelb/openelb](https://github.com/openelb/openelb) - Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - An open source recommender system service written in Go
-- [livekit/livekit](https://github.com/livekit/livekit) - Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
-- [tkestack/tke](https://github.com/tkestack/tke) - Native Kubernetes container management platform supporting multi-tenant and multi-cluster
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
-- [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
-- [ossf/scorecard](https://github.com/ossf/scorecard) - Security Scorecards - Security health metrics for Open Source
-- [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!
-- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
-- [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
-- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
-- [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-- [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) - a microservice framework for rapid development of micro services in Go with rich eco-system
-- [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
-- [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
-- [argoproj-labs/argocd-notifications](https://github.com/argoproj-labs/argocd-notifications) - Notifications for Argo CD
-- [nginxinc/kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
-- [containerd/accelerated-container-image](https://github.com/containerd/accelerated-container-image) - A production-ready remote container image format base on block-device.
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
-- [fastwego/wxwork](https://github.com/fastwego/wxwork) - [企业微信] A fast wxwork development sdk written in Golang
-- [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-- [robfig/cron](https://github.com/robfig/cron) - a cron library for go
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
-- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
-- [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.
-- [brigadecore/brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
-- [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
-- [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
-- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
-- [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
-- [tidwall/redcon](https://github.com/tidwall/redcon) - Redis compatible server framework for Go
-- [golang-design/under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood
-- [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
-- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
+- [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) - An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
+- [ferreiraklet/Jeeves](https://github.com/ferreiraklet/Jeeves) - Jeeves SQLI Finder
+- [junkurihara/dnscrypt-proxy-modns](https://github.com/junkurihara/dnscrypt-proxy-modns) - Fork of dnscrypt-proxy to implement a multiple-relay-based  DNS anonymization protocol (mu-ODNS)
+- [cloudflare/odoh-client-go](https://github.com/cloudflare/odoh-client-go) - Oblivious DoH client
+- [kitabisa/mubeng](https://github.com/kitabisa/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
+- [R4yGM/dorkscout](https://github.com/R4yGM/dorkscout) - DorkScout - Golang tool to automate google dork scan against the entiere internet or specific targets
+- [americanexpress/earlybird](https://github.com/americanexpress/earlybird) - EarlyBird is a sensitive data detection tool capable of scanning source code repositories for clear text password violations, PII, outdated cryptography methods, key files and more.
+- [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engine.
+- [haydenwoodhead/burner.kiwi](https://github.com/haydenwoodhead/burner.kiwi) - No bullshit temporary mail service written in Go
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [nocalhost/nocalhost](https://github.com/nocalhost/nocalhost) - Nocalhost is Cloud Native Dev Environment.
-- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-- [cilium/ebpf](https://github.com/cilium/ebpf) - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
-- [juicedata/juicesync](https://github.com/juicedata/juicesync) - A tool to move your data between any clouds or regions.
-- [grafana/agent](https://github.com/grafana/agent) - Telemetry agent for the LGTM stack.
-- [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
-- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
-- [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
-- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
-- [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
-- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes by Team Lens
-- [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
-- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-- [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
-- [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
-- [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
-- [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
-- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [rongcloud/server-sdk-go](https://github.com/rongcloud/server-sdk-go) - RongCloud Server SDK in Go.
-- [ent/ent](https://github.com/ent/ent) - An entity framework for Go
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [VirusTotal/vt-cli](https://github.com/VirusTotal/vt-cli) - VirusTotal Command Line Interface
+- [coj337/pwndb](https://github.com/coj337/pwndb) - pwndb is a tool that looks for leaked passwords from a dark web breach database given a user or domain.
+- [glebarez/padre](https://github.com/glebarez/padre) - Blazing fast, advanced Padding Oracle exploit
+- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
+- [dwisiswant0/cf-check](https://github.com/dwisiswant0/cf-check) - CloudFlare Checker written in Go
+- [FDlucifer/Proxy-Attackchain](https://github.com/FDlucifer/Proxy-Attackchain) - proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool
+- [chrisandoryan/Minemole](https://github.com/chrisandoryan/Minemole) - A simple Cryptojacking malware made with Go and XMRig, for educational purposes only.
+- [Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.
+- [nodauf/GoMapEnum](https://github.com/nodauf/GoMapEnum) - User enumeration and password bruteforce on Azure, ADFS, OWA, O365, Teams and gather emails on Linkedin
+- [0xsha/ProxyFor](https://github.com/0xsha/ProxyFor) - Validate proxies for specific domain
+- [0xsha/CloudBrute](https://github.com/0xsha/CloudBrute) - Awesome cloud enumerator
+- [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+- [daffainfo/Key-Checker](https://github.com/daffainfo/Key-Checker) - Go scripts for checking API key / access token validity
+- [gwen001/github-regexp](https://github.com/gwen001/github-regexp) - Basically a regexp over a GitHub search.
+- [kleiton0x00/ppmap](https://github.com/kleiton0x00/ppmap) - A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets.
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microser
-- [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
-- [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013.
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Gatekeeper - Policy Controller for Kubernetes
-- [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
-- [stashed/stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications
-- [argoproj-labs/argo-workflows-catalog](https://github.com/argoproj-labs/argo-workflows-catalog) - Argo Workflows Catalog
-- [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
-- [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
-- [shuveb/containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way
-- [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
-- [googleapis/google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
-- [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
-- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minima
-- [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
-- [douyu/jupiter](https://github.com/douyu/jupiter) - Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
-- [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
-- [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
-- [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
-- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
-- [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
-- [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-- [pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
-- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-- [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven workflow automation framework
-- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
-- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
-- [weaveworks/kured](https://github.com/weaveworks/kured) - Kubernetes Reboot Daemon
-- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
-- [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
-- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
-- [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes
-- [pion/ion](https://github.com/pion/ion) - Real-Distributed  RTC System by pure Go and Flutter
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
-- [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
-- [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
-- [pingcap/tiup](https://github.com/pingcap/tiup) - A component manager for TiDB
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
-- [guonaihong/gout](https://github.com/guonaihong/gout) - gout to become the Swiss Army Knife of the http client @^^@---&gt;  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
-- [sideshow/apns2](https://github.com/sideshow/apns2) - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
-- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
-- [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
-- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
-- [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
-- [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and ot
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
-- [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
-- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL
-- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
-- [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing
-- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
-- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka.
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
-- [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-- [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
-- [alberliu/gim](https://github.com/alberliu/gim) - golang写的IM服务器(服务组件形式)
-- [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
-- [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
-- [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-- [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
-- [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
-- [GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
-- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
-- [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go
-- [openkruise/kruise](https://github.com/openkruise/kruise) - Automate application management on Kubernetes (project under CNCF)
-- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-- [bfenetworks/bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
-- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
-- [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
-- [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
-- [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-- [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
-- [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
-- [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
-- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
-- [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
-- [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
-- [ksync/ksync](https://github.com/ksync/ksync) - Sync files between your local system and a kubernetes cluster.
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
-- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
-- [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
-- [kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) - Static provisioner of local volumes
-- [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructi
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [rancher/rke](https://github.com/rancher/rke) - Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
-- [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
-- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-- [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
-- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
-- [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
-- [xuperchain/xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
-- [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-- [kyma-project/kyma](https://github.com/kyma-project/kyma) - A flexible and easy way to connect and extend enterprise applications in a cloud-native world
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
-- [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
-- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
-- [google/mtail](https://github.com/google/mtail) - extract internal monitoring data from application logs for collection in a timeseries database
-- [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
-- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [google/trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
-- [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
-- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
-- [blang/semver](https://github.com/blang/semver) - Semantic Versioning (semver) library written in golang
-- [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-- [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
-- [aQuaYi/LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go) - Go Solution for LeetCode algorithms problems, 100% coverage.
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
-- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
-- [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
-- [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
-- [containerd/cgroups](https://github.com/containerd/cgroups) - cgroups package for Go
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
-- [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
-- [kubecost/opencost](https://github.com/kubecost/opencost) - Cross-cloud cost allocation models for Kubernetes workloads
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
-- [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
-- [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
-- [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
-- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
-- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-- [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
-- [smallnest/1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) - benchmarks for implementation of servers which support 1 million connections
-- [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
-- [yeasy/blockchain_guide](https://github.com/yeasy/blockchain_guide) - Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
-- [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
-- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [bxcodec/faker](https://github.com/bxcodec/faker) - Go (Golang)  Fake Data  Generator for Struct
-- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
-- [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use 
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
-- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
-- [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
-- [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system.
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
-- [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
-- [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
-- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
-- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
-- [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
-- [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
-- [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
-- [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
-- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security 
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
-- [tidwall/buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
-- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
-- [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
-- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
-- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
-- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
-- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
-- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
-- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
-- [google/jsonapi](https://github.com/google/jsonapi) - jsonapi.org style payload serializer and deserializer
-- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
-- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
-- [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
-- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
-- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-- [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
-- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
-- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
-- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [lib/pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
-- [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
-- [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
-- [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
-- [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-- [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
-- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
-- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-- [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-- [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
-- [golang/go](https://github.com/golang/go) - The Go programming language
+- [signedsecurity/sigurlfind3r](https://github.com/signedsecurity/sigurlfind3r) - A passive reconnaissance tool for known URLs discovery - it gathers a list of URLs passively using various online sources.
+- [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+- [projectdiscovery/cloudlist](https://github.com/projectdiscovery/cloudlist) - Cloudlist is a tool for listing Assets from multiple Cloud Providers.
+- [h4x0r-dz/CVE-2021-26855](https://github.com/h4x0r-dz/CVE-2021-26855) - 
+- [dwisiswant0/proxylogscan](https://github.com/dwisiswant0/proxylogscan) - A fast tool to mass scan for a vulnerability on Microsoft Exchange Server that allows an attacker bypassing the authentication and impersonating as the admin (CVE-2021-26855).
+- [mdsecactivebreach/o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit) - A toolkit to attack Office365
+- [alexandr-gnrk/Hash-cracker](https://github.com/alexandr-gnrk/Hash-cracker) - Brute force program for SHA1, SHA256, SHA512 and MD5.
+- [cckuailong/HackChrome](https://github.com/cckuailong/HackChrome) - :snowman: Get the User:Password from Chrome(include version &lt; 80 and version &gt; 80)
+- [assetnote/kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
+- [cyberark/kubesploit](https://github.com/cyberark/kubesploit) - Kubesploit is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in Golang, focused on containerized environments.
+- [solipsis/walletRecover](https://github.com/solipsis/walletRecover) - Tool to recover legacy blockchain.info wallets
+- [M4DM0e/DirDar](https://github.com/M4DM0e/DirDar) - DirDar is a tool that searches for (403-Forbidden) directories to break it and get dir listing on it
+- [BishopFox/smogcloud](https://github.com/BishopFox/smogcloud) - Find cloud assets that no one wants exposed 🔎 ☁️
+- [Narasimha1997/fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
+- [aahmad097/Tritium](https://github.com/aahmad097/Tritium) - Password Spraying Framework
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+- [storyicon/golang-proxy](https://github.com/storyicon/golang-proxy) - Golang version of proxy mining tool with evaluation system
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+- [ngirot/BruteForce](https://github.com/ngirot/BruteForce) - A simple brute forcer written in GO for SHA1, SHA256, SHA512, MD5 and bcrypt
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+- [yashpl/mongoBuster](https://github.com/yashpl/mongoBuster) - Hunt Open MongoDB instances
+- [terorie/od-database-crawler](https://github.com/terorie/od-database-crawler) - OD-Database Go crawler
+- [stellar/go](https://github.com/stellar/go) - Stellar's public monorepo of go code
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
+- [dwisiswant0/go-dork](https://github.com/dwisiswant0/go-dork) - The fastest dork scanner written in Go.
+- [ropnop/kerbrute](https://github.com/ropnop/kerbrute) - A tool to perform Kerberos pre-auth bruteforcing
+- [gocrawler/bingbot](https://github.com/gocrawler/bingbot) - A crawler that crawls search engine! 😎 Usable for collecting site with dorks and wildcards. Also provides output in web interface with more than 3 API endpoints!
+- [N0MoreSecr3ts/wraith](https://github.com/N0MoreSecr3ts/wraith) - Uncover forgotten secrets and bring them back to life, haunting security and operations teams.
+- [avineshwar/slurp](https://github.com/avineshwar/slurp) - S3 bucket enumerator
+- [OWASP/Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
+- [caffix/amass](https://github.com/caffix/amass) - In-depth Attack Surface Mapping and Asset Discovery
+- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 DalFox is an powerful open source XSS scanning tool and parameter analyzer, utility
+- [stefanoj3/dirstalk](https://github.com/stefanoj3/dirstalk) - Modern alternative to dirbuster/dirb
+- [Ullaakut/camerattack](https://github.com/Ullaakut/camerattack) - An attack tool designed to remotely disable CCTV camera streams (like in spy movies)
+- [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
+- [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
+- [evilsocket/xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
+- [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
+- [jaeles-project/gospider](https://github.com/jaeles-project/gospider) - Gospider - Fast web spider written in Go
+- [tismayil/ohmybackup](https://github.com/tismayil/ohmybackup) - Scan Victim Backup Directories & Backup Files
+- [sundowndev/dorkgen](https://github.com/sundowndev/dorkgen) - Type-safe dork queries for search engines such as Google, Yahoo, DuckDuckGo & Bing
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+- [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+- [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
+- [Nhoya/gOSINT](https://github.com/Nhoya/gOSINT) - OSINT Swiss Army Knife
+- [apilayer/freegeoip](https://github.com/apilayer/freegeoip) - IP geolocation web server
+- [sundowndev/phoneinfoga-google-driver](https://github.com/sundowndev/phoneinfoga-google-driver) - WIP - Chromium plugin for PhoneInfoga's Google Search scanner
+- [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+- [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
+- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [BishopFox/dufflebag](https://github.com/BishopFox/dufflebag) - Search exposed EBS volumes for secrets
+- [trandoshan-io/crawler](https://github.com/trandoshan-io/crawler) - Go process used to crawl websites
+- [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
+- [averagesecurityguy/scrape](https://github.com/averagesecurityguy/scrape) - Extensible paste site scraper written in Golang.
+- [firefart/pastebin_scraper](https://github.com/firefart/pastebin_scraper) - golang program to parse Pastebin for keywords and send them per E-Mail
+- [tillson/git-hound](https://github.com/tillson/git-hound) - Reconnaissance tool for GitHub code search. Finds exposed API keys using pattern matching, commit history searching, and a unique result scoring system.
+- [techjacker/repo-security-scanner](https://github.com/techjacker/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
+- [drk1wi/Modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy.
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
+- [notdodo/pastego](https://github.com/notdodo/pastego) - Scrape/Parse Pastebin using GO and expression grammar (PEG)
+- [j3ssie/metabigor](https://github.com/j3ssie/metabigor) - Intelligence tool but without API key
+- [pritunl/pritunl-client-electron](https://github.com/pritunl/pritunl-client-electron) - Pritunl OpenVPN client
+- [graniet/operative-framework](https://github.com/graniet/operative-framework) - operative framework is a investigation OSINT framework, you can interact with multiple targets, execute multiple modules, create links with target, export rapport to PDF file, add note to target or re
+- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
 
 ## HTML 
 
-- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
-- [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
-- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
-- [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中文翻译版本
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
-- [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
-- [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
-- [seasonZhu/SwiftUI-WeChat](https://github.com/seasonZhu/SwiftUI-WeChat) - 一个微信SwiftUI编写,在原作者的基础上面修改学习
-- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [laalaguer/ethereum-compass](https://github.com/laalaguer/ethereum-compass) - 《以太坊的指南针》 一本写给普通人看的以太坊区块链技术书。A Book of Ethereum in Chinese.
-- [rootsongjc/eng-practices](https://github.com/rootsongjc/eng-practices) - 谷歌工程实践文档 - https://jimmysong.io/eng-practices
-- [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
-- [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
-- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
-- [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
+- [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
+- [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
+- [zzzteph/weakpass](https://github.com/zzzteph/weakpass) - Weakpass rule-based online generator to create a wordlist based on a set of words entered by the user.
+- [cipher387/cipher387.github.io](https://github.com/cipher387/cipher387.github.io) - Repo for site with links to my projects
+- [woj-ciech/intelx_viz](https://github.com/woj-ciech/intelx_viz) - Collect information about leaks for particular domain in IntelX and present it on a tree view graph.
+- [spcau/godiff](https://github.com/spcau/godiff) - Utility to compare files/directories with output in html. (like unix diff command)
+- [diveshlunker/Brute-Force-Passwords](https://github.com/diveshlunker/Brute-Force-Passwords) - Generate list of all possible passwords of your desired size and with desired starting alphabet. Link for the website:-
+- [braimee/bpatty](https://github.com/braimee/bpatty) - Brian's Pentesting and Technical Tips for You
+- [allo-/firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) - Tool to create firefox profiles with good defaults.
+- [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With Python
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
+- [3ndG4me/KaliLists](https://github.com/3ndG4me/KaliLists) - Repo of all the default wordlists included in Kali. Convienent if you're using something other than Kali.
+- [SamJoan/droopescan](https://github.com/SamJoan/droopescan) - A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal & Silverstripe.
+- [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
+- [brainwallet/brainwallet.github.io](https://github.com/brainwallet/brainwallet.github.io) - Brainwallet site
+- [ustayready/CredSniper](https://github.com/ustayready/CredSniper) - CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
+- [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
+- [0xiNach/Web-Scraping-Machine-Learning](https://github.com/0xiNach/Web-Scraping-Machine-Learning) - Hackmageddon
+- [Securityautomation/DumpTheGit](https://github.com/Securityautomation/DumpTheGit) - DumpTheGit searches through public repositories to find sensitive information uploaded to the Github repositories.
+- [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
+- [ArchiveTeam/wpull](https://github.com/ArchiveTeam/wpull) - Wget-compatible web downloader and crawler.
 
-## Haskell 
+## Hack 
 
-- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
-- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-- [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
-- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-
-## Haxe 
-
-- [HeapsIO/heaps](https://github.com/HeapsIO/heaps) - Heaps : Haxe Game Framework
+- [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
+- [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 
 ## Java 
 
-- [apache/hop](https://github.com/apache/hop) - Hop Orchestration Platform
-- [ZhongFuCheng3y/austin](https://github.com/ZhongFuCheng3y/austin) - 消息推送平台:pencil: 推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。所使用的技术栈包括：SpringBoot、SpringDataJPA、MySQL、Docker、docker-compose、Kafka、Redis、Apollo、prometheus、Grafana、GrayLog、Flink、Xxl-job、Echarts等等
-- [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
-- [phodal/migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
-- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
-- [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
-- [pravega/pravega](https://github.com/pravega/pravega) - Pravega - Streaming as a new software defined storage primitive
-- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
-- [didi/LogiKM](https://github.com/didi/LogiKM) - 一站式Apache Kafka集群指标监控与运维管控平台
-- [apache/druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
-- [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
-- [didi/DoKit](https://github.com/didi/DoKit) - 一款面向泛前端产品研发全生命周期的效率平台。
-- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
-- [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-- [xaecbd/KCenter](https://github.com/xaecbd/KCenter) - KCenter(KafkaCenter) is a unified  platform for kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components(ksql/kafka connect).it's kafkacenter(kafka ce
-- [zhisheng17/flink-learning](https://github.com/zhisheng17/flink-learning) - flink learning blog. http://www.54tianzhisheng.cn/  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、
-- [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
-- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-- [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming data processing.
-- [apache/flink](https://github.com/apache/flink) - Apache Flink
-- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
-- [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
-- [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [guardianproject/orbot](https://github.com/guardianproject/orbot) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
+- [mayflower/agcod-java-client](https://github.com/mayflower/agcod-java-client) - Unofficial AGCOD (Amazon Gift Card On Demand) Client for Java
+- [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) - IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by p
+- [1n7erface/PocList](https://github.com/1n7erface/PocList) - Alibaba-Nacos-Unauthorized/ApacheDruid-RCE_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-G
+- [anoop2677/PaySafeCardAPI](https://github.com/anoop2677/PaySafeCardAPI) - 
+- [faiqsohail/ProxyChecker](https://github.com/faiqsohail/ProxyChecker) - An easy to use open-source, multithreaded Proxy Checker. Allows you to quickly check HTTP and SOCKS proxies in a user friendly GUI, for Windows, Mac OS, Linux.
+- [whatwebgui/WhatWebGUI](https://github.com/whatwebgui/WhatWebGUI) - WhatWebGUI is a cross-platform compatible Java-based application for Windows 10, Mac OSX and Linux which implements the front end of the popular web scanning tool WhatWeb, the next generation web scan
+- [PreferredAI/venom](https://github.com/PreferredAI/venom) - Your preferred open source focused crawler for the deep web.
+- [stripe-archive/accept-a-card-payment](https://github.com/stripe-archive/accept-a-card-payment) - Learn how to accept a basic card payment on web, iOS, Android
+- [ron190/jsql-injection](https://github.com/ron190/jsql-injection) - jSQL Injection is a Java application for automatic SQL database injection.
+- [tonikelope/megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
+- [codelibs/elasticsearch-dataformat](https://github.com/codelibs/elasticsearch-dataformat) - Excel/CSV/BulkJSON downloads on Elasticsearch.
+- [summitt/Burp-Non-HTTP-Extension](https://github.com/summitt/Burp-Non-HTTP-Extension) - Non-HTTP Protocol Extension (NoPE) Proxy and DNS for Burp Suite.
+- [PortSwigger/http-request-smuggler](https://github.com/PortSwigger/http-request-smuggler) - 
+- [PortSwigger/wordlist-extractor](https://github.com/PortSwigger/wordlist-extractor) - 
+- [nccgroup/BurpSuiteHTTPSmuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler) - A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques
+- [P3GLEG/PwnBack](https://github.com/P3GLEG/PwnBack) - Burp Extender plugin that generates a sitemap of a website using Wayback Machine
+- [fivesmallq/web-data-extractor](https://github.com/fivesmallq/web-data-extractor) - Extracting  and parsing structured data with jQuery Selector, XPath or JsonPath from common web format like HTML, XML and JSON.
+- [angryip/ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
+- [imperva/automatic-api-attack-tool](https://github.com/imperva/automatic-api-attack-tool) - Imperva's customizable API attack tool takes an API specification as an input, generates and runs attacks that are based on it as an output.
+- [NaveenRudra/RTTM](https://github.com/NaveenRudra/RTTM) - Real Time Threat Monitoring Tool
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
 
 ## JavaScript 
 
-- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [maierj/fastlane-action](https://github.com/maierj/fastlane-action) - A GitHub action for executing fastlane lanes.
-- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
-- [TeaOSLab/EdgeAdmin](https://github.com/TeaOSLab/EdgeAdmin) - CDN & WAF集群管理系统。
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-- [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-- [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
-- [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
-- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
-- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
-- [headllines/github-daily](https://github.com/headllines/github-daily) - GitHub daily top 10 repos
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
-- [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-- [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
-- [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
-- [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
-- [a-wing/webrtc-book-cn](https://github.com/a-wing/webrtc-book-cn) - 中文翻译 《 Real-Time Communication with WebRTC 》
-- [muaz-khan/WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
-- [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
-- [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
-- [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
-- [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2022)
-- [appium/appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
-- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-- [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
-- [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-- [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
-- [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
-- [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
-- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+- [hakluke/weaponised-XSS-payloads](https://github.com/hakluke/weaponised-XSS-payloads) - XSS payloads designed to turn alert(1) into P1
+- [s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff
+- [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
+- [james-proxy/james](https://github.com/james-proxy/james) - Web Debugging Proxy Application
+- [skevy/graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
+- [dsheiko/puppetry](https://github.com/dsheiko/puppetry) - Web testing solution for non-developers on top of Puppeteer and Jest
+- [unixfox/pupflare](https://github.com/unixfox/pupflare) - A webpage proxy that request through Chromium (puppeteer) - can be used to bypass Cloudflare anti bot / anti ddos on any application (like curl)
+- [samc621/SneakerBot](https://github.com/samc621/SneakerBot) - All-in-one bot, with auto captcha-solving and proxy management, using Node.js and Puppeteer.
+- [transitive-bullshit/puppeteer-render-text](https://github.com/transitive-bullshit/puppeteer-render-text) - Robust text renderer using headless chrome.
+- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
+- [Smartproxy/Puppeteer](https://github.com/Smartproxy/Puppeteer) - Puppeteer proxy authentication example for Smartproxy
+- [jancurn/actor-residential-proxy-probe](https://github.com/jancurn/actor-residential-proxy-probe) - Probes Apify residential proxies and maintains a pool of proxies from specific ZIP codes or DMAs
+- [kameleo-io/local-api-examples](https://github.com/kameleo-io/local-api-examples) - Useful and easy to understand examples written in Node.js and .NET Core about web scraping and automated browsing with Kameleo Client
+- [nswbmw/puppeteer-extra-plugin-proxy2](https://github.com/nswbmw/puppeteer-extra-plugin-proxy2) - Add proxy for puppeteer `page`, support `http`, `https`, `socks`. Based on puppeteer-page-proxy.
+- [f9mac/puppeteer-extra-plugin-proxy](https://github.com/f9mac/puppeteer-extra-plugin-proxy) - A plugin for puppeteer-extra to add proxy support
+- [MeiK2333/pyppeteer_stealth](https://github.com/MeiK2333/pyppeteer_stealth) - 
+- [tholian-network/stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
+- [fabienvauchelles/scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Scrapoxy hides your scraper behind a cloud. It starts a pool of proxies to send your requests. Now, you can crawl without thinking about blacklisting!
+- [kkoooqq/fakebrowser](https://github.com/kkoooqq/fakebrowser) - 🤖 Fake fingerprints to bypass anti-bot systems. Simulate mouse and keyboard operations to make behavior like a real person.
+- [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
+- [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
+- [arantius/resurrect-pages](https://github.com/arantius/resurrect-pages) - A tool to expose cached copies of webpages, especially when they are unavailable.
+- [c6fc/warcannon](https://github.com/c6fc/warcannon) - High speed/Low cost CommonCrawl RegExp in Node.js
+- [Michal2SAB/Hash-Dehasher](https://github.com/Michal2SAB/Hash-Dehasher) - A program to find the real string for your hash. MD5, SHA256, any really. Works really fast, gets to the "aaaa" combo in about 1 second even on a bad and busy pc.
+- [Michal2SAB/Bitcoin-Stealer](https://github.com/Michal2SAB/Bitcoin-Stealer) - Generate random bitcoin wallets, private keys (seeds) and then check if they match a wallet that contains some kind of balance, and then take it. Node.js
+- [yeswehack/PwnFox](https://github.com/yeswehack/PwnFox) - PwnFox is a Firefox/Burp extension that provide usefull tools for your security audit.
+- [zelsaddr/AutoCreateMS365Edu](https://github.com/zelsaddr/AutoCreateMS365Edu) - Auto Create Microsoft Office 365 Edu Plan Account
+- [insectman/ig-hashtags](https://github.com/insectman/ig-hashtags) - 
+- [trufflesecurity/Trufflehog-Chrome-Extension](https://github.com/trufflesecurity/Trufflehog-Chrome-Extension) - 
+- [MlkMahmud/giftpal-reloadlyXflutterwave](https://github.com/MlkMahmud/giftpal-reloadlyXflutterwave) - ReloadlyXFlutterwave Hackathon Project
+- [kevgk/OD-Search](https://github.com/kevgk/OD-Search) - Web-Extension that builds search queries to find files on the internet.
+- [I2rys/Safier](https://github.com/I2rys/Safier) - Example of a simple Multi services accounts checker with configs writen in NodeJS.
+- [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans
+- [martinsbalodis/web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension) - Web data extraction tool implemented as chrome extension
+- [hakanonymos/paypal_integration_carding](https://github.com/hakanonymos/paypal_integration_carding) - paypal pro integration for carding I am not responsible for your actions
+- [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
+- [r4j0x00/exploits](https://github.com/r4j0x00/exploits) - 
+- [sayyedhanif/hanif_test](https://github.com/sayyedhanif/hanif_test) - 
+- [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback.
+- [anoop2677/paysafeUI](https://github.com/anoop2677/paysafeUI) - 
+- [jaebradley/github-personal-access-token-generator-cli](https://github.com/jaebradley/github-personal-access-token-generator-cli) - Create GitHub Personal Access Tokens from the Terminal
+- [uiowa-irl/FP-Inspector](https://github.com/uiowa-irl/FP-Inspector) - Artifact release for our IEEE Symposium on Security and Privacy 2021 paper entitled Fingerprinting the Fingerprinters: Learning to Detect Browser Fingerprinting Behaviors
+- [woj-ciech/LeakLooker-X](https://github.com/woj-ciech/LeakLooker-X) - LeakLooker GUI - Discover, browse and monitor database/source code leaks
+- [ElasticHQ/elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
+- [transitive-bullshit/sms-number-verifier](https://github.com/transitive-bullshit/sms-number-verifier) - Allows you to spoof SMS number verification.
+- [transitive-bullshit/getsmscode](https://github.com/transitive-bullshit/getsmscode) - API client for getsmscode.com
+- [csrednicki/nordvpn-server-list](https://github.com/csrednicki/nordvpn-server-list) - Get list of all NordVPN active servers
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
+- [chile-sh/vpn-proxy](https://github.com/chile-sh/vpn-proxy) - 💻 Automatic proxy switching using VPNs (cheap Luminati alternative)
+- [luminati-io/luminati-proxy](https://github.com/luminati-io/luminati-proxy) - Luminati HTTP/HTTPS Proxy manager
+- [foytak/Archive](https://github.com/foytak/Archive) - 
+- [sunny9577/proxy-scraper](https://github.com/sunny9577/proxy-scraper) - ⭐️ A proxy scraper made using Protractor | Proxy list Updates every three hour 🔥
+- [petercunha/Knock](https://github.com/petercunha/Knock) - :key: Scan the entire internet for SSH and Telnet services. Then hack them.
+- [ChrisAntaki/disable-webrtc-firefox](https://github.com/ChrisAntaki/disable-webrtc-firefox) - :lock: WebRTC leaks your actual IP addresses from behind your VPN, by default.
+- [VoidSec/WebRTC-Leak](https://github.com/VoidSec/WebRTC-Leak) - Check if your VPN leaks your IP address via the WebRTC technology
+- [mindedsecurity/behave](https://github.com/mindedsecurity/behave) - Behave! A monitoring browser extension for pages acting as "bad boi"
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
+- [Sameer711/bitcoin-bruteforce-decrypt](https://github.com/Sameer711/bitcoin-bruteforce-decrypt) - A bitcoin wallet brute force cracker using node.js
+- [chill117/proxy-lists](https://github.com/chill117/proxy-lists) - Node.js module and CLI tool to get proxies from publicly available proxy lists.
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [miguelmota/s3scanner](https://github.com/miguelmota/s3scanner) - Scan for open public S3 buckets
+- [FlatL1neAPT/LeakLooker-X](https://github.com/FlatL1neAPT/LeakLooker-X) - LeakLooker GUI - Discover, browse and monitor database/source code leaks
+- [s77rt/hashcat.launcher](https://github.com/s77rt/hashcat.launcher) - hashcat.launcher is a cross-platform app that run and control hashcat
+- [gwen001/github-search](https://github.com/gwen001/github-search) - Tools to perform basic search on GitHub.
+- [thdoan/autofill-firefox](https://github.com/thdoan/autofill-firefox) - Autofill is a small but powerful add-on for Mozilla Firefox that serves one purpose: fill form fields automatically on page load. It is for people who just want a straightforward form filler without a
+- [JimmyLaurent/cloudflare-scraper](https://github.com/JimmyLaurent/cloudflare-scraper) - A package to bypass Cloudflare's protection
+- [cloudant/couchbackup](https://github.com/cloudant/couchbackup) - Cloudant backup and restore library and command-line utility
+- [lmenezes/cerebro](https://github.com/lmenezes/cerebro) - 
+- [risk3sixty/geoapi](https://github.com/risk3sixty/geoapi) - Lightweight API service to get geolocation data from IP addresses.
+- [sunjw/jstoolnpp](https://github.com/sunjw/jstoolnpp) - A JavaScript (JSON) tool for Notepad++ (formerly JSMinNpp) and Visual Studio Code.
+- [megaboich/js-map-parser](https://github.com/megaboich/js-map-parser) - Extension for Visual Studio to improve JS support
+- [AlecBlance/S3BucketList](https://github.com/AlecBlance/S3BucketList) - Firefox plugin that lists Amazon S3 Buckets found in requests
+- [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
+- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
+- [USSCltd/dorks](https://github.com/USSCltd/dorks) - google hack database automation tool
 - [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch
-- [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
-- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
-- [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts
-- [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
-- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
-- [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
-- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
-- [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
-- [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready com
-- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
-- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-- [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
-- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
-- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-- [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
-
-## Jinja 
-
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-- [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
-
-## Jsonnet 
-
-- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
+- [mallocator/Elasticsearch-Exporter](https://github.com/mallocator/Elasticsearch-Exporter) - A small script to export data from one Elasticsearch cluster into another.
+- [Coalfire-Research/npk](https://github.com/Coalfire-Research/npk) - A mostly-serverless distributed hash cracking platform
+- [dachinzo/dachinzo.github.io](https://github.com/dachinzo/dachinzo.github.io) - 
+- [iancoleman/bip39](https://github.com/iancoleman/bip39) - A web tool for converting BIP39 mnemonic codes
+- [0x0FB0/pulsar](https://github.com/0x0FB0/pulsar) - Network footprint scanner platform. Discover domains and run your custom checks periodically.
+- [k4m4/dcipher](https://github.com/k4m4/dcipher) - Decipher hashes using online rainbow & lookup table attack services.
+- [k4m4/dcipher-cli](https://github.com/k4m4/dcipher-cli) - 🔓Crack hashes using online rainbow & lookup table attack services, right from your terminal.
+- [lreiner/Whatsapp-Message-Spammer](https://github.com/lreiner/Whatsapp-Message-Spammer) - This Script spams as many Messages as you want in a Chat. Tampermonkey Executable to inject Extensions to Whatsapp Web. Free to use for everyone. 📩
+- [kolonist/bscoords](https://github.com/kolonist/bscoords) - Get location based on (MCC, MNC, LAC, CellID) using Google, Yandex, OpenCellID and Mozilla Location Service
+- [kolonist/wifi_location](https://github.com/kolonist/wifi_location) - Get location based on WI-Fi access point BSSID using Mylnikov Geo and Wigle.net
+- [NORMA-Inc/AtEar](https://github.com/NORMA-Inc/AtEar) - Wireless Hacking, WiFi Security, Vulnerability Analyzer, Pentestration
+- [apify/apify-js](https://github.com/apify/apify-js) - Apify SDK — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
+- [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
+- [ETCExtensions/Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies
+- [varchashva/LetsMapYourNetwork](https://github.com/varchashva/LetsMapYourNetwork) - Lets Map Your Network enables you to visualise your physical network in form of graph with zero manual error
+- [simonepri/upash](https://github.com/simonepri/upash) - 🔒Unified API for password hashing algorithms
+- [Sainan/Universal-Bypass](https://github.com/Sainan/Universal-Bypass) - Don't waste your time with compliance. Universal Bypass circumvents annoying link shorteners.
+- [brannondorsey/ProbeKit](https://github.com/brannondorsey/ProbeKit) - SSID Probe Request Collection Workshop
+- [samyk/poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
+- [pownjs/proxy](https://github.com/pownjs/proxy) - Pown Proxy is a versatile web application security testing proxy with cool TUI features.
+- [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
+- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
+- [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable
+- [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
+- [shadow-workers/shadow-workers](https://github.com/shadow-workers/shadow-workers) - Shadow Workers is a free and open source C2 and proxy designed for penetration testers to help in the exploitation of XSS and malicious Service Workers (SW)
+- [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
+- [website-scraper/node-website-scraper](https://github.com/website-scraper/node-website-scraper) - Download website to local directory (including all css, images, js, etc.)
+- [WebMemex/webmemex-extension](https://github.com/WebMemex/webmemex-extension) - 📇 Your digital memory extension, as a browser extension
+- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
+- [freakdesign/shopifyFD](https://github.com/freakdesign/shopifyFD) - JavaScript layer to provide additional functionality and fixes to the Shopify dashboard
 
 ## Jupyter Notebook 
 
-- [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-- [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-- [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
-- [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
-- [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
-- [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
-- [google-research/google-research](https://github.com/google-research/google-research) - Google Research
-- [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-- [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + 算法题 + 八股文 + 源码分析
-- [intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
-- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Building Large-Scale AI Applications for Distributed Big Data
-- [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
-- [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
+- [x4nth055/pythoncode-tutorials](https://github.com/x4nth055/pythoncode-tutorials) - The Python Code Tutorials
 
 ## Kotlin 
 
-- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提
-- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
-- [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
+- [CyanCoding/Brute-Force-Password-Cracker](https://github.com/CyanCoding/Brute-Force-Password-Cracker) - A brute force attacker with packages for development in Python 3, Kotlin, C#, Go, Vala, and C++.
 
 ## Lua 
 
-- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
-- [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [scipag/vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
+- [OCSAF/freevulnsearch](https://github.com/OCSAF/freevulnsearch) - Free and open NMAP NSE script to query vulnerabilities via the cve-search.org API.
+- [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
 
 ## Makefile 
 
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway
-- [serverlessworkflow/specification](https://github.com/serverlessworkflow/specification) - Serverless Workflow Specification
-- [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-
-## Markdown 
-
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
-- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-
-## Mustache 
-
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
-
-## OCaml 
-
-- [janestreet/magic-trace](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
+- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 
 ## Objective-C 
 
-- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
-- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-- [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
-- [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
-- [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
+- [macmade/FileVaultCracker](https://github.com/macmade/FileVaultCracker) - macOS FileVault cracking tool
+- [macmade/KeychainCracker](https://github.com/macmade/KeychainCracker) - macOS keychain cracking tool
+- [neoneggplant/EggShell](https://github.com/neoneggplant/EggShell) - iOS/macOS/Linux Remote Administration Tool
 
 ## Others 
 
-- [open-joinbase/JoinBase](https://github.com/open-joinbase/JoinBase) - JoinBase Community
-- [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
-- [goto-archived/HumanSystemOptimization](https://github.com/goto-archived/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
-- [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
-- [shockerli/go-awesome](https://github.com/shockerli/go-awesome) - Go 语言优秀资源整理，为项目落地加速🏃
-- [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
-- [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
-- [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
-- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
-- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
-- [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases
-- [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-- [apple-oss-distributions/distribution-Developer_Tools](https://github.com/apple-oss-distributions/distribution-Developer_Tools) - 
-- [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
-- [Tencent/tdesign](https://github.com/Tencent/tdesign) - Enterprise Design System
-- [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
-- [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
-- [weartist/computer-book-list](https://github.com/weartist/computer-book-list) - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单
-- [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
-- [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
-- [taowen/modularization-examples](https://github.com/taowen/modularization-examples) - 代码防腐实用技术
-- [DocsHome/nginx-docs](https://github.com/DocsHome/nginx-docs) - Nginx 中文文档. Chinese translation of Nginx documentation.
-- [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
-- [0voice/campus_recruitmen_questions](https://github.com/0voice/campus_recruitmen_questions) - 2021年最新整理，5000道秋招/提前批/春招/常用面试题（含答案），包括leetcode，校招笔试题，面试题，算法题，语法题。
-- [resumejob/algorithm101](https://github.com/resumejob/algorithm101) - Algorithm, 算法基础
-- [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-- [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - 
-- [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
-- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
-- [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
-- [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
-- [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
-- [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-- [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
-- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
-- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-- [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
-- [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
-- [cdoco/common-regex](https://github.com/cdoco/common-regex) - :jack_o_lantern: 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。
-- [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
-- [aceld/golang](https://github.com/aceld/golang) - 《Golang修养之路》本书针对Golang专题性热门技术深入理解，修养在Golang领域深入话题，脱胎换骨。
-- [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
-- [wangdoc/ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
-- [Ethan-yt/guwenbert](https://github.com/Ethan-yt/guwenbert) - GuwenBERT: 古文预训练语言模型（古文BERT）  A Pre-trained Language Model for Classical Chinese (Literary Chinese)
-- [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [resumejob/interview-questions](https://github.com/resumejob/interview-questions) - Interview Questions for Google, Amazon, Apple, etc. 根据超过 2000 篇真实面经整理的腾讯，阿里，字节跳动，Shopee，美团，滴滴高频面试题
-- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-- [MysteryVaibhav/leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) - This is a repository containing the list of company wise questions available on leetcode premium
-- [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
-- [Tarikul711/flutter-development-roadmap](https://github.com/Tarikul711/flutter-development-roadmap) - Flutter App Developer Roadmap - A complete roadmap to learn Flutter App Development. I tried to learn flutter using this roadmap. If you want to add something please contribute to the project. Happy L
-- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
-- [londonappbrewery/Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
-- [caicloud/mlsys-ladder](https://github.com/caicloud/mlsys-ladder) - Learning Machine Learning, The Chinese Taoist Way
-- [amosgyamfi/swiftui-animation-library](https://github.com/amosgyamfi/swiftui-animation-library) - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS app
-- [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-- [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
-- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-- [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
-- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
-- [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
-- [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
-- [cncf/wg-serverless](https://github.com/cncf/wg-serverless) - CNCF Serverless WG
-- [Tim9Liu9/TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - iOS开发常用三方库、插件、知名博客等等
-- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
-- [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
-- [tylerha97/awesome-reversing](https://github.com/tylerha97/awesome-reversing) - A curated list of awesome reversing resources
-- [tidb-incubator/tidb-in-action](https://github.com/tidb-incubator/tidb-in-action) - TiDB In Action: based on 4.0
-- [alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)
-- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
+- [h3110w0r1d-y/BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen) - Burp Suite Pro Loader & Keygen ( All version supported )
+- [daffainfo/all-about-apikey](https://github.com/daffainfo/all-about-apikey) - Detailed information about API key / OAuth token (Description, Request, Response, Regex, Example)
+- [CorrieOnly/google-dorks](https://github.com/CorrieOnly/google-dorks) - 
+- [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
+- [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
+- [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
+- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
+- [hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
+- [Zusyaku/Database-Leak](https://github.com/Zusyaku/Database-Leak) - Kumpulan Database Yang Berhasil Dibobol Oleh Hacker Dan Disebar Kepublik
+- [iamavu/personal-security-checklist](https://github.com/iamavu/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
+- [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
+- [dragonfruitnetwork/onionfruit](https://github.com/dragonfruitnetwork/onionfruit) - OnionFruit™ Connect - Tor access client with country selection, bridge configuration, pluggable transports and experimental DNS support
+- [grayphi/dorks](https://github.com/grayphi/dorks) - google dorks
+- [snyk-labs/awesome-log4shell](https://github.com/snyk-labs/awesome-log4shell) - An Awesome List of Log4Shell resources to help you stay informed and secure! 🔒
+- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
+- [arturoherrero/command-line-one-liners](https://github.com/arturoherrero/command-line-one-liners) - Command line one-liners.
+- [dwisiswant0/awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty tips.
+- [Ignitetechnologies/Command-Control](https://github.com/Ignitetechnologies/Command-Control) - This cheasheet is aimed at the Red Teamers to help them find diffent tools and methods to create a Commmand and Control Server and exploit remote session.
+- [six2dez/pentest-book](https://github.com/six2dez/pentest-book) - 
+- [insidetrust/statistically-likely-usernames](https://github.com/insidetrust/statistically-likely-usernames) - Wordlists for creating statistically likely username lists for use in password attacks and security testing
+- [s0md3v/be-a-hacker](https://github.com/s0md3v/be-a-hacker) - roadmap for being a self-taught hacker
+- [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - OSINT Tools for the Dark Web
+- [snoopysecurity/awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - A curated list of amazingly awesome Burp Extensions
+- [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
+- [AngelSecurityTeam/SQLiDumper-AngelSecurityTeam](https://github.com/AngelSecurityTeam/SQLiDumper-AngelSecurityTeam) - Dork Search ,  Vulnerability Scanner ,SQL Injection , XSS , LFI ,RFI
+- [HoangKien1020/Joomla-SQLinjection](https://github.com/HoangKien1020/Joomla-SQLinjection) - Collection about PoC for sql injection on Joomla
+- [zxc2007/Office365-Checker-Smtp_Checker](https://github.com/zxc2007/Office365-Checker-Smtp_Checker) - 
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+- [random-robbie/bruteforce-lists](https://github.com/random-robbie/bruteforce-lists) - Some files for bruteforcing certain things.
+- [ShivamRai2003/SQL-Injection-Google-Dork-List](https://github.com/ShivamRai2003/SQL-Injection-Google-Dork-List) - Updated 6000 Sql Injection Google Dork 2021
+- [ShutdownRepo/The-Hacker-Recipes](https://github.com/ShutdownRepo/The-Hacker-Recipes) - This project is aimed at freely providing technical guides on various hacking topics: Active Directory services, web services, servers, intelligence gathering, physical intrusion, phishing, mobile app
+- [NirajShr3stha/Awesome](https://github.com/NirajShr3stha/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+- [misterch0c/CrimeBoards](https://github.com/misterch0c/CrimeBoards) - A list of private and public (more or less) blackhat boards
+- [arhaxor21/BruteList](https://github.com/arhaxor21/BruteList) - Brute List is an updated word list for brute-forcing the assets. This is not like a normal outdated word list. I have collected several lists from many resources and created them as a single list.
+- [clem9669/hashcat-rule](https://github.com/clem9669/hashcat-rule) - Rule for hashcat or john. Aiming to crack how people generate their password
+- [praetorian-inc/Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - Password cracking rules for Hashcat based on statistics and industry patterns
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
+- [qazbnm456/awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc) - ✍️ A curated list of CVE PoCs.
+- [iGotRootSRC/Dorkers](https://github.com/iGotRootSRC/Dorkers) - Dorks for Google, Shodan and BinaryEdge
+- [paylike/api-docs](https://github.com/paylike/api-docs) - Paylike API Documentation
+- [assalielmehdi/CVE-2017-12635](https://github.com/assalielmehdi/CVE-2017-12635) - Case study and POC of CVE-2017-12635: Apache CouchDB 1.7.0 / 2.x &lt; 2.1.1 - Remote Privilege Escalation
+- [IAmBlackHacker/Software](https://github.com/IAmBlackHacker/Software) - Some software for windows and linux
+- [RoyalFlyBy/PornHubDownloader](https://github.com/RoyalFlyBy/PornHubDownloader) - A pornhub.com downloader that allows you to login so you can download everything you have access to. including but not limited to private videos, 1080p or higher resolutions, premium videos and even p
+- [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
+- [rockmelodies/CVE-2019-0708-Exploit](https://github.com/rockmelodies/CVE-2019-0708-Exploit) - Using CVE-2019-0708 to Locally Promote Privileges in Windows 10 System
+- [Mad-robot/wordpress-exploits](https://github.com/Mad-robot/wordpress-exploits) - All known and unknown public POC's for wordpress themes and plugins
+- [kleiton0x00/Advanced-SQL-Injection-Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet) - A cheat sheet that contains advanced queries for SQL Injection of all types.
+- [ClimenteA/vamp-theme-notepad](https://github.com/ClimenteA/vamp-theme-notepad) - Dark theme for notepad++
+- [LMongoose/DeeperBlack](https://github.com/LMongoose/DeeperBlack) - My custom theme for Notepad++ based on "Deep Black".
+- [SDXC/NotepadPlusPlus-Customizations](https://github.com/SDXC/NotepadPlusPlus-Customizations) - Customized config files and themes for Notepad++
+- [naderi/material-theme-for-npp](https://github.com/naderi/material-theme-for-npp) - Material Theme (Dark) for Notepad++
+- [rndinfosecguy/pastePasswordLists](https://github.com/rndinfosecguy/pastePasswordLists) - Top password lists generated from leaks collected from different paste sites
+- [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
+- [random-robbie/keywords](https://github.com/random-robbie/keywords) - 
+- [lorien/awesome-pastebin](https://github.com/lorien/awesome-pastebin) - List of pastebin sites.
+- [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
+- [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
+- [3dot14r8/S3-Tools](https://github.com/3dot14r8/S3-Tools) - Repository of publically available tools used to examine S3 Buckets
+- [nightwatchcybersecurity/public-cloud-storage-search](https://github.com/nightwatchcybersecurity/public-cloud-storage-search) - A search engine for content shared publicly via cloud storage services
+- [jassics/awesome-aws-security](https://github.com/jassics/awesome-aws-security) - Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security
+- [T43cr0wl3r/OSINT-RECON](https://github.com/T43cr0wl3r/OSINT-RECON) - Open source intelligence tools and resources
+- [billymood/open-directories](https://github.com/billymood/open-directories) - List of Open Directories
+- [aleedhillon/7000-Google-Dork-List](https://github.com/aleedhillon/7000-Google-Dork-List) - 7,000 Dorks for hacking into various sites
+- [singhdharmveer311/Google-Dorks-2019](https://github.com/singhdharmveer311/Google-Dorks-2019) - 
+- [redhuntlabs/Awesome-Asset-Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) - List of Awesome Asset Discovery Resources
+- [jeanphorn/wordlist](https://github.com/jeanphorn/wordlist) - Collection of some common wordlists such as RDP password, user name list, ssh password wordlist for brute force. IP Cameras Default Passwords.
+- [digitalshadows/virtualwhale-osint-ctf](https://github.com/digitalshadows/virtualwhale-osint-ctf) - The "Virtual Whale" OSINT CTF at BSides DFW 2019!
+- [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
+- [odomojuli/RegExAPI](https://github.com/odomojuli/RegExAPI) - list of regex for apis
+- [JavierOlmedo/shodan-filters](https://github.com/JavierOlmedo/shodan-filters) - A list of shodan filters
+- [SilverPoision/a-full-list-of-wordlists](https://github.com/SilverPoision/a-full-list-of-wordlists) - this contain the burp pack
+- [unexpectedBy/SQLi-Dork-Repository](https://github.com/unexpectedBy/SQLi-Dork-Repository) - Dorks Hacking Database for educational proposal
+- [iannuttall/binlist-data](https://github.com/iannuttall/binlist-data) - An open-source list of bank BIN/IIN numbers
+- [Ranginang67/Firecrack](https://github.com/Ranginang67/Firecrack) - :fire: Firecrack pentest tools: Facebook hacking random attack, deface, admin finder, bing dorking:
+- [alphaSeclab/awesome-burp-suite](https://github.com/alphaSeclab/awesome-burp-suite) - Awesome Burp Suite Resources. 400+ open source Burp plugins, 400+ posts and videos.
+- [dustyfresh/dictionaries](https://github.com/dustyfresh/dictionaries) - curated password lists and various other lists/dictionaries for security things
+- [humblelad/Shodan-Dorks](https://github.com/humblelad/Shodan-Dorks) - Dorks for shodan.io. Some basic shodan dorks collected from publicly available data.
+- [RhinoSecurityLabs/Presentations](https://github.com/RhinoSecurityLabs/Presentations) - A collection of slides, videos, and proof-of-concept scripts from various Rhino presentations.
+- [nagwww/101-AWS-IAM-Hacks](https://github.com/nagwww/101-AWS-IAM-Hacks) - 
+- [abilitize/Helpful-Lists](https://github.com/abilitize/Helpful-Lists) - Helpful lists for Marketo users: Companies, ISPs, and other info.
+- [JannisKirschner/Dorks](https://github.com/JannisKirschner/Dorks) - Personal Collection of Awesome Google Dorks
+- [jhaddix/tbhm](https://github.com/jhaddix/tbhm) - The Bug Hunters Methodology
+- [storm119/Tilix-Themes](https://github.com/storm119/Tilix-Themes) - Theme for Tilix Terminal
+- [kaonashi-passwords/Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - Wordlist, rules and masks from Kaonashi project (RootedCON 2019)
+- [NotSoSecure/password_cracking_rules](https://github.com/NotSoSecure/password_cracking_rules) - One rule to crack all passwords. or atleast we hope so.
+- [clarketm/proxy-list](https://github.com/clarketm/proxy-list) - A list of free, public, forward proxy servers. UPDATED DAILY!
+- [nbarsch/nordUSserv](https://github.com/nbarsch/nordUSserv) - Nord US servers dataset
+- [Hackplayers/hackthebox-writeups](https://github.com/Hackplayers/hackthebox-writeups) - Writeups for HacktheBox 'boot2root' machines
+- [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
+- [ansjdnakjdnajkd/iOS](https://github.com/ansjdnakjdnajkd/iOS) - Most usable tools for iOS penetration testing
+- [duyet/bruteforce-database](https://github.com/duyet/bruteforce-database) - Bruteforce database
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
-- [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
-- [facert/python-data-structure-cn](https://github.com/facert/python-data-structure-cn) - problem-solving-with-algorithms-and-data-structure-using-python 中文版
-- [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
-- [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
-- [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
-- [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
-- [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
-- [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
-- [caicloud/kube-ladder](https://github.com/caicloud/kube-ladder) - Learning Kubernetes, The Chinese Taoist Way
-- [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
-- [0voice/from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
-- [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) - SwiftUI 2.0 Cheat Sheet
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
-- [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
-- [dgryski/go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
-- [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
-- [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
-- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [kenwoodjw/python_interview_question](https://github.com/kenwoodjw/python_interview_question) - 关于python的面试题
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [VincentSit/ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) - Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则表达式。
-- [jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run?
-- [garychowcmu/daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
-- [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
-- [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
-- [DocsHome/microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
-- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-- [skyline75489/what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
-- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
-- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [tarunkant/SpyTools](https://github.com/tarunkant/SpyTools) - This tool is a collection of tools made by me
+- [streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
+- [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
+- [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
+- [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
+- [M3l0nPan/pwndb_api](https://github.com/M3l0nPan/pwndb_api) - Pwndb request API
+- [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
+- [jcesarstef/ghhdb-Github-Hacking-Database](https://github.com/jcesarstef/ghhdb-Github-Hacking-Database) - Github Hacking Database - My personal collection of Github Dorks to search for Confidential Information (Yes, it's a Github version of Google Dorks)
+- [100apps/charles-hacking](https://github.com/100apps/charles-hacking) - Hacking Charles Web Debugging Proxy
+- [BullsEye0/google_dork_list](https://github.com/BullsEye0/google_dork_list) - Google Dorks | Google helps you to find Vulnerable Websites that Indexed in Google Search Results. Here is the latest collection of Google Dorks. A collection of 13.760 Dorks. Author: Jolanda de Koff
+- [nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
+- [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
+- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
+- [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
+- [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
+- [xsleaks/xsleaks](https://github.com/xsleaks/xsleaks) - A collection of browser-based side channel attack vectors.
+- [toolswatch/blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
+- [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
+- [woj-ciech/LeakLooker](https://github.com/woj-ciech/LeakLooker) - Find open databases - Powered by Binaryedge.io
+- [W00t3k/Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Awesome-Cellular-Hacking
+- [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A Software that automates your social media interactions to collect posts, photos, videos, interests, friends, followers, and much more on Facebook.
+- [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
+- [cugu/awesome-forensics](https://github.com/cugu/awesome-forensics) - A curated list of awesome forensic analysis tools and resources
+- [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
+- [julionc/awesome-shopify](https://github.com/julionc/awesome-shopify) - 📌✨A curated list of awesome Shopify resources, libraries and open source projects.
 
 ## PHP 
 
-- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
-- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
-- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
-- [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-- [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
+- [rabeltester44/Magentolog](https://github.com/rabeltester44/Magentolog) - Dump cc + mail
+- [kristuff/abuseipdb-cli](https://github.com/kristuff/abuseipdb-cli) - A CLI tool to check ✔️, report 🚩 IP address, download blacklist 🚫 with AbuseIPDB API v2
+- [helich0pper/Karkinos](https://github.com/helich0pper/Karkinos) - Penetration Testing and Hacking CTF's Swiss Army Knife with: Reverse Shell Handling - Encoding/Decoding - Encryption/Decryption - Cracking Hashes / Hashing
+- [kamerk22/AmazonGiftCode](https://github.com/kamerk22/AmazonGiftCode) - Laravel package for Amazon Gift Codes On Demand (AGCOD). Integration for Amazon Incentive API 🎁
+- [KatieP/gp-wp-core](https://github.com/KatieP/gp-wp-core) - Green Pages wordpress core plugin
+- [sauladam/omnipay-paysafecard-rest](https://github.com/sauladam/omnipay-paysafecard-rest) - Omnipay driver for Paysafecard (REST API)
+- [mollie/PrestaShop1.7](https://github.com/mollie/PrestaShop1.7) - iDEAL, Creditcard, Bancontact, SOFORT, Bank transfer, PayPal & paysafecard for Prestashop
+- [A3h1nt/Grawler](https://github.com/A3h1nt/Grawler) - Grawler is a tool written in PHP which comes with a web interface that automates the task of using google dorks, scrapes the results, and stores them in a file.
+- [Tuhinshubhra/RED_HAWK](https://github.com/Tuhinshubhra/RED_HAWK) - All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers
+- [0xb0y/Magento-Grabber](https://github.com/0xb0y/Magento-Grabber) - Auto exploiter + Dumper, steal information on victim site, and auto create mailer on victim
+- [vitaminarts/Telegram-scraper-api](https://github.com/vitaminarts/Telegram-scraper-api) - An easy-to-use PHP api for Getting contents of Telegram's public channels and groups Messages without needing to join them.
+- [lucasfrag/Kali-Linux-Tools-Interface](https://github.com/lucasfrag/Kali-Linux-Tools-Interface) - Graphical Web interface developed to facilitate the use of security information tools.
+- [steverobbins/magescan](https://github.com/steverobbins/magescan) - Scan a Magento site for information
+- [googleinurl/SCANNER-INURLBR](https://github.com/googleinurl/SCANNER-INURLBR) - Advanced search in search engines, enables analysis provided to exploit GET / POST capturing emails & urls, with an internal custom validation junction for each target / url found.
+- [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
+- [kakumanivrn/email_password_cracker](https://github.com/kakumanivrn/email_password_cracker) - A PHP tool to perform dictionary attacks on Gmail, Microsoft Live and Hotmail accounts.
+- [gwen001/s3-buckets-finder](https://github.com/gwen001/s3-buckets-finder) - Find aws s3 buckets and extract datas.
+- [Znerox/wifimap](https://github.com/Znerox/wifimap) - WiFi- and Bluetooth devices overlayed on Google Maps. Sourced from WiGLE Android app / Aircrack-ng.
+- [rajkumardusad/IP-Tracer](https://github.com/rajkumardusad/IP-Tracer) - Track any ip address with IP-Tracer. IP-Tracer is developed for Linux and Termux. you can retrieve any ip address information using IP-Tracer.
+- [davidtavarez/pinky](https://github.com/davidtavarez/pinky) - pinky - The PHP mini RAT (Remote Administration Tool)
+- [binarymaster/3WiFi](https://github.com/binarymaster/3WiFi) - 3WiFi Wireless Database
+- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
+- [noncent/instagram-data-scraper](https://github.com/noncent/instagram-data-scraper) - Instagram Data Scraper, Instagram Web Scraper, Instagram Super Scraper is a PHP script which takes @user-name or #keywords as input and returns all information related to user or hash-tags e.g. likes,
 
-## PLpgSQL 
+## Pascal 
 
-- [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
+- [greatis/Anti-WebMiner](https://github.com/greatis/Anti-WebMiner) - Anti-WebMiner protects your PC against web cryptocurrency miners (JS scripts like Coinhive executed in the browser) by modifying Windows hosts file
 
 ## Perl 
 
-- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+- [Zusyaku/Deface-And-Dorking](https://github.com/Zusyaku/Deface-And-Dorking) - Tutorial Seputar Depes Dan Web Hacking
+- [Aron-Tn/Mega-Bot](https://github.com/Aron-Tn/Mega-Bot) - [NEW] : Mega Bot ☣ Scanner & Auto Exploiter
+- [AlisamTechnology/ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced dork Search & Mass Exploit Scanner
+- [Moham3dRiahi/XAttacker](https://github.com/Moham3dRiahi/XAttacker) - X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
+- [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
+- [htrgouvea/harpoon](https://github.com/htrgouvea/harpoon) - [W.I.P] An ecosystem of crawlers for detecting: leaks, sensitive data exposure and attempts exfiltration of data
+- [Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
 
 ## PowerShell 
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
-- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
+- [dafthack/PowerMeta](https://github.com/dafthack/PowerMeta) - PowerMeta searches for publicly available files hosted on various websites for a particular domain by using specially crafted Google, and Bing searches. It then allows for the download of those files 
+- [dafthack/MailSniper](https://github.com/dafthack/MailSniper) - MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can b
+- [SNGWN/Burp-Suite](https://github.com/SNGWN/Burp-Suite) - || Activate Burp Suite Pro with Key-Generator and Key-Loader ||
+- [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
+- [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice is a tool that uses PowerShell automation to setup your Windows devices.
+- [BloodHoundAD/AzureHound](https://github.com/BloodHoundAD/AzureHound) - 
+- [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) - A collection of scripts for assessing Microsoft Azure security
+- [securethelogs/RedRabbit](https://github.com/securethelogs/RedRabbit) - Red Team PowerShell Script
+- [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit.
 
 ## Python 
 
-- [Miksus/red-engine](https://github.com/Miksus/red-engine) - Modern scheduling library for Python
-- [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
-- [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
-- [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
-- [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) - 🎡 Build Python wheels for all the platforms on CI with minimal configuration.
-- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
-- [arc298/instagram-scraper](https://github.com/arc298/instagram-scraper) - Scrapes an instagram user's photos and videos
-- [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
-- [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
-- [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
-- [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
-- [ctripcorp/flybirds](https://github.com/ctripcorp/flybirds) - 基于自然语言的，跨端跨框架 BDD UI 自动化测试方案，BDD testing, Python style, Present by Trip Flight
-- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
-- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced Hot Reloading & Profiling for Python
-- [spulec/moto](https://github.com/spulec/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
-- [alibaba/EasyNLP](https://github.com/alibaba/EasyNLP) - EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
-- [PaddlePaddle/PaddleRec](https://github.com/PaddlePaddle/PaddleRec) - Recommendation Algorithm大规模推荐算法库，包含推荐系统经典及最新算法LR、Wide&Deep、DSSM、TDM、MIND、Word2Vec、Bert4Rec、DeepWalk、SSR、AITM，DSIN，SIGN，IPREC、GRU4Rec、Youtube_dnn、NCF、GNN、FM、FFM、DeepFM、DCN、DIN、DIEN、DLRM、MMOE、PLE、ESMM、E
-- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extra
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
-- [LKI/chinese-calendar](https://github.com/LKI/chinese-calendar) - 判断一天是不是法定节假日/法定工作日（查看节假日安排）
-- [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
-- [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
-- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
-- [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视bot，完全对接人人影视全部无删减资源
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
-- [wgpsec/ENScan](https://github.com/wgpsec/ENScan) - 基于各大API的一款企业信息查询工具，为了更快速的获取企业的信息，省去收集的麻烦过程，web端于plat平台上线
-- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-- [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for Starlette/FastAPI
-- [argoproj-labs/hera-workflows](https://github.com/argoproj-labs/hera-workflows) - Hera is an Argo Workflows Python SDK. Hera aims to make workflow construction and submission easy and accessible to everyone! Hera abstracts away workflow setup details while still maintaining a consi
-- [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices.
-- [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
-- [arry-lee/wereader](https://github.com/arry-lee/wereader) - 一个功能全面的微信读书笔记助手 wereader
-- [openairplay/airplay2-receiver](https://github.com/openairplay/airplay2-receiver) - AirPlay 2 Receiver - Python implementation
-- [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
-- [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
-- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-- [Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis) - Static Code Analysis
-- [Mayandev/where-is-douban250](https://github.com/Mayandev/where-is-douban250) - 🐛 一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
-- [davidaurelio/hashids-python](https://github.com/davidaurelio/hashids-python) - Implementation of hashids (http://hashids.org) in Python. Compatible with Python 2 and Python 3
-- [redis/redis-om-python](https://github.com/redis/redis-om-python) - Objecting mapping, and more, for Redis and Python
-- [pallets-eco/blinker](https://github.com/pallets-eco/blinker) - A fast Python in-process signal/event dispatching system.
-- [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
-- [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
-- [quakkels/rssdiscoveryengine](https://github.com/quakkels/rssdiscoveryengine) - The RSS Discovery Engine exists to encourage people to use RSS for finding and consuming their news and current events.
-- [kserve/kserve](https://github.com/kserve/kserve) - Serverless Inferencing on Kubernetes
-- [pyauth/pyotp](https://github.com/pyauth/pyotp) - Python One-Time Password Library
-- [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
-- [agronholm/anyio](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either trio or asyncio
-- [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
-- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [ail-project/ail-framework](https://github.com/ail-project/ail-framework) - AIL framework - Analysis Information Leak framework
+- [JMousqueton/PoC-CVE-2022-30190](https://github.com/JMousqueton/PoC-CVE-2022-30190) - 
+- [vulmon/Vulmap](https://github.com/vulmon/Vulmap) - Vulmap Online Local Vulnerability Scanners Project
+- [capture0x/XSS-LOADER](https://github.com/capture0x/XSS-LOADER) - Xss Payload Generator ~ Xss Scanner ~ Xss Dork Finder
+- [hamid0740/Combo-List-Fixer](https://github.com/hamid0740/Combo-List-Fixer) - Simple python code to fix your combo list by removing any text after a separator or removing duplicate combos
+- [JakeWnuk/SickNerd](https://github.com/JakeWnuk/SickNerd) - CLI tool for Google Dorking with the ability to fetch and filter dorks from GHDB, save and load results, and search multiple domains.
+- [E4rr0r4/XGDork-2](https://github.com/E4rr0r4/XGDork-2) - SQLi Google Dork Scanner (new version)
+- [whoamisec75/ipdigger](https://github.com/whoamisec75/ipdigger) - Takes a file of hosts or domains and outputs the IP address of each host/domain in the file.
+- [whoamisec75/httpsuite](https://github.com/whoamisec75/httpsuite) - A toolkit for web reconnaissance, it's fast and easy to use.
+- [jnrbsn/user-agents](https://github.com/jnrbsn/user-agents) - Latest user agent strings for major browsers and OSs; checks for updates daily
+- [fullhunt/spring4shell-scan](https://github.com/fullhunt/spring4shell-scan) - A fully automated, reliable, and accurate scanner for finding Spring4Shell and Spring Cloud RCE vulnerabilities
+- [gwen001/pentest-tools](https://github.com/gwen001/pentest-tools) - Custom pentesting tools
+- [hacktoolspack/hack-tools](https://github.com/hacktoolspack/hack-tools) - hack tools
+- [notdls/grayurls](https://github.com/notdls/grayurls) - CLI tool to obtain a list of resolved short URLs for given domain using GrayhatWarfare's Shorteners API.
+- [DanusMinimus/snallybuckster](https://github.com/DanusMinimus/snallybuckster) - Locate intersting files in grayhatwarfare.com open S3 buckets and Azure blobs automatically!
+- [PushpenderIndia/ragno](https://github.com/PushpenderIndia/ragno) - Ragno is a Passive URL Crawler | Written in Python3 | Fetches URLs from the Wayback Machine, AlienVault's Open Threat Exchange & Common Crawl
+- [ehudbaumatz/scrapers](https://github.com/ehudbaumatz/scrapers) - scraping non-scrapy sites (e.g. search engines, wayback machine etc)
+- [AngelSecurityTeam/CC_Scrapper](https://github.com/AngelSecurityTeam/CC_Scrapper) - Telegram CC  Scrapper - Debit/Credit Card [channel public or private / group ]
+- [ustayready/CredKing](https://github.com/ustayready/CredKing) - Password spraying using AWS Lambda for IP rotation
+- [hhhrrrttt222111/Dorkify](https://github.com/hhhrrrttt222111/Dorkify) - Perform Google Dork search with Dorkify
+- [GONZOsint/geowifi](https://github.com/GONZOsint/geowifi) - Search WiFi geolocation data by BSSID and SSID on different public databases.
+- [sm00v/Dehashed](https://github.com/sm00v/Dehashed) - This repo contains scripts to query dehashed.com and crack the returned hashes which will then save all cleartext passwords and hashes to files.
+- [iamavu/Slyther](https://github.com/iamavu/Slyther) - AWS Security Tool
+- [rly0nheart/oxdork](https://github.com/rly0nheart/oxdork) - Google dorking tool
+- [averagesecurityguy/scripts](https://github.com/averagesecurityguy/scripts) - Scripts I use during pentest engagements.
+- [Plasmonix/Netflixer](https://github.com/Plasmonix/Netflixer) - 👻 Fast Netflix account checker
+- [Its-Vichy/IpVanish-Checker](https://github.com/Its-Vichy/IpVanish-Checker) - Ultra fast checker made in 10min
+- [Rdimo/Hazard-Nuker](https://github.com/Rdimo/Hazard-Nuker) - A discord token nuker With loads of options that will screw an account up real bad, also has inbuilt massreport, GroupChat Spammer and Token/Password/Creditcard grabber and so much more!
+- [Josue87/pwndbTorCredentials](https://github.com/Josue87/pwndbTorCredentials) - 
+- [jdiazmx/karma](https://github.com/jdiazmx/karma) - API pwndb
+- [nccgroup/gitpwnd](https://github.com/nccgroup/gitpwnd) - GitPwnd is a network penetration tool that lets you use a git repo for command and control of compromised machines
+- [cpjust/Lotto](https://github.com/cpjust/Lotto) - Python scripts to test different strategies for improving the odds of winning with lottery pools. Specifically it tests using an abbreviated lottery wheel pattern which guarantees at least 1 winning (
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
-- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
-- [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
-- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multi-modal applications on the cloud
-- [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) - A treasure chest for visual recognition powered by PaddlePaddle
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, and 3.10.  You feed it your Python app, it does a lot of clever things, a
-- [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
-- [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
-- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-- [couler-proj/couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
-- [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
-- [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
-- [aleimu/asyncio_different](https://github.com/aleimu/asyncio_different) - go与python的协程对比,以及python中协程的改进历史,和示例代码
-- [phalt/django-api-domains](https://github.com/phalt/django-api-domains) - A pragmatic styleguide for Django API Projects
-- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
-- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
-- [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
-- [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
-- [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
-- [onelivesleft/PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
-- [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
-- [offu/WeRoBot](https://github.com/offu/WeRoBot) - WeRoBot 是一个微信公众号开发框架
-- [PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
-- [pypa/sampleproject](https://github.com/pypa/sampleproject) - A sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects"
-- [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
-- [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
-- [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) - PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）
-- [elastic/detection-rules](https://github.com/elastic/detection-rules) - Rules for Elastic Security's detection engine
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
-- [ehForwarderBot/ehForwarderBot](https://github.com/ehForwarderBot/ehForwarderBot) - An extensible message tunneling chat bot framework. Delivers messages to and from multiple platforms and remotely control your accounts.
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [absent1706/sqlalchemy-mixins](https://github.com/absent1706/sqlalchemy-mixins) - Active Record, Django-like queries, nested eager load and beauty __repr__ for SQLAlchemy
-- [picklepete/pyicloud](https://github.com/picklepete/pyicloud) - A Python + iCloud wrapper to access iPhone and Calendar data.
-- [yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide) - An open-source style guide for writing Chinese technical documents: https://zh-style-guide.readthedocs.io
-- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
-- [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
-- [GeneralNewsExtractor/GeneralNewsExtractor](https://github.com/GeneralNewsExtractor/GeneralNewsExtractor) - 新闻网页正文通用抽取器 Beta 版.
-- [lyhue1991/eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
-- [prompt-toolkit/ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
-- [sumerc/yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time thread&coroutine&greenlet aware.
+- [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.
+- [pixelbubble/PasteMonitor](https://github.com/pixelbubble/PasteMonitor) - Scrape Pastebin API to collect daily pastes, setup a wordlist and be alerted by email when you have a match.
+- [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
+- [shacojx/CVE-2021-26855-exploit-Exchange](https://github.com/shacojx/CVE-2021-26855-exploit-Exchange) - 
+- [RickGeex/ProxyLogon](https://github.com/RickGeex/ProxyLogon) - ProxyLogon is the formally generic name for CVE-2021-26855, a vulnerability on Microsoft Exchange Server that allows an attacker bypassing the authentication and impersonating as the admin. We have al
+- [rly0nheart/thedevilseye](https://github.com/rly0nheart/thedevilseye) - The Devils Eye is an OSINT tool that extracts onion links and descriptions that match with the users query from the Darkweb, without requiring the use for Tor.
+- [ktecv2000/ProxyShell](https://github.com/ktecv2000/ProxyShell) - ProxyShell POC Exploit : Exchange Server RCE (ACL Bypass + EoP + Arbitrary File Write)
+- [Jumbo-WJB/Exchange_SSRF](https://github.com/Jumbo-WJB/Exchange_SSRF) - Some Attacks of Exchange SSRF ProxyLogon&ProxyShell
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [RhinoSecurityLabs/Security-Research](https://github.com/RhinoSecurityLabs/Security-Research) - Exploits written by the Rhino Security Labs team
+- [mr-r3bot/Proxyshell-Exchange](https://github.com/mr-r3bot/Proxyshell-Exchange) - Poc script for ProxyShell exploit chain in Exchange Server
+- [Ridter/proxyshell_payload](https://github.com/Ridter/proxyshell_payload) - proxyshell payload generate
+- [Udyz/proxyshell-auto](https://github.com/Udyz/proxyshell-auto) - Automatic ProxyShell Exploit
+- [Sunlight-Rim/FTPSearcher](https://github.com/Sunlight-Rim/FTPSearcher) - Asynchronous file scanner and downloader for FTP servers. Also takes IP ranges.
+- [Sunlight-Rim/SQLbit](https://github.com/Sunlight-Rim/SQLbit) - Just another script for automatize boolean-based blind SQL injections. (Demo)
+- [SecurityRiskAdvisors/msspray](https://github.com/SecurityRiskAdvisors/msspray) - Password attacks and MFA validation against various endpoints in Azure and Office 365
+- [MarkoH17/EmailSecCheck](https://github.com/MarkoH17/EmailSecCheck) - EmailSecCheck is a lightweight Python utility used to check for common SPF/DMARC misconfigurations that may allow for email spoofing.
+- [MarkoH17/Spray365](https://github.com/MarkoH17/Spray365) - Spray365 makes spraying Microsoft accounts (Office 365 / Azure AD) easy through its customizable two-step password spraying approach. The built-in execution plan features options that attempt to bypas
+- [WangYihang/GitHacker](https://github.com/WangYihang/GitHacker) - 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers' mind
+- [WangYihang/SourceLeakHacker](https://github.com/WangYihang/SourceLeakHacker) - :bug: A multi threads web application source leak scanner
+- [hosch3n/ProxyVulns](https://github.com/hosch3n/ProxyVulns) - [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 & CVE-2021-31207 
+- [herwonowr/exprolog](https://github.com/herwonowr/exprolog) - ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)
+- [Udyz/Proxylogon](https://github.com/Udyz/Proxylogon) - ProxyLogon Pre-Auth SSRF To Arbitrary File Write
+- [dmaasland/proxyshell-poc](https://github.com/dmaasland/proxyshell-poc) - 
+- [demossl/CVE-2021-33766-ProxyToken](https://github.com/demossl/CVE-2021-33766-ProxyToken) - CVE-2021-33766-poc
+- [phamphuqui1998/CVE-2021-34473](https://github.com/phamphuqui1998/CVE-2021-34473) - CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability
+- [but43r/ProxyShell](https://github.com/but43r/ProxyShell) - ProxyShell Scanner
+- [abatchy17/WindowsExploits](https://github.com/abatchy17/WindowsExploits) - Windows exploits, mostly precompiled. Not being updated. Check https://github.com/SecWiki/windows-kernel-exploits instead.
+- [cyberheartmi9/CVE-2017-8295](https://github.com/cyberheartmi9/CVE-2017-8295) - 
+- [cyberheartmi9/Proxyshell-Scanner](https://github.com/cyberheartmi9/Proxyshell-Scanner) - nuclei scanner for proxyshell ( CVE-2021-34473 )
+- [gwen001/myrecon.py](https://github.com/gwen001/myrecon.py) - My recon script
+- [D4Vinci/bugz-tools](https://github.com/D4Vinci/bugz-tools) - A collection of tools I wrote for bug bounty or hacking and don't mind publishing it :smile:
+- [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
+- [hausec/ProxyLogon](https://github.com/hausec/ProxyLogon) - 
+- [praetorian-inc/enumerate-iam](https://github.com/praetorian-inc/enumerate-iam) - Enumerate the permissions associated with AWS credential set
+- [praetorian-inc/proxylogon-exploit](https://github.com/praetorian-inc/proxylogon-exploit) - Proof-of-concept exploit for CVE-2021-26855 and CVE-2021-27065. Unauthenticated RCE in Exchange.
+- [sweetsoftware/Ares](https://github.com/sweetsoftware/Ares) - Python botnet and backdoor
+- [dfirsec/blacklist_check](https://github.com/dfirsec/blacklist_check) - Simple script to download and query IP address reputation lists from various sources.
+- [jgamblin/isthisipbad](https://github.com/jgamblin/isthisipbad) - Python Script to Check IP Against Blacklist
+- [chompie1337/SMBGhost_RCE_PoC](https://github.com/chompie1337/SMBGhost_RCE_PoC) - 
+- [isaaccto/BitcoinFinder](https://github.com/isaaccto/BitcoinFinder) - ⚡ Bitcoin Balance Checker & Generator.
+- [Josue87/EmailFinder](https://github.com/Josue87/EmailFinder) - Search emails from a domain through search engines
+- [dievus/Oh365UserFinder](https://github.com/dievus/Oh365UserFinder) - Python3 o365 User Enumeration Tool
+- [0xZDH/o365spray](https://github.com/0xZDH/o365spray) - Username enumeration and password spraying tool aimed at Microsoft O365.
+- [gremwell/o365enum](https://github.com/gremwell/o365enum) - Enumerate valid usernames from Office 365 using ActiveSync, Autodiscover v1, or office.com login page.
+- [dinosn/proxyshell](https://github.com/dinosn/proxyshell) - A basic proxylogon scanner
+- [Udyz/Automatic-Proxylogon-Exploit](https://github.com/Udyz/Automatic-Proxylogon-Exploit) - Automatic OWA Proxylogon Exploit
+- [bdunlap9/query](https://github.com/bdunlap9/query) - Python3 query through all text files in current directory for certain strings and then print the full line that string was found in
+- [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot
+- [pwn0sec/Pwnscan](https://github.com/pwn0sec/Pwnscan) - Shalfa is a simple tool that helps you with Extract URLs.
+- [james04gr/TorCrawl.py](https://github.com/james04gr/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
+- [danieleperera/OnionIngestor](https://github.com/danieleperera/OnionIngestor) - An extendable tool to Collect, Crawl and Monitor onion sites on tor network and index collected information on Elasticsearch
+- [Haru1ca/MailAccessAccountChecker](https://github.com/Haru1ca/MailAccessAccountChecker) - 
+- [extremedevalt/ExtremeAIO-Free-25-Modules-ALL-IN-ONE](https://github.com/extremedevalt/ExtremeAIO-Free-25-Modules-ALL-IN-ONE) - Python 3x AIO, for free, open source!
+- [extremedevalt/Minecraft-Checker-Mail-Access-Checker](https://github.com/extremedevalt/Minecraft-Checker-Mail-Access-Checker) - Minecraft Account Checker (new api) | Mail Access Checker | Python 3x
+- [p0isonBR/Mail-Access](https://github.com/p0isonBR/Mail-Access) - Mail-Access checker
+- [memorycrashed/Mail-Access-Checker](https://github.com/memorycrashed/Mail-Access-Checker) - A basic mail access checker that also searches for keywords
+- [h3x0crypt/Medusa](https://github.com/h3x0crypt/Medusa) - SMTP checker to check Mail Access via SMTP
+- [extremedevalt/Mail-Access-Checker](https://github.com/extremedevalt/Mail-Access-Checker) - Mail Access Checker by ExtremeDev | Python 3x | https proxies
+- [extremedevalt/BingOX](https://github.com/extremedevalt/BingOX) - Bing Parser.
+- [redhuntlabs/BurpSuite-Asset_Discover](https://github.com/redhuntlabs/BurpSuite-Asset_Discover) - Burp Suite extension to discover assets from HTTP response.
+- [ustayready/fireprox](https://github.com/ustayready/fireprox) - AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
+- [scopes1337/Playstation-Bruteforcer-Giftcard](https://github.com/scopes1337/Playstation-Bruteforcer-Giftcard) - 
+- [KevinLage/Edu-Account-creator](https://github.com/KevinLage/Edu-Account-creator) - 
+- [maajtga/fetch-reciept-generator](https://github.com/maajtga/fetch-reciept-generator) - Generate receipts using python for Fetch Rewards.
+- [Ares-X/Google-Hacking-Database](https://github.com/Ares-X/Google-Hacking-Database) - Google Hacking Database
+- [AngelSecurityTeam/Security-Admin](https://github.com/AngelSecurityTeam/Security-Admin) - Finder Web Site Admin Login Page
+- [mpgn/BEAST-PoC](https://github.com/mpgn/BEAST-PoC) - :muscle: Proof Of Concept of the BEAST attack against SSL/TLS CVE-2011-3389 :muscle:
+- [0xZDH/Omnispray](https://github.com/0xZDH/Omnispray) - Modular Enumeration and Password Spraying Framework
+- [JoelGMSec/FakeDataGen](https://github.com/JoelGMSec/FakeDataGen) - Full Valid Fake Data Generator
+- [tranthanhbinh2603/Office365Checker](https://github.com/tranthanhbinh2603/Office365Checker) - This tool supports check Office 365 Accounts at high speed. You could build and use immediately. You will need install python to run this program.
+- [nizarbamida/MSPID](https://github.com/nizarbamida/MSPID) - A bulk miscrosoft products (Office,Win,Visio...) keys generator and checker.
+- [hirusha-adi/NordVPN-Checker](https://github.com/hirusha-adi/NordVPN-Checker) - check NordVPN accounts. STRICTLY FOR EDUCATIONAL PURPOSES ONLY!
+- [tamimibrahim17/List-of-user-agents](https://github.com/tamimibrahim17/List-of-user-agents) - List of major web + mobile browser user agent strings. +1 Bonus script to scrape :)
+- [onemanbuilds/ComboAIO](https://github.com/onemanbuilds/ComboAIO) - Simple tool which can be used to edit combo files / text files.
+- [hassan0x/MailHunter](https://github.com/hassan0x/MailHunter) - MailHunter is a tool to give you access to the exchange server mails.
+- [DrPython3/MailRipV3](https://github.com/DrPython3/MailRipV3) - SMTP and IMAP checker / cracker for mailpass combolists with a user-friendly GUI, automated inbox test and many more features.
+- [justinjohnso/giftcards_galore](https://github.com/justinjohnso/giftcards_galore) - Python script to automate buying Amazon giftcards
+- [RhinoSecurityLabs/CVEs](https://github.com/RhinoSecurityLabs/CVEs) - A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.
+- [RhinoSecurityLabs/IPRotate_Burp_Extension](https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension) - Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.
+- [ultrafunkamsterdam/AnonSurf](https://github.com/ultrafunkamsterdam/AnonSurf) - Change your IP address instantly - easy small GUI tool for Windows (linux soon)
+- [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
+- [SharonBrizinov/s3viewer](https://github.com/SharonBrizinov/s3viewer) - Publicly open storage viewer (Amazon S3 Bucket, Azure Blob, FTP server, HTTP Index Of/)
+- [YashvirGaming/User-Pass-Combo-Extractor](https://github.com/YashvirGaming/User-Pass-Combo-Extractor) - This script contains code to convert your bulk email-pass combolist into userpass!
+- [UnknownSourceCode/GiftCardGenerator](https://github.com/UnknownSourceCode/GiftCardGenerator) - This is Python Random GiftCard Generator
+- [7jdope8/AmazonGiftcard](https://github.com/7jdope8/AmazonGiftcard) - amazon giftcard generator + Checekr
+- [x-name15/Another-GiftCards-Bot](https://github.com/x-name15/Another-GiftCards-Bot) - This is a another Discord Giftcards Generator Bot
+- [Sheikhlipu123/MultipleGiftCardGenerator-3.0](https://github.com/Sheikhlipu123/MultipleGiftCardGenerator-3.0) - Python Random GiftCard Generator
+- [vektort13/AntiOS](https://github.com/vektort13/AntiOS) - Pyhton scripts that can change your Windows fingerprints and ID
+- [Jian-Wuyou/twitter-image-scraper](https://github.com/Jian-Wuyou/twitter-image-scraper) - 
+- [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - This script lets you check whether a specific phone number is connected to a Telegram account.
+- [matamorphosis/Scrummage](https://github.com/matamorphosis/Scrummage) - The Ultimate OSINT and Threat Hunting Framework
+- [horizon3ai/proxyshell](https://github.com/horizon3ai/proxyshell) - Proof of Concept for CVE-2021-34473, CVE-2021-34523, and CVE-2021-31207
+- [horizon3ai/CVE-2021-38647](https://github.com/horizon3ai/CVE-2021-38647) - Proof on Concept Exploit for CVE-2021-38647 (OMIGOD)
+- [IlanKalendarov/PyHook](https://github.com/IlanKalendarov/PyHook) - PyHook is an offensive API hooking tool written in python designed to catch various credentials within the API call.
+- [Malam-X/Bin-Checker](https://github.com/Malam-X/Bin-Checker) - Bin Credit card Checker using python
+- [blacklanternsecurity/TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - TREVORspray is a modular password sprayer with threading, clever proxying, loot modules, and more!
+- [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
+- [ShutdownRepo/Exegol](https://github.com/ShutdownRepo/Exegol) - Fully featured and community-driven hacking environment
+- [pawlaczyk/sarenka](https://github.com/pawlaczyk/sarenka) - OSINT tool - gets data from services like shodan, censys etc. in one app
+- [Aron-Tn/Amazon_Checker](https://github.com/Aron-Tn/Amazon_Checker) - Amazon Email Valid Checker V2 With Proxies By ARON-TN
+- [Nickwasused/Nickwasuseds-Combo-Generator](https://github.com/Nickwasused/Nickwasuseds-Combo-Generator) - a Combolist Generator
+- [Ha3MrX/HashCrack](https://github.com/Ha3MrX/HashCrack) - hashcrack is a python script which uses  online hash crackers to find cleartext of a hash in less than 3 seconds
+- [Nickwasused/dnoise](https://github.com/Nickwasused/dnoise) - DNS noise generator that looks at your network activity and blends in. Requires pi-hole.
+- [geekforbrains/agcod](https://github.com/geekforbrains/agcod) - Amazon Gift Codes On-Demand (AGCOD)
+- [HoverHell/RedditImageGrab](https://github.com/HoverHell/RedditImageGrab) - Downloads images from sub-reddits of reddit.com.
+- [tsarjak/DownloadRedditImages](https://github.com/tsarjak/DownloadRedditImages) - Easily download all the images from any subreddit (also select sort_type if you want hot/top/new/controversial, and also sort_time day/week/month/year/all). Randomly select downloaded images and set a
+- [aliparlakci/bulk-downloader-for-reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Downloads and archives content from reddit
+- [jonbakerfish/TweetScraper](https://github.com/jonbakerfish/TweetScraper) - TweetScraper is a simple crawler/spider for Twitter Search without using API
+- [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
+- [EntySec/Shreder](https://github.com/EntySec/Shreder) - Shreder is a powerful multi-threaded SSH protocol password brute-force tool.
+- [EntySec/CamOver](https://github.com/EntySec/CamOver) - CamOver is a camera exploitation tool that allows to disclosure network camera admin password.
+- [EntySec/HatVenom](https://github.com/EntySec/HatVenom) - HatVenom is a powerful payload generation tool that provides support for all common platforms and architectures.
+- [EntySec/HatSploit](https://github.com/EntySec/HatSploit) - Modular penetration testing platform that enables you to write, test, and execute exploit code.
+- [EntySec/RomBuster](https://github.com/EntySec/RomBuster) - RomBuster is a router exploitation tool that allows to disclosure network router admin password.
+- [EntySec/CamRaptor](https://github.com/EntySec/CamRaptor) - CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials.
+- [Ramalingasamy012/admin-finder](https://github.com/Ramalingasamy012/admin-finder) - This tool is used to find the admin login page of a website.
+- [lstomberg/BHNVGCBalanceChecker](https://github.com/lstomberg/BHNVGCBalanceChecker) - Check remaining balance of your Blackhawk Network Visa gift cards
+- [TebbaaX/GRecon](https://github.com/TebbaaX/GRecon) - Another version of katana but more automated and less stable. the purpose of this small tool is to run a Google based passive recon against your scope.
+- [KingOfBugbounty/Bug-Bounty-Toolz](https://github.com/KingOfBugbounty/Bug-Bounty-Toolz) - BBT - Bug Bounty Tools
+- [GerbenJavado/LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files
+- [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
+- [MAXECU/Nordvpn-Proxy-List](https://github.com/MAXECU/Nordvpn-Proxy-List) - 
+- [privatekenny/netnut.io-proxy-creator](https://github.com/privatekenny/netnut.io-proxy-creator) - 
+- [Ell10T4lD3rS0n/OBRecaptcha](https://github.com/Ell10T4lD3rS0n/OBRecaptcha) - Script Python qui permet de savoir si le recaptcha v3 d'un site est bypassable et si bypassable il génère un txt avec du loliscript idéal pour Openbullet v1
+- [r3dxpl0it/ZombieBotV12](https://github.com/r3dxpl0it/ZombieBotV12) - Zombie Bot from Darkweb
+- [p0wershe11/ProxyLogon](https://github.com/p0wershe11/ProxyLogon) - ProxyLogon(CVE-2021-26855+CVE-2021-27065) Exchange Server RCE(SSRF-&gt;GetWebShell)
+- [D4stiny/Dell-Support-Assist-RCE-PoC](https://github.com/D4stiny/Dell-Support-Assist-RCE-PoC) - 
+- [Sh4rk0-666/Spykeyboard](https://github.com/Sh4rk0-666/Spykeyboard) - keylogger which sends us the data to our gmail.
+- [Sh4rk0-666/DelvedLeak](https://github.com/Sh4rk0-666/DelvedLeak) - DelvedLeak is a tool which will allow us to collect information about an email through data breaches. Through OSINT we can obtain information from an email such as possible leaked passwords, sources b
+- [quentinhardy/odat](https://github.com/quentinhardy/odat) - ODAT: Oracle Database Attacking Tool
+- [SecuraBV/CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472) - Test tool for CVE-2020-1472
+- [ZecOps/CVE-2020-0796-LPE-POC](https://github.com/ZecOps/CVE-2020-0796-LPE-POC) - CVE-2020-0796 Local Privilege Escalation POC
+- [0x09AL/WordSteal](https://github.com/0x09AL/WordSteal) - This script will create a POC that will steal NTML hashes from a remote computer. Do not use this for illegal purposes.The author does not keep responsibility for any illegal action you do.
+- [joaovdonaton/hashcracker](https://github.com/joaovdonaton/hashcracker) - python hash cracker
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-- [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
-- [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other lan
-- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
-- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
-- [danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto) - Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
-- [jpadilla/pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python
-- [buriy/python-readability](https://github.com/buriy/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
-- [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
-- [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
-- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-- [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
-- [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
-- [elastic/helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
-- [minimaxir/aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [casbin/pycasbin](https://github.com/casbin/pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
-- [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional) - Python library for creating data pipelines with chain functional programming
-- [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
-- [jschneier/django-storages](https://github.com/jschneier/django-storages) - https://django-storages.readthedocs.io/
-- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
-- [python-gino/gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
-- [breezedeus/cnocr](https://github.com/breezedeus/cnocr) - 基于 PyTorch/MXNet 的中文/英文 OCR Python 包
-- [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
-- [stripe/stripe-python](https://github.com/stripe/stripe-python) - Python library for the Stripe API.
-- [aiortc/aioquic](https://github.com/aiortc/aioquic) - QUIC and HTTP/3 implementation in Python
-- [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
-- [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
-- [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
-- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
-- [google/android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - 
-- [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
-- [ponyorm/pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
-- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
-- [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
-- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-- [pawamoy/aria2p](https://github.com/pawamoy/aria2p) - Command-line tool and library to interact with an aria2c daemon process with JSON-RPC.
-- [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
-- [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
-- [h5py/h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
-- [facebookresearch/SlowFast](https://github.com/facebookresearch/SlowFast) - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
-- [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
-- [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
-- [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
-- [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code
-- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
-- [julvo/reloading](https://github.com/julvo/reloading) - Change Python code while it's running without losing state
-- [ownthink/KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
-- [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
-- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
-- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-- [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
-- [openatx/uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
-- [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
-- [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
-- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
-- [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
-- [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
-- [sql-machine-learning/elasticdl](https://github.com/sql-machine-learning/elasticdl) - Kubernetes-native Deep Learning Framework
-- [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
-- [boppreh/keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
-- [google/pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
-- [graphql-python/graphene-sqlalchemy](https://github.com/graphql-python/graphene-sqlalchemy) - Graphene SQLAlchemy integration
-- [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
-- [mitogen-hq/mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python
-- [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
-- [hzlmn/diy-async-web-framework](https://github.com/hzlmn/diy-async-web-framework) - Learn how modern async web frameworks work, by writing simple clone from scratch
-- [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
-- [dask/distributed](https://github.com/dask/distributed) - A distributed task scheduler for Dask
-- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
-- [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
-- [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
-- [tensorflow/hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
-- [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
-- [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
-- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
-- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [prometheus/client_python](https://github.com/prometheus/client_python) - Prometheus instrumentation library for Python applications
-- [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
-- [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
-- [googleapis/google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
-- [xiaolai/public-speaking-with-meaning](https://github.com/xiaolai/public-speaking-with-meaning) - 《我也有话要说》—— 普通人的当众讲话技能
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
-- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
-- [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
-- [aiven/pghoard](https://github.com/aiven/pghoard) - PostgreSQL® backup and restore service
-- [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
-- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
-- [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Data-centric declarative deep learning framework
-- [google/clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
-- [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
-- [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema) - An implementation of the JSON Schema specification for Python
-- [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
-- [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
-- [pyeve/eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
-- [pytoolz/toolz](https://github.com/pytoolz/toolz) - A functional standard library for Python.
-- [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
-- [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
-- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
-- [marteinn/The-Big-Username-Blocklist](https://github.com/marteinn/The-Big-Username-Blocklist) - This is a opinionated blocklist of words that you might not like to see used as usernames in your service.
-- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
-- [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
-- [GeneralMills/pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API for Google Trends
-- [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
-- [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
-- [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
-- [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-- [laixintao/python-parallel-programming-cookbook-cn](https://github.com/laixintao/python-parallel-programming-cookbook-cn) - 📖《Python Parallel Programming Cookbook》中文版
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ 
-- [un33k/python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
-- [devpi/devpi](https://github.com/devpi/devpi) - Python PyPi staging server and packaging, testing, release tool
-- [aio-libs/aioredis-py](https://github.com/aio-libs/aioredis-py) - asyncio (PEP 3156) Redis support
-- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
-- [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
-- [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
-- [aaugustin/websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
-- [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
-- [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- [gl4ssesbo1/Nebula](https://github.com/gl4ssesbo1/Nebula) - Nebula is a cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Comp
+- [duo-labs/secret-bridge](https://github.com/duo-labs/secret-bridge) - Monitors Github for leaked secrets
+- [DavidMGilbert/btc-hack](https://github.com/DavidMGilbert/btc-hack) - An automated bitcoin wallet generator that brute forces random wallet addresses by checking their balance in real-time using an online API .
+- [Anarbb/BitGen](https://github.com/Anarbb/BitGen) - Bitcoin wallet generator and scrapper
+- [akx/walletool](https://github.com/akx/walletool) - a tool for reading wallet.dat files
+- [0xred/HashMaster](https://github.com/0xred/HashMaster) - 
+- [eslam3kl/3klCon](https://github.com/eslam3kl/3klCon) - Automation Recon tool which works with Large & Medium scopes. It performs more than 20 tasks and gets back all the results in separated files.
+- [ZephrFish/CVE-2021-22986_Check](https://github.com/ZephrFish/CVE-2021-22986_Check) - CVE-2021-22986 Checker Script in Python3
+- [Udyz/CVE-2020-7961-Mass](https://github.com/Udyz/CVE-2020-7961-Mass) - CVE-2020–7961 Mass exploit for Script Kiddies
+- [Udyz/CVE-2021-22986-SSRF2RCE](https://github.com/Udyz/CVE-2021-22986-SSRF2RCE) - F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE
+- [Al1ex/CVE-2021-22986](https://github.com/Al1ex/CVE-2021-22986) - CVE-2021-22986 & F5 BIG-IP RCE
+- [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+- [r4v10l1/python_bruteforcer](https://github.com/r4v10l1/python_bruteforcer) - Bruteforce logins with python
+- [0xSearches/sandcastle](https://github.com/0xSearches/sandcastle) - 🏰 A Python script for AWS S3 bucket enumeration.
+- [rm1984/IMAPLoginTester](https://github.com/rm1984/IMAPLoginTester) - A simple Python script that reads a text file with lots of e-mails and passwords, and tries to check if those credentials are valid by trying to login on IMAP servers.
+- [prozaqq/mongol](https://github.com/prozaqq/mongol) - A MongoDB no authentication scanner and enumerator
+- [Ettack/MongoScan](https://github.com/Ettack/MongoScan) - MongoDB Connection Scanner for Pentesters
+- [stampery/mongoaudit](https://github.com/stampery/mongoaudit) - 🔥 A powerful MongoDB auditing and pentesting tool 🔥
+- [Accenture/jenkins-attack-framework](https://github.com/Accenture/jenkins-attack-framework) - 
+- [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
+- [cyberark/BlobHunter](https://github.com/cyberark/BlobHunter) - Find exposed data in Azure with this public blob scanner
+- [adrijano/Bitcoin-wallet-cracker](https://github.com/adrijano/Bitcoin-wallet-cracker) - Automated Bitcoin wallet generator that with mnemonic and passphrases bruteforces wallet addresses
+- [m8r0wn/nullinux](https://github.com/m8r0wn/nullinux) - Internal penetration testing tool for Linux that can be used to enumerate OS information, domain information, shares, directories, and users through SMB.
+- [DreyAnd/maian-cart-rce](https://github.com/DreyAnd/maian-cart-rce) - Maian Cart 3.8 preauth RCE exploit
+- [kakamband/WPKiller](https://github.com/kakamband/WPKiller) - CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit
+- [guy-liu/yith-giftdrop](https://github.com/guy-liu/yith-giftdrop) - Exploit for the Arbitrary File Upload vulnerability in YITH WooCommerce Gift Cards Premium
+- [infecting/phone-poc](https://github.com/infecting/phone-poc) - Proof of concept for a bot that checks gift card balances in mass via Plivo. Includes basic features for configuration. I do not associate with any misuse.
+- [stevenmirabito/balance-check](https://github.com/stevenmirabito/balance-check) - Check gift card balances for a variety of providers
+- [Aron-Tn/Smtp-cracker](https://github.com/Aron-Tn/Smtp-cracker) - [NEW] : Simple Mail Transfer Protocol (SMTP) CHECKER - CRACKER Tool V2
+- [gg2001/Hatch](https://github.com/gg2001/Hatch) - Web brute-force tool
+- [exp101t/simple-stealer](https://github.com/exp101t/simple-stealer) - Simple Google Chrome stealer, sends passwords via Telegram into private channel
+- [PuredNulled/Olgas-Kitchen-Giftcard-Checker](https://github.com/PuredNulled/Olgas-Kitchen-Giftcard-Checker) - Checks randomly generated codes to see if there is balance on them for Olga's Kitchen
+- [paysafecard/paysafecard-rest_api-PYTHON](https://github.com/paysafecard/paysafecard-rest_api-PYTHON) - paysafecard sample codes for the REST API in PYTHON. Payment, Payout, Refund
+- [Mankey/GolfNow-Giftcard-Generator](https://github.com/Mankey/GolfNow-Giftcard-Generator) - Simple GolfNow Giftcard Generator
+- [rip/Vanilla-Card-Balance-Checkers](https://github.com/rip/Vanilla-Card-Balance-Checkers) - Vanilla Card Balance Checkers
+- [hanklikesmatcha/text-files-comparison](https://github.com/hanklikesmatcha/text-files-comparison) - 
+- [hanklikesmatcha/sot-python-bootcamp-2021](https://github.com/hanklikesmatcha/sot-python-bootcamp-2021) - 
+- [jjaacckk/NordVPN-SOCKS5-Python-Proxy](https://github.com/jjaacckk/NordVPN-SOCKS5-Python-Proxy) - 
+- [Kontiarkade/NordVPN_proxy_list](https://github.com/Kontiarkade/NordVPN_proxy_list) - 
+- [hakanonymos/steal-chrome-password-all-version](https://github.com/hakanonymos/steal-chrome-password-all-version) - Python steal chrome password all version browser are supported  100 % FUD
+- [Bitwise-01/Instagram-](https://github.com/Bitwise-01/Instagram-) - Bruteforce attack for Instagram
+- [IAmBlackHacker/Facebook-BruteForce](https://github.com/IAmBlackHacker/Facebook-BruteForce) - Bruteforce attack on Facebook account using python script
+- [r4v10l1/python-dehasher](https://github.com/r4v10l1/python-dehasher) - Uses https://md5decrypt.net/en/Api/ to dehash MD5 hashes. Multiple hash version available!
+- [mrh0wl/Cloudmare](https://github.com/mrh0wl/Cloudmare) - Cloudflare, Sucuri, Incapsula real IP tracker.
+- [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
+- [christophetd/CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
+- [0xInfection/XSRFProbe](https://github.com/0xInfection/XSRFProbe) - The Prime Cross Site Request Forgery (CSRF) Audit and Exploitation Toolkit.
+- [Tuhinshubhra/dirscraper](https://github.com/Tuhinshubhra/dirscraper) - OSINT scanning tool which discovers and maps directories found in javascript files hosted on a website.
+- [random-robbie/InfiniteWP-exploit](https://github.com/random-robbie/InfiniteWP-exploit) - InfiniteWP Client &lt; 1.9.4.5 - Authentication Bypass
+- [six2dez/degoogle_hunter](https://github.com/six2dez/degoogle_hunter) - Simple fork from degoogle original project with bug hunting purposes
+- [faizann24/XssPy](https://github.com/faizann24/XssPy) - XssPy - Web Application XSS Scanner
+- [epsylon/xsser](https://github.com/epsylon/xsser) - Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications.
+- [pwn0sec/PwnXSS](https://github.com/pwn0sec/PwnXSS) - PwnXSS: Vulnerability (XSS) scanner exploit
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
+- [PaytmLabs/nerve](https://github.com/PaytmLabs/nerve) - NERVE Continuous Vulnerability Scanner
+- [aungsanoo/auto-sql-dork-scanner](https://github.com/aungsanoo/auto-sql-dork-scanner) - 
+- [mohitsahunitrr/ICG-AutoExploiterBoT](https://github.com/mohitsahunitrr/ICG-AutoExploiterBoT) - AutoExploiter Wordpress , Joomla , Drupal
+- [r0oth3x49/wp-gravity-form-exploit](https://github.com/r0oth3x49/wp-gravity-form-exploit) - WordPress Gravity Forms Plugin 1.8.19 - Arbitrary File Upload
+- [tristanlatr/WPWatcher](https://github.com/tristanlatr/WPWatcher) - Wordpress Watcher is a wrapper for WPScan that manages scans on multiple sites and reports by email and/or syslog. Schedule scans and get notified when vulnerabilities, outdated plugins and other risk
+- [BishopFox/h2csmuggler](https://github.com/BishopFox/h2csmuggler) - HTTP Request Smuggling over HTTP/2 Cleartext (h2c)
+- [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
+- [50r4/ghostbin-bruteforce-and-checker](https://github.com/50r4/ghostbin-bruteforce-and-checker) - This is my first brute force with python, which is used to create random ghostbin links, and check if they are valid
+- [onemanbuilds/EmailAccessChecker](https://github.com/onemanbuilds/EmailAccessChecker) - 
+- [adrienluitot/surfshark-linux-client](https://github.com/adrienluitot/surfshark-linux-client) - Surfshark Linux Client is simply a client for Linux for the VPN SurfShark. It’s made with python 3 and PyGObject (GTK).
+- [Aron-Tn/0day-elFinder-2020](https://github.com/Aron-Tn/0day-elFinder-2020) - Zero-Day Vulnerability in File Manager Plugin 6.7 ( CVE 2020-25213 )
+- [temadol/gmail_generator](https://github.com/temadol/gmail_generator) - python Script to generate Gmail accounts with SMS verification, written with Selenium and requests
+- [hanklikesmatcha/gift-cards-generator](https://github.com/hanklikesmatcha/gift-cards-generator) - 
+- [ramy-zemo/GiftCard-Generator](https://github.com/ramy-zemo/GiftCard-Generator) - A simple fake coupon generator which is easily extensible
+- [alifathi-h1/gh_scanner](https://github.com/alifathi-h1/gh_scanner) - GH Scanner Tool is written in Python3 and designed for penetration testers and bug bounty hunters to scan Organization/User repositories for leaks such as GitHub Token, AWS Access Keys, Slack Webhooks
+- [rctatman/xml-to-json](https://github.com/rctatman/xml-to-json) - A little Python 3 utility script to convert .xml to .json
+- [Leoid/CVE-2019-0708](https://github.com/Leoid/CVE-2019-0708) - Only Hitting PoC [Tested on Windows Server 2008 r2]
+- [iDavidef/python-getsmscode-api](https://github.com/iDavidef/python-getsmscode-api) - Python3 class for getsmscode.com's APIs
+- [josh0xA/darkdump](https://github.com/josh0xA/darkdump) - Search The Deep Web Straight From Your Terminal
+- [sonya75/NikeAccountGenerator](https://github.com/sonya75/NikeAccountGenerator) - Script to generate verified Nike+ accounts using getsmscode.com
+- [Jason-S-Wu/IPVanish-Socks5-Proxy-Gen](https://github.com/Jason-S-Wu/IPVanish-Socks5-Proxy-Gen) - A simple program that appends your IPVanish Socks5 login useful for sneaker bots
+- [1N3/Wordpress-XMLRPC-Brute-Force-Exploit](https://github.com/1N3/Wordpress-XMLRPC-Brute-Force-Exploit) - Wordpress XMLRPC System Multicall Brute Force Exploit (0day)  by 1N3 @ CrowdShield
+- [BigNerd95/Chimay-Red](https://github.com/BigNerd95/Chimay-Red) - Working POC of Mikrotik exploit from Vault 7 CIA Leaks
+- [nicolas-carolo/houndsploit](https://github.com/nicolas-carolo/houndsploit) - An advanced graphical search engine for Exploit-DB
+- [onemanbuilds/OpenBulletConfigTool](https://github.com/onemanbuilds/OpenBulletConfigTool) - This is a simple tool for openbullet configs
 - [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™
-- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
-- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
-- [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
-- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
-- [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
-- [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
-- [Grokzen/redis-py-cluster](https://github.com/Grokzen/redis-py-cluster) - Python cluster client for the official redis cluster. Redis 3.0+.
-- [kragniz/python-etcd3](https://github.com/kragniz/python-etcd3) - Python client for the etcd API v3
-- [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperp
-- [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
-- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [ansible/awx](https://github.com/ansible/awx) - AWX Project
-- [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [graphistry/pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer
-- [google/budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
-- [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of python
-- [getsentry/responses](https://github.com/getsentry/responses) - A utility for mocking out the Python Requests library.
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
-- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
-- [julien-duponchelle/python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
-- [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
-- [elastic/curator](https://github.com/elastic/curator) - Curator: Tending your Elasticsearch indices
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-- [mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin) - 汉字转拼音(pypinyin)
-- [python/cpython](https://github.com/python/cpython) - The Python programming language
-- [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
-- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
-- [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
-- [Suor/django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
-- [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
-- [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
-- [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
-- [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
-- [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-- [wechatpy/wechatpy](https://github.com/wechatpy/wechatpy) - WeChat SDK for Python
-- [elastic/elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
-- [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
-- [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
-- [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
-- [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
-- [pexpect/pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal
-- [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-- [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
-- [nvdv/vprof](https://github.com/nvdv/vprof) - Visual profiler for Python
-- [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
+- [nityanandagohain/proxy_configuration](https://github.com/nityanandagohain/proxy_configuration) - System wide proxy configuration in a single script with options to add, remove proxy and restore system default proxy configuration
+- [priyamharsh14/Prawler](https://github.com/priyamharsh14/Prawler) - Advance Proxy Scraper written in Python3
+- [z-labs/NordVPNQuickConnect](https://github.com/z-labs/NordVPNQuickConnect) - Desktop application that replaces the NordVPN command line interface (CLI) for linux machines
+- [Amirtyper/NordVpn_Checker](https://github.com/Amirtyper/NordVpn_Checker) - Cracker NordVpn Full Capture And ProxyLess 2020 !!
+- [cdown/tzupdate](https://github.com/cdown/tzupdate) - Set the system timezone based on IP geolocation
+- [AnuragSinghKushwah/anonymous-scraping](https://github.com/AnuragSinghKushwah/anonymous-scraping) - Anonymous Web Scraping using Python, Selenium, Free Proxy and Paid Proxies (luminati)
+- [pry0cc/ProxyDock](https://github.com/pry0cc/ProxyDock) - ProxyDock is a Dockerfile and Bash script that converts your OpenVPN files into local proxies.
+- [Ibonok/cassandra_scan](https://github.com/Ibonok/cassandra_scan) - Scan an apache cassandra database and dump some data
+- [lapolis/ScavengingTheScavenger](https://github.com/lapolis/ScavengingTheScavenger) - Lazy way to gather dumped credentials.
+- [TeamMsgExtractor/msg-extractor](https://github.com/TeamMsgExtractor/msg-extractor) - Extracts emails and attachments saved in Microsoft Outlook's .msg files
+- [opsdisk/cloud_metadata_extractor](https://github.com/opsdisk/cloud_metadata_extractor) - Cloud metadata extraction tools and scripts
+- [DotNetRussell/MinerInTheMiddle](https://github.com/DotNetRussell/MinerInTheMiddle) - This application was created as a POC for how to scan your local network traffic for HTTP requests and then inject various javascript cryptocurrency miners into the response payloads
+- [Shashank-In/TravisLeaks](https://github.com/Shashank-In/TravisLeaks) - A tool to find sensitive keys and passwords in Travis logs
+- [Mili-NT/DataHound](https://github.com/Mili-NT/DataHound) - A bot to scan for insecure or public FTP instances using Shodan or Masscan
+- [aqhmal/CVE-2020-5902-Scanner](https://github.com/aqhmal/CVE-2020-5902-Scanner) - Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API.
+- [aqhmal/mysql_bruteforce](https://github.com/aqhmal/mysql_bruteforce) - Python3 MySQL brute force script.
+- [d34db33f-1007/grayhat2](https://github.com/d34db33f-1007/grayhat2) - Python tool to find specific files in exposed AWS S3 servers.
+- [ghostlulzhacks/waybackSqliScanner](https://github.com/ghostlulzhacks/waybackSqliScanner) - 
+- [almandin/fuxploider](https://github.com/almandin/fuxploider) - File upload vulnerability scanner and exploitation tool.
+- [itsmehacker/DarkScrape](https://github.com/itsmehacker/DarkScrape) - OSINT Tool For Scraping Dark Websites
+- [hannob/snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
+- [xHak9x/fbi](https://github.com/xHak9x/fbi) - Facebook Information
+- [spuqe/firebase](https://github.com/spuqe/firebase) - Firebase database finder.
+- [N1ckDunn/Exploitivator](https://github.com/N1ckDunn/Exploitivator) - Automate Metasploit scanning and exploitation
+- [gyoisamurai/GyoiThon](https://github.com/gyoisamurai/GyoiThon) - GyoiThon is a growing penetration test tool using Machine Learning.
+- [ghostlulzhacks/crawler](https://github.com/ghostlulzhacks/crawler) - Crawl website extract links
+- [dadi32/PhoneSploit](https://github.com/dadi32/PhoneSploit) - Using open Adb ports we can exploit a devive
+- [bb00/zer0dump](https://github.com/bb00/zer0dump) - Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password.
+- [VoidSec/CVE-2020-1472](https://github.com/VoidSec/CVE-2020-1472) - Exploit Code for CVE-2020-1472 aka Zerologon
+- [risksense/zerologon](https://github.com/risksense/zerologon) - Exploit for zerologon cve-2020-1472
+- [dirkjanm/CVE-2020-1472](https://github.com/dirkjanm/CVE-2020-1472) - PoC for Zerologon - all research credits go to Tom Tervoort of Secura
+- [th3unkn0n/TeleGram-Scraper](https://github.com/th3unkn0n/TeleGram-Scraper) - telegram group scraper tool. fetch all information about group members
+- [infobyte/faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform
+- [stamparm/DSSS](https://github.com/stamparm/DSSS) - Damn Small SQLi Scanner
+- [delvelabs/batea](https://github.com/delvelabs/batea) - AI-based, context-driven network device ranking
+- [sdnewhop/grinder](https://github.com/sdnewhop/grinder) - :mag_right: Python framework to automatically discover and enumerate hosts from different back-end systems (Shodan, Censys)
+- [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining parameters from dark corners of Web Archives
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
+- [obheda12/GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
+- [PeterWalchhofer/Telescrape](https://github.com/PeterWalchhofer/Telescrape) - Telegram scraper for downloading messages, comment.bot/comment.app comments, users and photos
+- [logr4y/tgscrape](https://github.com/logr4y/tgscrape) - Quick and dirty public Telegram group message scraper
+- [joxeankoret/CVE-2017-7494](https://github.com/joxeankoret/CVE-2017-7494) - Remote root exploit for the SAMBA CVE-2017-7494 vulnerability
+- [betab0t/cve-2017-7494](https://github.com/betab0t/cve-2017-7494) - Proof-of-Concept exploit for CVE-2017-7494(Samba RCE from a writable share)
+- [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+- [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
+- [Rounak40/Proxy-Scraper-and-Scanner](https://github.com/Rounak40/Proxy-Scraper-and-Scanner) - 
+- [1UC1F3R616/fastProxy](https://github.com/1UC1F3R616/fastProxy) - MultiThreaded Application to Scrape Working Web Proxies
+- [TheSpeedX/socker](https://github.com/TheSpeedX/socker) - Checks SOCKS Proxy List To find Working Proxies
+- [DEMON1A/GmailBruterV2](https://github.com/DEMON1A/GmailBruterV2) - Simple tool written in python3 to perform limited brute-force attacks on gmail accounts.
+- [cerebnismus/smtplib-bruteforce](https://github.com/cerebnismus/smtplib-bruteforce) - bruteforcing gmail (TLS/SSL)
+- [alwaysminingbtc/plutushybrid](https://github.com/alwaysminingbtc/plutushybrid) - 
+- [importCTF/Instagram-Hacker](https://github.com/importCTF/Instagram-Hacker) - This is an advanced script for Instagram bruteforce attacks. WARNING THIS IS A REAL TOOL!
+- [PyYoshi/cChardet](https://github.com/PyYoshi/cChardet) - universal character encoding detector
+- [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
+- [Gr4y-r0se/Athena](https://github.com/Gr4y-r0se/Athena) - Dehashed API CLI
+- [pikpikcu/Pentest-Tools-Framework](https://github.com/pikpikcu/Pentest-Tools-Framework) - Pentest Tools Framework is a database of exploits, Scanners and tools for penetration testing. Pentest is a powerful framework includes a lot of tools for beginners. You can explore kernel vulnerabili
+- [jimywork/djangohunter](https://github.com/jimywork/djangohunter) - Tool designed to help identify incorrectly configured Django applications that are exposing sensitive information.
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+- [rfunix/Pompem](https://github.com/rfunix/Pompem) - Find exploit tool
+- [thewhiteh4t/pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) - OSINT Tool for Finding Passwords of Compromised Email Addresses
+- [powerexploit/Ashok](https://github.com/powerexploit/Ashok) - Ashok is a OSINT Recon Tool , a.k.a :heart_eyes:  Swiss Army knife .
+- [j3ers3/Searpy](https://github.com/j3ers3/Searpy) - 🥀 Search Engine Tookit，URL采集、Favicon哈希值查找真实IP、子域名查找
+- [Ucnt/aws-s3-webpage-searcher](https://github.com/Ucnt/aws-s3-webpage-searcher) - Search webpages for content loaded from write-enabled or non-existent S3 buckets.
+- [federella/sPY](https://github.com/federella/sPY) - a simple osint script to find shodan devices and public google cloud storage buckets matching a keyword
+- [seru1us/DownCloud](https://github.com/seru1us/DownCloud) - 
+- [EranGoldman/s3Scanner](https://github.com/EranGoldman/s3Scanner) - crawl the web for s3 links and then scan those buckets for interesting files
+- [Ucnt/aws-s3-downloader](https://github.com/Ucnt/aws-s3-downloader) - Download all files and XML list in a public Amazon AWS S3 bucket.
+- [aljazceru/s3-bucket-scanner](https://github.com/aljazceru/s3-bucket-scanner) - Scanner for public s3 buckets
+- [belane/CloudHunter](https://github.com/belane/CloudHunter) - AWS, Azure and Google bucket scanner
+- [dagrz/aws_pwn](https://github.com/dagrz/aws_pwn) - A collection of AWS penetration testing junk
+- [MindPointGroup/cloudfrunt](https://github.com/MindPointGroup/cloudfrunt) - A tool for identifying misconfigured CloudFront domains
+- [carnal0wnage/weirdAAL](https://github.com/carnal0wnage/weirdAAL) - WeirdAAL (AWS Attack Library)
+- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
+- [kinecosystem/xdrparser](https://github.com/kinecosystem/xdrparser) - Command line tool to unpack Stellar's history xdr files
+- [H4CK3RT3CH/github-dorks](https://github.com/H4CK3RT3CH/github-dorks) - 
+- [mzarglis/DNS-Audit](https://github.com/mzarglis/DNS-Audit) - Python script that takes a list of ips and will preform reverse lookup to resolve hostnames.
+- [J0113/ProxyHuntr](https://github.com/J0113/ProxyHuntr) - GUI Proxy Finder and Checker writting in Python + PyQt.
+- [pythonism/proxy-checker](https://github.com/pythonism/proxy-checker) - The simple script, which checks good and bad proxies
+- [jimywork/stretcher](https://github.com/jimywork/stretcher) - Tool designed to help identify open Elasticsearch servers that are exposing sensitive information
+- [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
+- [Cillian-Collins/Recon](https://github.com/Cillian-Collins/Recon) - The Recon scanning tool scans websites for open files & directories specified in the custom config file. Default server configuration files, open directories and other potentially harmful files can be
+- [Footsiefat/Footsiefat-OpenDirectoryIndexTool](https://github.com/Footsiefat/Footsiefat-OpenDirectoryIndexTool) - It allows for searching through multiple OD's at once and includes file size and download speed in preview, also includes feature to get more OD's from a google search!
+- [AllPentesting/AllIntelligence](https://github.com/AllPentesting/AllIntelligence) - Proyecto Hackathon Cybercamp 2019 - AllIntelligence nos permitirá tener una visión general de posibles vectores de ataque de una organización.
+- [mashficool/coinAPI-Scrape](https://github.com/mashficool/coinAPI-Scrape) - 
+- [iw4p/proxy-scraper](https://github.com/iw4p/proxy-scraper) - scrape proxies from more than 5 different sources and check which ones are still alive
+- [danilopolani/rotating-proxy-python](https://github.com/danilopolani/rotating-proxy-python) - Rotating proxy crawler in Python
+- [constverum/ProxyBroker](https://github.com/constverum/ProxyBroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
+- [Yutixcode/Dolkings](https://github.com/Yutixcode/Dolkings) - Dorking google with python (easy) (support Termux)
+- [trustedsec/cve-2019-19781](https://github.com/trustedsec/cve-2019-19781) - This is a tool published for the Citrix ADC (NetScaler) vulnerability. We are only disclosing this due to others publishing the exploit code first.
+- [davidburkitt/python-secret-scanner](https://github.com/davidburkitt/python-secret-scanner) - 
+- [ctxis/crackerjack](https://github.com/ctxis/crackerjack) - CrackerJack / Hashcat Web Interface / Context Information Security
+- [ruped24/toriptables2](https://github.com/ruped24/toriptables2) - Tor Iptables script is an anonymizer that sets up iptables and tor to route all services and traffic including DNS through the Tor network.
+- [xajkep/wordlists](https://github.com/xajkep/wordlists) - Infosec Wordlists
+- [jordanpotti/CloudScraper](https://github.com/jordanpotti/CloudScraper) - CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.
+- [citcheese/aws-s3-bruteforce](https://github.com/citcheese/aws-s3-bruteforce) - Amazon AWS S3 Bucket Name Bruteforce
+- [citcheese/ODBParser](https://github.com/citcheese/ODBParser) - OSINT tool to search, parse and dump only the open Elasticsearch and MongoDB directories that have the data you care about exposing
+- [citcheese/SqlParserPlus](https://github.com/citcheese/SqlParserPlus) - convert SQL dumps and other leaked db dump formats to CSV
+- [opsdisk/metagoofil](https://github.com/opsdisk/metagoofil) - Search Google and download specific file types
+- [opsdisk/theHarvester](https://github.com/opsdisk/theHarvester) - A multithreaded rewrite of the classic theHarvester email address collection script.
+- [TarlogicSecurity/kerbrute](https://github.com/TarlogicSecurity/kerbrute) - An script to perform kerberos bruteforcing by using impacket
+- [aydinnyunus/Keylogger](https://github.com/aydinnyunus/Keylogger) - Get Keyboard,Mouse,ScreenShot,Microphone Inputs from Target Computer and Send to your Mail.
+- [dotjavafile/Simple-Dork-Scanner](https://github.com/dotjavafile/Simple-Dork-Scanner) - 
+- [EnableSecurity/sipvicious](https://github.com/EnableSecurity/sipvicious) - SIPVicious OSS has been around since 2007 and is actively updated to help security teams, QA and developers test SIP-based VoIP systems and applications.
+- [Xpykerz/DorkScanner](https://github.com/Xpykerz/DorkScanner) - Simple Tool To Find Vulnerable Sites Using Dork.
+- [Xpykerz/Spotify-Checker](https://github.com/Xpykerz/Spotify-Checker) - Mass Spotify Accounts Checker
+- [behnambm/nordvpn-checker](https://github.com/behnambm/nordvpn-checker) - A simple script to check NordVpn login
+- [dorkerdevil/ImageTragick_exploit](https://github.com/dorkerdevil/ImageTragick_exploit) - Imagick RCE exploit poc tool
+- [SilverPoision/PoC-s](https://github.com/SilverPoision/PoC-s) - Containing all the PoC's of last year on most famous bug bounty sites
+- [utkusen/leviathan](https://github.com/utkusen/leviathan) - wide range mass audit toolkit
+- [viniciushenriqueti/LetMeFuckIt-Scanner](https://github.com/viniciushenriqueti/LetMeFuckIt-Scanner) - Scanner and Exploit for Magento 1.9
+- [ambionics/magento-exploits](https://github.com/ambionics/magento-exploits) - Exploits for Magento 2.3.0 and lower
+- [incredibleindishell/Magento-shoplift-python-exploit](https://github.com/incredibleindishell/Magento-shoplift-python-exploit) - Magento shoplift exploit is vulnerability which was discovered by CheckPoint team (http://blog.checkpoint.com/2015/04/20/analyzing-magento-vulnerability/) This python script developed by joren but it 
+- [knassar702/scant3r](https://github.com/knassar702/scant3r) - ScanT3r - Module based Bug Bounty Automation Tool
+- [madhavmehndiratta/dorkScanner](https://github.com/madhavmehndiratta/dorkScanner) - A typical search engine dork scanner scrapes search engines with dorks that you provide in order to find vulnerable URLs.
+- [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
+- [0xDanielLopez/pwn_check](https://github.com/0xDanielLopez/pwn_check) - Checks if the given emails have been pwned.
+- [Techno-Hwizrdry/checkpwnedemails](https://github.com/Techno-Hwizrdry/checkpwnedemails) - A command line tool to check if a single (or multiple) email addresses have been compromised.
+- [equalitie/shodan_fingerprinter](https://github.com/equalitie/shodan_fingerprinter) - Script fingerprinting systems based on shodan.io data
+- [tenable/poc](https://github.com/tenable/poc) - Proof of Concepts
+- [n0x08/ShodanTools](https://github.com/n0x08/ShodanTools) - Collection of scripts & fingerprinting tricks for Shodan.io
+- [n0x08/AllYourCloud](https://github.com/n0x08/AllYourCloud) - Data collection scripts for All Your Cloud Are Belong To Us conference talk
+- [wormHole3001/shodan](https://github.com/wormHole3001/shodan) - 
+- [13o-bbr-bbq/machine_learning_security](https://github.com/13o-bbr-bbq/machine_learning_security) - Source code about machine learning and security.
+- [AahmetTURGUT/FindOpenDatabase](https://github.com/AahmetTURGUT/FindOpenDatabase) - Find open MongoDB and Elasticsearch databases details and get to Json
+- [JLospinoso/memcachedump](https://github.com/JLospinoso/memcachedump) - Use your Shodan API Key to dump all the contents of exposed memcached servers.
+- [imnikola/ShodanAnomymousDirs](https://github.com/imnikola/ShodanAnomymousDirs) - FTP server crawler for anonymous login based on shodan
+- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, coll
+- [orleven/Tentacle](https://github.com/orleven/Tentacle) - Tentacle is a POC vulnerability verification and exploit framework. It supports free extension of exploits and uses POC scripts. It supports calls to zoomeye, fofa, shodan and other APIs to perform bu
+- [davidfoerster/aptsources-cleanup](https://github.com/davidfoerster/aptsources-cleanup) - Detects and interactively deactivates duplicate Apt source entries and deletes sources list files without valid enabled source entries (as requested in https://askubuntu.com/a/762815/175814).
+- [s0md3v/Silver](https://github.com/s0md3v/Silver) - Mass scan IPs for vulnerable services
+- [sharathunni/auto-recon-ng](https://github.com/sharathunni/auto-recon-ng) - Automated script to run all modules for a specified list of domains, netblocks or company name
+- [Tuhinshubhra/CMSeeK](https://github.com/Tuhinshubhra/CMSeeK) - CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs
+- [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collecti
+- [ShielderSec/webtech](https://github.com/ShielderSec/webtech) - Identify technologies used on websites.
+- [anantshri/DS_Store_crawler_parser](https://github.com/anantshri/DS_Store_crawler_parser) - a parser + crawler for .DS_Store files exposed publically
+- [mazen160/bfac](https://github.com/mazen160/bfac) - BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.
+- [dmgbuild/ds_store](https://github.com/dmgbuild/ds_store) - 
+- [m4ll0k/Atlas](https://github.com/m4ll0k/Atlas) - Quick SQLMap Tamper Suggester
+- [NullArray/DorkNet](https://github.com/NullArray/DorkNet) - Selenium powered Python script to automate searching for vulnerable web apps.
+- [jaxBCD/Zeebsploit](https://github.com/jaxBCD/Zeebsploit) - web scanner - exploitation - information gathering
+- [Ekultek/Zeus-Scanner](https://github.com/Ekultek/Zeus-Scanner) - Advanced reconnaissance utility
+- [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
+- [ejedev/dorkhunter](https://github.com/ejedev/dorkhunter) - Searches and tests SQL dorks to find vulnerable sites.
+- [jaxBCD/Ultimate-Dork](https://github.com/jaxBCD/Ultimate-Dork) - Web Crawler
+- [m4ll0k/SecretFinder](https://github.com/m4ll0k/SecretFinder) - SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files
+- [0x27/shodan_key_checker](https://github.com/0x27/shodan_key_checker) - Quick script written for sorting and categorizing Shodan API keys acquired via scraping the internet.
+- [umarfarook882/PyNessus_Generate_Activation_Code](https://github.com/umarfarook882/PyNessus_Generate_Activation_Code) - Generate Multiple Nessus Activation Code using Temp Mail Service.
+- [CITGuru/tempmail](https://github.com/CITGuru/tempmail) - A Python wrapper for online service which provides temporary email address: https://temp-mail.org/
+- [bruderstein/PythonScript](https://github.com/bruderstein/PythonScript) - Python Script plugin for Notepad++
+- [notepad-plus-plus/nppPluginList](https://github.com/notepad-plus-plus/nppPluginList) - The official collection of Notepad++ plugins.
+- [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
+- [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+- [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
+- [codingo/Reconnoitre](https://github.com/codingo/Reconnoitre) - A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
+- [random-robbie/My-Shodan-Scripts](https://github.com/random-robbie/My-Shodan-Scripts) - Collection of Scripts for shodan searching stuff.
+- [RUB-NDS/PRET](https://github.com/RUB-NDS/PRET) - Printer Exploitation Toolkit - The tool that made dumpster diving obsolete.
+- [InQuest/omnibus](https://github.com/InQuest/omnibus) - The OSINT Omnibus (beta release)
+- [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor) - Extract and aggregate threat intelligence.
+- [christophetd/censys-subdomain-finder](https://github.com/christophetd/censys-subdomain-finder) - ⚡ Perform subdomain enumeration using the certificate transparency logs from Censys.
+- [dionach/CMSmap](https://github.com/dionach/CMSmap) - CMSmap is a python open source CMS scanner that automates the process of detecting security flaws of the most popular CMSs.
+- [golismero/golismero](https://github.com/golismero/golismero) - GoLismero - The Web Knife
+- [linkchecker/linkchecker](https://github.com/linkchecker/linkchecker) - check links in web documents or full websites
+- [Cyb0r9/ispy](https://github.com/Cyb0r9/ispy) - ispy V1.0 - Eternalblue(ms17-010)/Bluekeep(CVE-2019-0708) Scanner and exploit ( Metasploit automation )
+- [ReddyyZ/URLBrute-Py](https://github.com/ReddyyZ/URLBrute-Py) - Tool to brute website sub-domains and dirs.
+- [RedVirus0/BlackDir-Framework](https://github.com/RedVirus0/BlackDir-Framework) - Web Application Vulnerability Scanner
+- [UndeadSec/Idisagree](https://github.com/UndeadSec/Idisagree) - Control remote computers using discord bot and python 3.
+- [sf197/hashboy-tool](https://github.com/sf197/hashboy-tool) - a hash query tool
+- [PortSwigger/google-hack](https://github.com/PortSwigger/google-hack) - Burp Suite Extension providing Google Hacking Interface
+- [EONRaider/blackhat-python3](https://github.com/EONRaider/blackhat-python3) - Source code for the book "Black Hat Python" by Justin Seitz. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues invo
+- [SusmithKrishnan/torghost](https://github.com/SusmithKrishnan/torghost) - TorGhost is an anonymization script. TorGhost redirects all internet traffic through SOCKS5 tor proxy. DNS requests are also redirected via tor, thus preventing DNSLeak. The scripts also disables unsa
+- [aas-n/spraykatz](https://github.com/aas-n/spraykatz) - Credentials gathering tool automating remote procdump and parse of lsass process.
+- [BullsEye0/dorks-eye](https://github.com/BullsEye0/dorks-eye) - Dorks Eye Google Hacking Dork Scraping and Searching Script. Dorks Eye is a script I made in python 3. With this tool, you can easily find Google Dorks. Dork Eye collects potentially vulnerable web pa
+- [jullrich/pcap2curl](https://github.com/jullrich/pcap2curl) - Read a packet capture, extract HTTP requests and turn them into cURL commands for replay.
+- [indrajithi/tiny-web-crawler](https://github.com/indrajithi/tiny-web-crawler) - A tiny web crawler in Python
+- [s0md3v/Orbit](https://github.com/s0md3v/Orbit) - Blockchain Transactions Investigation Tool
+- [N4rr34n6/uDork](https://github.com/N4rr34n6/uDork) - 
+- [unix-ninja/infosec-pastebin-scraper](https://github.com/unix-ninja/infosec-pastebin-scraper) - Scrape pastes from pastebin and archive them for review
+- [nerrorsec/nDorker](https://github.com/nerrorsec/nDorker) - Automate dorking while doing bug bounty or other stuffs.
+- [sleeyax/Chainforger](https://github.com/sleeyax/Chainforger) - Proxy scraper for proxychains
+- [n4xh4ck5/N4xD0rk](https://github.com/n4xh4ck5/N4xD0rk) - Listing subdomains about a main domain
+- [taraslayshchuk/es2csv](https://github.com/taraslayshchuk/es2csv) - Export from an Elasticsearch into a CSV file
+- [brianwarehime/inSp3ctor](https://github.com/brianwarehime/inSp3ctor) - AWS S3 Bucket/Object Finder
+- [MandConsultingGroup/Scylla](https://github.com/MandConsultingGroup/Scylla) - The Simplistic Information Gathering Engine | Find Advanced Information on a Username, Website, Phone Number, etc.
+- [btc-room101/bitcoin-rnn](https://github.com/btc-room101/bitcoin-rnn) - rnn/lstm to generate private keys from public keys of known high value
+- [dan-v/bruteforce-bitcoin-brainwallet](https://github.com/dan-v/bruteforce-bitcoin-brainwallet) - Bruteforce dictionary attack on bitcoin brain wallets
+- [Phildo/ethbrute](https://github.com/Phildo/ethbrute) - brute forces an ethereum wallet based on a list of passwords.
+- [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
+- [arnaucube/coffeeMiner](https://github.com/arnaucube/coffeeMiner) - collaborative (mitm) cryptocurrency mining pool in wifi networks
+- [Ucnt/aws-s3-data-finder](https://github.com/Ucnt/aws-s3-data-finder) - AWS S3 Sensitive Data Search
+- [khast3x/credmap](https://github.com/khast3x/credmap) - The Credential Mapper
+- [dxa4481/truffleHogRegexes](https://github.com/dxa4481/truffleHogRegexes) - These are the regexes that power truffleHog
+- [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for open S3 buckets and dump the contents
+- [jhaddix/domain](https://github.com/jhaddix/domain) - Setup script for Regon-ng
+- [infosec-au/altdns](https://github.com/infosec-au/altdns) - Generates permutations, alterations and mutations of subdomains and then resolves them
+- [nagwww/101-AWS-EC2-Hacks](https://github.com/nagwww/101-AWS-EC2-Hacks) - 
+- [RhinoSecurityLabs/GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - A script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.
+- [RhinoSecurityLabs/ccat](https://github.com/RhinoSecurityLabs/ccat) - Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.
+- [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
+- [Isaacdelly/Plutus](https://github.com/Isaacdelly/Plutus) - An automated bitcoin wallet collider that brute forces random wallet addresses
+- [Tylous/SniffAir](https://github.com/Tylous/SniffAir) - A framework for wireless pentesting.
+- [AngelSecurityTeam/Cam-Hackers](https://github.com/AngelSecurityTeam/Cam-Hackers) - Hack Cameras  CCTV FREE
+- [sc0tfree/mentalist](https://github.com/sc0tfree/mentalist) - Mentalist is a graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat an
+- [4n4nk3/Wordlister](https://github.com/4n4nk3/Wordlister) - A simple wordlist generator and mangler written in Python 3.8.
+- [hash3liZer/WiFiBroot](https://github.com/hash3liZer/WiFiBroot) - A Wireless (WPA/WPA2) Pentest/Cracking tool. Captures & Crack 4-way handshake and PMKID key. Also, supports a deauthentication/jammer mode for stress testing
+- [Damian89/extended-xss-search](https://github.com/Damian89/extended-xss-search) - A better version of my xssfinder tool - scans for different types of xss on a list of urls.
+- [am0nt31r0/OSINT-Search](https://github.com/am0nt31r0/OSINT-Search) - Useful for digital forensics investigations or initial black-box pentest footprinting.
+- [dionach/PhEmail](https://github.com/dionach/PhEmail) - PhEmail is a python open source phishing email tool that automates the process of sending phishing emails as part of a social engineering test
+- [skavngr/rapidscan](https://github.com/skavngr/rapidscan) - :new: The Multi-Tool Web Vulnerability Scanner.
+- [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
+- [Voulnet/barq](https://github.com/Voulnet/barq) - barq: The AWS Cloud Post Exploitation framework!
+- [ultrasecurity/webkiller](https://github.com/ultrasecurity/webkiller) - Tool Information Gathering Write By Python.
+- [kavishgr/xmlrpc-bruteforcer](https://github.com/kavishgr/xmlrpc-bruteforcer) - An XMLRPC brute forcer targeting Wordpress written in Python 3. (DISCONTINUED)
+- [clario-tech/s3-inspector](https://github.com/clario-tech/s3-inspector) - Tool to check AWS S3 bucket permissions
+- [samhaxr/hackbox](https://github.com/samhaxr/hackbox) - HackBox is the combination of awesome techniques. [1] - Xss [2] - Exploits [3] - Subdomain scanner [4] - Whois Lookup [5] - SSRF Injection [6] - Nmap Auto banner [7] - Js Url parser [8] - Web Headers 
+- [sensepost/DET](https://github.com/sensepost/DET) - (extensible) Data Exfiltration Toolkit (DET)
+- [MuhammadKhizerJaved/Insecure-Firebase-Exploit](https://github.com/MuhammadKhizerJaved/Insecure-Firebase-Exploit) - A simple Python Exploit to Write Data to Insecure/vulnerable firebase databases! Commonly found inside Mobile Apps. If the owner of the app have set the security rules as true for both "read" & "write
+- [Turr0n/firebase](https://github.com/Turr0n/firebase) - Exploiting misconfigured firebase databases
+- [treebuilder/ipinfo](https://github.com/treebuilder/ipinfo) - Script to quickly enrich an IP address
+- [treebuilder/s3-mining](https://github.com/treebuilder/s3-mining) - Code to check AWS S3 buckets
+- [berzerk0/BEWGor](https://github.com/berzerk0/BEWGor) - Bull's Eye Wordlist Generator - Does your password rely on predictable patterns of accessible info?
+- [5h4d0wb0y/crackhash](https://github.com/5h4d0wb0y/crackhash) - Crackhash is a tool that try to crack different types of hashes using free online services.
+- [5h4d0wb0y/socialbrute](https://github.com/5h4d0wb0y/socialbrute) - It attempts to crack social networks using a brute force dictionary attack.
+- [norksec/torcrack](https://github.com/norksec/torcrack) - A simple Tor enabled, multi-process SSH dictionary attack in Python3.
+- [k4m4/dymerge](https://github.com/k4m4/dymerge) - 🔓 A dynamic dictionary merger for successful dictionary based attacks.
+- [MrHeathLedger/wordlist-generator](https://github.com/MrHeathLedger/wordlist-generator) - 
+- [initstring/lyricpass](https://github.com/initstring/lyricpass) - Password wordlist generator using song lyrics for targeted bruteforce audits / attacks. Useful for penetration testing or security research.
+- [emtunc/SlackPirate](https://github.com/emtunc/SlackPirate) - Slack Enumeration and Extraction Tool - extract sensitive information from a Slack Workspace
+- [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
+- [dvopsway/datasploit](https://github.com/dvopsway/datasploit) - A tool to perform various OSINT techniques, aggregate all the raw data, visualise it on a dashboard, and facilitate alerting and monitoring on the data.
+- [derv82/wifite](https://github.com/derv82/wifite) - 
+- [clarketm/s3recon](https://github.com/clarketm/s3recon) - Amazon S3 bucket finder and crawler.
+- [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
+- [medialab/ural](https://github.com/medialab/ural) - A helper library full of URL-related heuristics.
+- [medialab/minet](https://github.com/medialab/minet) - A webmining CLI tool & library for python.
+- [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
+- [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
+- [Mili-NT/BinBot](https://github.com/Mili-NT/BinBot) - A scraper written in python to scrape the public pastebin archive and filter with customizable and extensible YARA rules
+- [cvandeplas/pystemon](https://github.com/cvandeplas/pystemon) - Monitoring tool for PasteBin-alike sites written in Python. Inspired by pastemon http://github.com/xme/pastemon
+- [Dascienz/phpBB-forum-scraper](https://github.com/Dascienz/phpBB-forum-scraper) - Python-based web crawlers for scraping phpBB forum posts.
+- [rivermont/spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler.
+- [SmoZy92/Shodomain](https://github.com/SmoZy92/Shodomain) - Shodan subdomain finder
+- [lclevy/firepwd](https://github.com/lclevy/firepwd) - firepwd.py, an open source tool to decrypt Mozilla protected passwords
+- [jordanpotti/AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets
+- [deepdivesec/GitMAD](https://github.com/deepdivesec/GitMAD) - Monitor, Alert, and Discover sensitive info and data leakage on Github.
+- [eth0izzle/bucket-stream](https://github.com/eth0izzle/bucket-stream) - Find interesting Amazon S3 Buckets by watching certificate transparency logs.
+- [vfosterm/NordVPN-NetworkManager-Gui](https://github.com/vfosterm/NordVPN-NetworkManager-Gui) - A NordVPN GUI client for linux using the native Network Manager
+- [morpheusthewhite/nordpy](https://github.com/morpheusthewhite/nordpy) - A gui application to connect automatically to the recommended NordVPN server
+- [jotyGill/openpyn-nordvpn](https://github.com/jotyGill/openpyn-nordvpn) - Easily connect to and switch between, OpenVPN servers hosted by NordVPN on Linux (+patch leakes)
+- [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
+- [wavestone-cdt/wavecrack](https://github.com/wavestone-cdt/wavecrack) - Wavestone's web interface for password cracking with hashcat
+- [mIcHyAmRaNe/PUPI](https://github.com/mIcHyAmRaNe/PUPI) - 🛅 Passwords using personal information
+- [mIcHyAmRaNe/okadminfinder3](https://github.com/mIcHyAmRaNe/okadminfinder3) - [ Admin panel finder / Admin Login Page Finder ] ¢σ∂є∂ ву 👻 (❤-❤) 👻
+- [blueudp/Deep-Explorer](https://github.com/blueudp/Deep-Explorer) - Deep Explorer is a ( 1 day developed ) tool made in python which purpose is the search of hidden services in tor network, using Ahmia Browser and crawling the links obtained
+- [iojw/socialscan](https://github.com/iojw/socialscan) - Python library and CLI for accurately querying username and email usage on online platforms
+- [c0rv4x/project-black](https://github.com/c0rv4x/project-black) - Pentest/BugBounty progress control with scanning modules
+- [Starwarsfan2099/Python-Hash-Cracker](https://github.com/Starwarsfan2099/Python-Hash-Cracker) - Python Hash Cracker.
+- [tegal1337/NekoBotV1](https://github.com/tegal1337/NekoBotV1) - NekoBot | Auto Exploiter With 500+ Exploit 2000+ Shell
+- [TebbaaX/Katana](https://github.com/TebbaaX/Katana) - Python Tool that gives you the ability to run Advanced Google Queries (Known as Google Dorks - Google Dorking)
+- [hexway/r00kie-kr00kie](https://github.com/hexway/r00kie-kr00kie) - PoC exploit for the CVE-2019-15126 kr00k vulnerability
+- [nxnjz/unhashit](https://github.com/nxnjz/unhashit) - Simple Script to query hash databases APIs
+- [tatanus/SPF](https://github.com/tatanus/SPF) - SpeedPhishing Framework
+- [Greenwolf/social_mapper](https://github.com/Greenwolf/social_mapper) - A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
+- [Nekmo/dirhunt](https://github.com/Nekmo/dirhunt) - Find web directories without bruteforce
+- [Viralmaniar/Passhunt](https://github.com/Viralmaniar/Passhunt) - Passhunt is a simple tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords.
+- [sameera-madushan/InstaSave](https://github.com/sameera-madushan/InstaSave) - Python script to download images, videos & profile pictures from Instagram.
+- [3xploit-db/Pentest-Tools-Framework](https://github.com/3xploit-db/Pentest-Tools-Framework) - Pentest Tools Framework is a database of exploits, Scanners and tools for penetration testing. Pentest is a powerful framework includes a lot of tools for beginners. You can explore kernel vulnerabili
+- [tarunkant/fuzzphunc](https://github.com/tarunkant/fuzzphunc) - This repo contains the lazyFuzzer and the Report on the output from the same
+- [cujanovic/Content-Bruteforcing-Wordlist](https://github.com/cujanovic/Content-Bruteforcing-Wordlist) - Wordlist for content(directory) bruteforce discovering with Burp or dirsearch
+- [cujanovic/SSRF-Testing](https://github.com/cujanovic/SSRF-Testing) - SSRF (Server Side Request Forgery) testing resources
+- [swisskyrepo/SSRFmap](https://github.com/swisskyrepo/SSRFmap) - Automatic SSRF fuzzer and exploitation tool
+- [xillwillx/skiptracer](https://github.com/xillwillx/skiptracer) - OSINT python webscaping framework
+- [SimplySecurity/SimplyEmail](https://github.com/SimplySecurity/SimplyEmail) - Email recon made fast and easy, with a framework to build on
+- [darkmatter0/PyGLE](https://github.com/darkmatter0/PyGLE) - Python Wigle API originally by Jamie Bull
+- [knownsec/ZoomEye-python](https://github.com/knownsec/ZoomEye-python) - ZoomEye-python: The official Python library and CLI by Knownsec 404 Team.
+- [censys/censys-python](https://github.com/censys/censys-python) - An easy-to-use and lightweight API wrapper for Censys APIs.
+- [BaiqingL/AWSY](https://github.com/BaiqingL/AWSY) - Are.We.Secure.Yet Framework aims to test the wifi security of a location, attempting to locate individual devices
+- [mgp25/Probe-Hunter](https://github.com/mgp25/Probe-Hunter) - Probe Request sniffer + Wigle
+- [misterch0c/shadowbroker](https://github.com/misterch0c/shadowbroker) - The Shadow Brokers "Lost In Translation" leak
+- [martinvigo/voicemailautomator](https://github.com/martinvigo/voicemailautomator) - A tool that serves as a Proof of Concept for the research I presented at DEF CON 26, "Compromising online accounts by cracking voicemail systems"
+- [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
+- [1N3/BlackWidow](https://github.com/1N3/BlackWidow) - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.
+- [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
+- [automatingosint/osint_public](https://github.com/automatingosint/osint_public) - 
+- [Porchetta-Industries/CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
+- [GoSecure/freshonions-torscraper](https://github.com/GoSecure/freshonions-torscraper) - Fresh Onions is an open source TOR spider / hidden service onion crawler
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [GoSecure/pyrdp](https://github.com/GoSecure/pyrdp) - RDP monster-in-the-middle (mitm) and library for Python with the ability to watch connections live or after the fact
+- [arthastang/Router-Exploit-Shovel](https://github.com/arthastang/Router-Exploit-Shovel) - Automated Application Generation for Stack Overflow Types on Wireless Routers
+- [abhisharma404/vault](https://github.com/abhisharma404/vault) - swiss army knife for hackers
+- [brutemap-dev/brutemap](https://github.com/brutemap-dev/brutemap) - Let's find someone's account
+- [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
+- [sc1341/InstagramOSINT](https://github.com/sc1341/InstagramOSINT) - An Instagram Open Source Intelligence Tool
+- [defaultnamehere/cookie_crimes](https://github.com/defaultnamehere/cookie_crimes) - Read local Chrome cookies without root or decrypting
+- [BishopFox/GitGot](https://github.com/BishopFox/GitGot) - Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
+- [BishopFox/zigdiggity](https://github.com/BishopFox/zigdiggity) - A ZigBee hacking toolkit by Bishop Fox
+- [HatBashBR/ShodanHat](https://github.com/HatBashBR/ShodanHat) - search for hosts info with shodan
+- [shantnu/RedditBot](https://github.com/shantnu/RedditBot) - 
+- [droberson/pastebin-scrape](https://github.com/droberson/pastebin-scrape) - Utilize Pastebin's scraping API to find interesting pastes.
+- [mikewilks/simple-pastebin-monitor](https://github.com/mikewilks/simple-pastebin-monitor) - A simple pastebin monitor using the scraping API
+- [laramies/metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester
+- [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
+- [secworld/theHarvester](https://github.com/secworld/theHarvester) - E-mail, subdomain and people names harvester
+- [secworld/Breach-Miner](https://github.com/secworld/Breach-Miner) - A tool to harvest credentials from leaked data dump
+- [shogunlab/Gitformant](https://github.com/shogunlab/Gitformant) - OSINT tool for discovering confidential data leaked on Github.
+- [beamzer/pastebin-monitor-and-alert](https://github.com/beamzer/pastebin-monitor-and-alert) - A pastebin monitor using the scraping API with pushover alerts
+- [DataSploit/datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc.,  aggregate all the raw data, and give data in multiple formats.
+- [pry0cc/pdf-get](https://github.com/pry0cc/pdf-get) - A badass grabbing tool for getting PDF's of books.
+- [Mili-NT/Keyring](https://github.com/Mili-NT/Keyring) - A tool to spider Github or search URLs for various information leaks
+- [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework) - AIL framework - Analysis Information Leak framework. Project moved to https://github.com/ail-project
+- [hyp3ri0n-ng/scylla](https://github.com/hyp3ri0n-ng/scylla) - scylla.sh db dumps and more
+- [skickar/LAOSINT](https://github.com/skickar/LAOSINT) - OSINT programs using open data from the city of Los Angeles
+- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+- [sham00n/waybulk](https://github.com/sham00n/waybulk) - Search a list of domains on the wayback machine
+- [UnkL4b/GitMiner](https://github.com/UnkL4b/GitMiner) - Tool for advanced mining for content on Github
+- [byt3bl33d3r/SprayingToolkit](https://github.com/byt3bl33d3r/SprayingToolkit) - Scripts to make password spraying attacks against Lync/S4B, OWA & O365 a lot quicker, less painful and more efficient
+- [Lookyloo/lookyloo](https://github.com/Lookyloo/lookyloo) - Lookyloo is a web interface that allows users to capture a website page and then display a tree of domains that call each other.
+- [PBDataRecon/PBDataRecon](https://github.com/PBDataRecon/PBDataRecon) - Pastebin Analysis and Storage Tool
+- [tweepy/tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
+- [techgaun/github-dorks](https://github.com/techgaun/github-dorks) - Find leaked secrets via github search
+- [joaopsys/NowCrawling](https://github.com/joaopsys/NowCrawling) - A web crawler that will help you find files and lots of interesting information.
+- [saeeddhqan/Maryam](https://github.com/saeeddhqan/Maryam) - Maryam: Open-source Intelligence(OSINT) Framework
+- [SafeNetIS/Ahadu](https://github.com/SafeNetIS/Ahadu) - Generate a password list for brute force attacks based on list of words provided
+- [blueudp/DorkMe](https://github.com/blueudp/DorkMe) - [WORKING IN V2, WITH PROXIES, CUSTOM USER AGENT... TO MUCH BETTER!]DorkMe is a tool designed with the purpose of making easier the searching of vulnerabilities with Google Dorks, such as SQL Injection
+- [ztgrace/changeme](https://github.com/ztgrace/changeme) - A default credential scanner.
+- [Matrix07ksa/Brute_Force](https://github.com/Matrix07ksa/Brute_Force) - Brute_Force_Attack Gmail Hotmail Twitter Facebook Netflix
+- [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
+- [guelfoweb/knock](https://github.com/guelfoweb/knock) - Knock Subdomain Scan
+- [hisxo/gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
+- [SofianeHamlaoui/Lockdoor-Framework](https://github.com/SofianeHamlaoui/Lockdoor-Framework) - 🔐 Lockdoor Framework : A Penetration Testing framework with Cyber Security Resources
+- [Telefonica/HomePWN](https://github.com/Telefonica/HomePWN) - HomePwn - Swiss Army Knife for Pentesting of IoT Devices
+- [BullsEye0/ghost_eye](https://github.com/BullsEye0/ghost_eye) - Ghost Eye Informationgathering Footprinting Scanner and Recon Tool Release. Ghost Eye is an Information Gathering Tool I made in python 3. To run Ghost Eye, it only needs a domain or ip. Ghost Eye can
+- [vesche/scanless](https://github.com/vesche/scanless) - online port scan scraper
+- [utiso/dorkbot](https://github.com/utiso/dorkbot) - Command-line tool to scan Google search results for vulnerabilities
+- [Viralmaniar/Wifi-Dumper](https://github.com/Viralmaniar/Wifi-Dumper) - This is an open source tool to dump the wifi profiles and cleartext passwords of the connected access points on the Windows machine. This tool will help you in a Wifi penetration testing. Furthermore,
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [googleprojectzero/iOS-messaging-tools](https://github.com/googleprojectzero/iOS-messaging-tools) - 
+- [taspinar/twitterscraper](https://github.com/taspinar/twitterscraper) - Scrape Twitter for Tweets
+- [s0md3v/goop](https://github.com/s0md3v/goop) - Google Search Scraper
+- [f0cker/crackq](https://github.com/f0cker/crackq) - CrackQ: A Python Hashcat cracking queue system
+- [BullsEye0/shodan-eye](https://github.com/BullsEye0/shodan-eye) - Shodan Eye This tool collects all the information about all devices directly connected to the internet using the specified keywords that you enter. Author: Jolanda de Koff
+- [drygdryg/OneShot](https://github.com/drygdryg/OneShot) - Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant
+- [BlackArch/wordlistctl](https://github.com/BlackArch/wordlistctl) - Fetch, install and search wordlist archives from websites and torrent peers.
+- [securing/DumpsterDiver](https://github.com/securing/DumpsterDiver) - Tool to search secrets in various filetypes.
+- [PortSwigger/asset-discovery](https://github.com/PortSwigger/asset-discovery) - Burp Suite extension to discover assets from HTTP response.
+- [thehackingsage/bughunter](https://github.com/thehackingsage/bughunter) - Tools for BugHunting
+- [timbo05sec/autocrack](https://github.com/timbo05sec/autocrack) - Hashcat wrapper to help automate the cracking process
+- [SmeegeSec/HashTag](https://github.com/SmeegeSec/HashTag) - Password Hash Identification
+- [psypanda/hashID](https://github.com/psypanda/hashID) - Software to identify the different types of hashes -
+- [SUP3RIA/Atlantr](https://github.com/SUP3RIA/Atlantr) - Fastes Email:Pass Checker on the planet.
+- [kevthehermit/PasteHunter](https://github.com/kevthehermit/PasteHunter) - Scanning pastebin with yara rules
+- [kahunalu/pwnbin](https://github.com/kahunalu/pwnbin) - Python Pastebin Webcrawler that returns list of public pastebins containing keywords
+- [Mebus/cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
+- [nsonaniya2010/SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) - A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github.
+- [lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng) - Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.
+- [m4ll0k/Infoga](https://github.com/m4ll0k/Infoga) - Infoga - Email OSINT
+- [screetsec/BruteSploit](https://github.com/screetsec/BruteSploit) - BruteSploit is a collection of method for automated Generate, Bruteforce and Manipulation wordlist with interactive shell. That can be used during a penetration test to enumerate and maybe can be used
+- [s0md3v/Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
+- [needmorecowbell/sniff-paste](https://github.com/needmorecowbell/sniff-paste) - Pastebin OSINT Harvester
+- [sham00n/buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
+- [D4Vinci/Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r) - Know the dangers of credential reuse attacks.
+- [shodansploit/shodansploit](https://github.com/shodansploit/shodansploit) - 🔎 shodansploit &gt; v1.3.0
+- [malwaredllc/bamf](https://github.com/malwaredllc/bamf) - A tool which utilizes Shodan to detect vulnerable IoT devices.
+- [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
+- [calebmadrigal/trackerjacker](https://github.com/calebmadrigal/trackerjacker) - Like nmap for mapping wifi networks you're not connected to, plus device tracking
+- [waseem-sajjad/WifiGod](https://github.com/waseem-sajjad/WifiGod) - 
+- [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
+- [SigPloiter/HLR-Lookups](https://github.com/SigPloiter/HLR-Lookups) - Locating Roaming location of a number, and collecting msisdn and opeartor related infromation (IMSI, HLR GT, MSC GT)
+- [0xbharath/censys-enumeration](https://github.com/0xbharath/censys-enumeration) - A script to extract subdomains/emails for a given domain using SSL/TLS certificate dataset on Censys
+- [savio-code/fern-wifi-cracker](https://github.com/savio-code/fern-wifi-cracker) - Automatically exported from code.google.com/p/fern-wifi-cracker
+- [derv82/wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
+- [kimocoder/gerix-wifi-cracker](https://github.com/kimocoder/gerix-wifi-cracker) - GUI wireless 802.11 penetration tool
+- [r3vn/badKarma](https://github.com/r3vn/badKarma) - network reconnaissance toolkit
+- [laincode/shodan-seeker](https://github.com/laincode/shodan-seeker) - Command-line tool using Shodan API. Generates and downloads CSV results, diffing of historic scanning results, alerts and monitoring of specific ports/IPs, etc.
+- [6e726d/wig-ng](https://github.com/6e726d/wig-ng) - WIG (WiFi Information Gathering) is a free and open source utility for WiFi device fingerprinting.
+- [martinvigo/email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
+- [eth0izzle/cracke-dit](https://github.com/eth0izzle/cracke-dit) - cracke-dit ("Cracked It") makes it easier to perform regular password audits against Active Directory environments.
+- [Greenwolf/social_attacker](https://github.com/Greenwolf/social_attacker) - An Open Source Multi Site Automated Social Media Phishing Framework
+- [superhedgy/AttackSurfaceMapper](https://github.com/superhedgy/AttackSurfaceMapper) - AttackSurfaceMapper is a tool that aims to automate the reconnaissance process.
+- [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
+- [rsmusllp/king-phisher](https://github.com/rsmusllp/king-phisher) - Phishing Campaign Toolkit
+- [fkasler/dolos_cloak](https://github.com/fkasler/dolos_cloak) - Automated 802.1x Bypass
+- [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
+- [itsmehacker/CardPwn](https://github.com/itsmehacker/CardPwn) - OSINT Tool to find Breached Credit Cards Information
+- [Ekultek/WhatBreach](https://github.com/Ekultek/WhatBreach) - OSINT tool to find breached emails, databases, pastes, and relevant information
+- [trustedsec/hate_crack](https://github.com/trustedsec/hate_crack) - A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
+- [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
+- [Acceis/leakScraper](https://github.com/Acceis/leakScraper) - LeakScraper is an efficient set of tools to process and visualize huge text files containing credentials. Theses tools are designed to help penetration testers and redteamers doing OSINT by gathering 
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
-- [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
-- [andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
-- [django-guardian/django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions for Django
-- [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
-- [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
-- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
-- [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
-- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
-- [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
-- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
-- [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
-- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [paramiko/paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
-- [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
-- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+- [NullArray/AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
+- [thehackingsage/hacktronian](https://github.com/thehackingsage/hacktronian) - Tools for Pentesting
+- [Marten4n6/EvilOSX](https://github.com/Marten4n6/EvilOSX) - An evil RAT (Remote Administration Tool) for macOS / OS X.
+- [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
+- [v3n0m-Scanner/V3n0M-Scanner](https://github.com/v3n0m-Scanner/V3n0M-Scanner) - Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns
+- [Viralmaniar/SMWYG-Show-Me-What-You-Got](https://github.com/Viralmaniar/SMWYG-Show-Me-What-You-Got) - This tool allows you to perform OSINT and reconnaissance on an organisation or an individual. It allows one to search 1.4 Billion clear text credentials which was dumped as part of BreachCompilation l
+- [Viralmaniar/Powershell-RAT](https://github.com/Viralmaniar/Powershell-RAT) - Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen c
+- [romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint) - This tool was created during our research at Checkpoint Software Technologies on Whatsapp Protocol (This repository will be updated after BlackHat 2019)
+- [initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
+- [davidtavarez/pwndb](https://github.com/davidtavarez/pwndb) - Search for leaked credentials
+- [s0md3v/Hash-Buster](https://github.com/s0md3v/Hash-Buster) - Crack hashes in seconds.
+- [khast3x/Offensive-Dockerfiles](https://github.com/khast3x/Offensive-Dockerfiles) - Offensive tools as Dockerfiles. Lightweight & Ready to go
+- [thewhiteh4t/FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - The Last Web Recon Tool You'll Need
+- [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
+- [k4m4/kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
+- [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
+- [rndinfosecguy/Scavenger](https://github.com/rndinfosecguy/Scavenger) - Crawler (Bot) searching for credential leaks on paste sites.
+- [xakepnz/BLUELAY](https://github.com/xakepnz/BLUELAY) - Searches online paste sites for certain search terms which can indicate a possible data breach.
+- [n1nj4sec/LaZagne](https://github.com/n1nj4sec/LaZagne) - Credentials recovery project
+- [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
+- [magnumripper/net-creds](https://github.com/magnumripper/net-creds) - Sniffs sensitive data from interface or pcap
+- [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [ScriptSmith/reaper](https://github.com/ScriptSmith/reaper) - Social media scraping / data collection tool for the Facebook, Twitter, Reddit, YouTube, Pinterest, and Tumblr APIs
+- [opsdisk/pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
+- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
+- [Cartmanishere/zippyshare-scraper](https://github.com/Cartmanishere/zippyshare-scraper) - A module to get direct downloadable links from zippyshare download page.
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+- [10se1ucgo/DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) - Uses some known methods that attempt to minimize tracking in Windows 10
+- [Smaash/snitch](https://github.com/Smaash/snitch) - information gathering via dorks
+- [AeonDave/doork](https://github.com/AeonDave/doork) - Passive Vulnerability Auditor
+- [josephpd3/ClinicalTrialsDownloader](https://github.com/josephpd3/ClinicalTrialsDownloader) - Download Clinical Trials from clinicaltrials.gov and save as .pkl files.
+- [realpython/python-scripts](https://github.com/realpython/python-scripts) - because i'm tired of gists
+- [bandrews568/Download-wget](https://github.com/bandrews568/Download-wget) - Python script to download mp3 files
+- [sananth12/ImageScraper](https://github.com/sananth12/ImageScraper) - :scissors: High performance, multi-threaded image scraper
+- [opencivicdata/scrapers-us-municipal](https://github.com/opencivicdata/scrapers-us-municipal) - Scrapers for US municipal governments.
+- [stanfordjournalism/search-script-scrape](https://github.com/stanfordjournalism/search-script-scrape) - 101 real world web scraping exercises in Python 3 for data journalists
+- [jjjake/internetarchive](https://github.com/jjjake/internetarchive) - A Python and Command-Line Interface to Archive.org
+
+## Raku 
+
+- [OWASP/joomscan](https://github.com/OWASP/joomscan) - OWASP Joomla Vulnerability Scanner Project
 
 ## Ruby 
 
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+- [pedrib/PoC](https://github.com/pedrib/PoC) - Advisories, proof of concept files and exploits that have been made public by @pedrib.
+- [listia/aws_agcod](https://github.com/listia/aws_agcod) - Ruby API Library for Amazon Gift Card on Demand (AGCOD)
+- [bonusly/tangolicious](https://github.com/bonusly/tangolicious) - Tangocard RaaS API v2 wrapper
+- [dreadlocked/Drupalgeddon2](https://github.com/dreadlocked/Drupalgeddon2) - Exploit for Drupal v7.x + v8.x (Drupalgeddon 2 / CVE-2018-7600 / SA-CORE-2018-002)
+- [spree/spree_gateway](https://github.com/spree/spree_gateway) - Huge collection of payment gateways for @spree. Stripe, Braintree, Apple Pay, Authorize.net and many others!
+- [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [bahaabdelwahed/killshot](https://github.com/bahaabdelwahed/killshot) - A Penetration Testing Framework, Information gathering tool & Website Vulnerability Scanner
+- [digininja/CloudStorageFinder](https://github.com/digininja/CloudStorageFinder) - A collection of tools to find data that has been made public in cloud storage systems such as S3 Buckets and Digital Ocean Spaces
+- [rastating/wordpress-exploit-framework](https://github.com/rastating/wordpress-exploit-framework) - A Ruby framework designed to aid in the penetration testing of WordPress systems.
+- [hahwul/XSpear](https://github.com/hahwul/XSpear) - Powerfull XSS Scanning and Parameter analysis tool&gem
+- [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
+- [dmayer/idb](https://github.com/dmayer/idb) - idb is a tool to simplify some common tasks for iOS pentesting and research
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
-- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/github/feedback/discussions/categories/dependabot-feedback
-- [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
-- [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+- [pry0cc/CredCatch](https://github.com/pry0cc/CredCatch) - Find plaintext credentials from emails in bulk from password dumps, and generate emails on the fly.
+- [Netflix-Skunkworks/Scumblr](https://github.com/Netflix-Skunkworks/Scumblr) - Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results
+- [tresacton/dspectrumgui](https://github.com/tresacton/dspectrumgui) - The goal of this app is to make it trivial to demodulate most basic RF transmission, and provide a digital worksheet for your reverse engineering efforts.
+- [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
 
 ## Rust 
 
-- [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
-- [ContainerSolutions/trow](https://github.com/ContainerSolutions/trow) - Container Registry and Image Management for Kubernetes Clusters
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [neondatabase/neon](https://github.com/neondatabase/neon) - The serverless open source alternative to AWS Aurora Postgres.
-- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - An alternative implementation of Golang specs, written in Rust for embedding or wrapping.
-- [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
-- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.  Cloud at https://app.databend.com/
-- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
-- [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
-- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
-- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
-- [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
-- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
-- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-
-## SCSS 
-
-- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
-- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+- [seanpianka/aws-incentives-api-rs](https://github.com/seanpianka/aws-incentives-api-rs) - A Rust service for using the Amazon Gift Card API
+- [MCOfficer/odcrawler-discovery](https://github.com/MCOfficer/odcrawler-discovery) - The (new) discovery backend for https://odcrawler.xyz
+- [l4yton/js-parse](https://github.com/l4yton/js-parse) - Find subdomains, relative urls, parameter, custom headers and api keys in javascript files
+- [Findomain/Findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Ke
+- [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
+- [leo-lb/wpbrute-rs](https://github.com/leo-lb/wpbrute-rs) - High performance WordPress login bruteforcer with automatic concurrency for maximum amount of tries per second.
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+- [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager
+- [PoC-Consortium/scavenger](https://github.com/PoC-Consortium/scavenger) - A fast Burstcoin miner written in Rust
 
 ## Scala 
 
-- [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
-- [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
-
-## Scheme 
-
-- [racket/racket](https://github.com/racket/racket) - The Racket repository
+- [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 
 ## Shell 
 
-- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+- [ckam/proxy_checker](https://github.com/ckam/proxy_checker) - simple proxy checker on bash
+- [thevillagehacker/Bug-Hunting](https://github.com/thevillagehacker/Bug-Hunting) - The Repository contains various payloads, tools, tips and tricks from various hackers around the world. Please take a quick look down here 👇👇
+- [indiancybertroops/DorKey](https://github.com/indiancybertroops/DorKey) - Dorkey is Dork generator For Sql Injection It includes Php Aspx And other extension Its Simple Fast And Lightweight Sqli Dork Generator
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
-- [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
-- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [aws/eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
-- [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
-- [cloudnativeto/academy](https://github.com/cloudnativeto/academy) - 云原生学院|直播|活动 - https://cloudnative.to/academy/
-- [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
-- [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
+- [machevalia/pwndb.sh](https://github.com/machevalia/pwndb.sh) - Script to utilize the v2 pwndb onion site to find leaked passwords.
+- [martintjj/BreachCompilation](https://github.com/martintjj/BreachCompilation) - BreachCompilation Tools
+- [v4d1/SpoofThatMail](https://github.com/v4d1/SpoofThatMail) - Bash script to check if a domain or list of domains can be spoofed based in DMARC records
+- [bhdresh/CVE-2021-33766](https://github.com/bhdresh/CVE-2021-33766) - ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit
+- [dwisiswant0/go-stare](https://github.com/dwisiswant0/go-stare) - A fast & light web screenshot without headless browser but Chrome DevTools Protocol!
+- [BonJarber/SecUtils](https://github.com/BonJarber/SecUtils) - Random utilities from my security projects that might be useful to others
+- [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) - Rockyou for web fuzzing
+- [ByDog3r/90s-Checker-Account](https://github.com/ByDog3r/90s-Checker-Account) - 𝟗𝟎'𝐬 𝐂𝐡𝐞𝐜𝐤; verify emails/users and passwords in some pages.
+- [grahamhelton/dehashQuery](https://github.com/grahamhelton/dehashQuery) - A script used to query the dehashed API and filter for more useful results
+- [ShivamRai2003/Reconky-Automated_Bash_Script](https://github.com/ShivamRai2003/Reconky-Automated_Bash_Script) - Reconky is an great Content Discovery bash script for bug bounty hunters which automate lot of task and organized in the well mannered form  which help them to look forward.
+- [clu3bot/owt](https://github.com/clu3bot/owt) - Update Version 3.1 added free SMS messaging.
+- [dwisiswant0/findom-xss](https://github.com/dwisiswant0/findom-xss) - A fast DOM based XSS vulnerability scanner with simplicity.
+- [felipecaon/url2ip](https://github.com/felipecaon/url2ip) - Bash script that converts a list of subdomains to ips using dig.
+- [NSAKEY/nsa-rules](https://github.com/NSAKEY/nsa-rules) - Password cracking rules and masks for hashcat that I generated from cracked passwords.
+- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, and ABP / uBO subscriptions, all merged from multiple reputable sources, combined with my own research. Also, script-based utilities to help you c
+- [pwn0sec/PwnChecker](https://github.com/pwn0sec/PwnChecker) - Multi tool checker account validator 2020
+- [mazen160/Firefox-Security-Toolkit](https://github.com/mazen160/Firefox-Security-Toolkit) - A tool that transforms Firefox browsers into a penetration testing suite
+- [l4yton/RegHex](https://github.com/l4yton/RegHex) - A collection of regexes for every possbile use
+- [pry0cc/axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
+- [GnosticPlayers/Solr-GRAB](https://github.com/GnosticPlayers/Solr-GRAB) - Steal Apache Solr instance Queries with or without a username and password.
+- [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Spectre, Meltdown, Foreshadow, Fallout, RIDL, ZombieLoad vulnerability/mitigation checker for Linux & BSD
+- [x1mdev/ReconPi](https://github.com/x1mdev/ReconPi) - ReconPi - A lightweight recon tool that performs extensive scanning with the latest tools.
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+- [noolep/AWCREC](https://github.com/noolep/AWCREC) - Amazon Credentials Checker
+- [GONZOsint/WhatCMS](https://github.com/GONZOsint/WhatCMS) - CMS Detection and Exploit Kit based on Whatcms.org API
+- [greycatz/CloudUnflare](https://github.com/greycatz/CloudUnflare) - Reconnaissance Real IP address for Cloudflare Bypass
+- [mansoorr123/wp-file-manager-CVE-2020-25213](https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213) - https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8
+- [aahmad097/BlackBird](https://github.com/aahmad097/BlackBird) - Subdomain Enumeration and Scanner
+- [Cyb0r9/Config-Exploiter](https://github.com/Cyb0r9/Config-Exploiter) - Config-Exploiter Dump config.php file from joomla and wordpress websites
+- [TheSpeedX/SDorker](https://github.com/TheSpeedX/SDorker) - SuperDorker gives you a huge list of websites for 0day attacks from Google Dorks
+- [himanshub16/ProxyMan](https://github.com/himanshub16/ProxyMan) - Configuring proxy settings made easy.
+- [RightToPrivacy/MACcleaner](https://github.com/RightToPrivacy/MACcleaner) - New continually changing MAC spoofer concept to thwart trackers; randomizes mac address at random times) prevents WIFI access point location tracking/MAC change patterns, permanent mac setting include
+- [mmtrt/notepad-plus-plus](https://github.com/mmtrt/notepad-plus-plus) - Unofficial snap repo for notepad-plus-plus snap
+- [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
+- [peterpt/eternal_scanner](https://github.com/peterpt/eternal_scanner) - An internet scanner for exploit CVE-2017-0144 (Eternal Blue) & CVE-2017-0145 (Eternal Romance)
+- [DenizParlak/Zeus](https://github.com/DenizParlak/Zeus) - AWS Auditing & Hardening Tool
+- [DenizParlak/hayat](https://github.com/DenizParlak/hayat) - Hayat is a script for report and analyze Google Cloud Platform resources.
+- [projectzeroindia/CVE-2019-19781](https://github.com/projectzeroindia/CVE-2019-19781) - Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]
+- [tomdev/teh_s3_bucketeers](https://github.com/tomdev/teh_s3_bucketeers) - 
+- [abdulr7mann/hackerEnv](https://github.com/abdulr7mann/hackerEnv) - 
+- [dazdaz/gcs](https://github.com/dazdaz/gcs) - Program shows how easy it is to use the Google Custom Search Engine from the command line
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 2
+- [danielebailo/couchdb-dump](https://github.com/danielebailo/couchdb-dump) - Bash command line scripts to dump &restore a couchdb database
+- [apache/couchdb-pkg](https://github.com/apache/couchdb-pkg) - Apache CouchDB Packaging support files
+- [SilverPoision/Rock-ON](https://github.com/SilverPoision/Rock-ON) - Rock-On is a all in one Recon tool that will just get a single entry of the Domain name and do all of the work alone.
+- [HightechSec/git-scanner](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open .git repositories available in public
+- [NullArray/NetSet](https://github.com/NullArray/NetSet) - Operational Security utility and automator.
+- [Shiva108/WAES](https://github.com/Shiva108/WAES) - CPH:SEC WAES: Web Auto Enum & Scanner - Auto enums website(s) and dumps files as result
+- [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) - The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread f
+- [jakewmeyer/Geo](https://github.com/jakewmeyer/Geo) - :earth_americas: A Bash utility for easy wan, lan, router, dns, mac address, and geolocation output, with clean stdout for piping
+- [HiroshiManRise/anonym8](https://github.com/HiroshiManRise/anonym8) - Sets Transparent proxy tunnel through Tor, I2P, Privoxy, Polipo and modify DNS; Include Anonymizing Relay Monitor (arm), macchanger and wipe (Cleans ram/cache & swap-space) features, ID spoofing has n
+- [proxycannon/proxycannon-ng](https://github.com/proxycannon/proxycannon-ng) - A private botnet using multiple cloud environments for pentesters and red teamers. - Built by the community during a hackathon at the WWHF 2018 security conference
+- [flexingonlamers/Mirai-Auto-Setup](https://github.com/flexingonlamers/Mirai-Auto-Setup) - MiraiBotnet Auto setup Script, Easy to use shell menu i created for a select amount of people, decided to release it
+- [jgamblin/MacOS-Maid](https://github.com/jgamblin/MacOS-Maid) - Shell Script I Use To Automatically Clean Up My Mac.
+- [mgeeky/dirbuster](https://github.com/mgeeky/dirbuster) - wfuzz, SecLists and john -based dirbusting / forceful browsing script intended to be used during web pentest assingments
+- [21y4d/nmapAutomator](https://github.com/21y4d/nmapAutomator) - A script that you can run in the background!
+- [isacikgoz/gogh-to-tilix](https://github.com/isacikgoz/gogh-to-tilix) - Generates popular themes from https://github.com/Mayccoll/Gogh for the https://github.com/gnunn1/tilix terminal emulator.
+- [kennyn510/wpa2-wordlists](https://github.com/kennyn510/wpa2-wordlists) - A collection of wordlists dictionaries for password cracking
+- [mrzool/nordvpn-server-find](https://github.com/mrzool/nordvpn-server-find) - Find the fastest NordVPN servers from the command line, filtering by location and current server load
+- [zerobyte-id/SEcraper](https://github.com/zerobyte-id/SEcraper) - Search engine scraper tool with BASH script.
+- [m3n0sd0n4ld/uDork](https://github.com/m3n0sd0n4ld/uDork) - uDork is a script written in Bash Scripting that uses advanced Google search techniques to obtain sensitive information in files or directories, find IoT devices, detect versions of web applications, 
+- [aryanrtm/KawaiiDeauther](https://github.com/aryanrtm/KawaiiDeauther) - Jam all wifi clients/routers.
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-- [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines.
-- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
-- [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
-- [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
-- [infostreams/db](https://github.com/infostreams/db) - Version control for databases: save, restore, and archive snapshots of your database from the command line
-- [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [opencv/opencv-python](https://github.com/opencv/opencv-python) - Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
-- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
-- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
-- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-- [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
-- [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [Hackplayers/4nonimizer](https://github.com/Hackplayers/4nonimizer) - A bash script for anonymizing the public IP used to browsing Internet, managing the connection to TOR network and to different VPNs providers (OpenVPN)
+- [esc0rtd3w/wifi-hacker](https://github.com/esc0rtd3w/wifi-hacker) - Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
+- [meoso/wigle2kml](https://github.com/meoso/wigle2kml) - WiGLE.net to KML converter in BASH
+- [BlackArch/torctl](https://github.com/BlackArch/torctl) - Script to redirect all traffic through tor network including dns queries for anonymizing entire system
+- [1N3/BruteX](https://github.com/1N3/BruteX) - Automatically brute force all services running on a target.
+- [1N3/Findsploit](https://github.com/1N3/Findsploit) - Find exploits in local and online databases instantly
+- [1N3/Goohak](https://github.com/1N3/Goohak) - Automatically Launch Google Hacking Queries Against A Target Domain
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform | Sn1perSecurity LLC
+- [arismelachroinos/lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
+- [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
+- [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
+- [Cignoraptor-ita/cignotrack](https://github.com/Cignoraptor-ita/cignotrack) - OSINT tool for testing privacy and social engineering vulnerability of organizations.
+- [Viralmaniar/I-See-You](https://github.com/Viralmaniar/I-See-You) - ISeeYou is a Bash and Javascript tool to find the exact location of the users during social engineering or phishing engagements. Using exact location coordinates an attacker can perform preliminary re
+- [Mi-Al/WiFi-autopwner](https://github.com/Mi-Al/WiFi-autopwner) - WiFi-autopwner: script to automate searching and auditing Wi-Fi networks with weak security
+- [staz0t/hashcatch](https://github.com/staz0t/hashcatch) - Capture handshakes of nearby WiFi networks automatically
+- [nahamsec/lazyrecon](https://github.com/nahamsec/lazyrecon) - This script is intended to automate your reconnaissance process in an organized fashion
+- [Cyb0r9/SocialBox](https://github.com/Cyb0r9/SocialBox) - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi
+- [tehw0lf/airbash](https://github.com/tehw0lf/airbash) - A POSIX-compliant, fully automated WPA PSK PMKID and handshake capture script aimed at penetration testing
+- [mikhbur/conformer](https://github.com/mikhbur/conformer) - Password Guessing for different Web Portals
+- [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
+- [OneLogicalMyth/hashcat-scripts](https://github.com/OneLogicalMyth/hashcat-scripts) - A collection of scripts I use with hashcat
+- [streaak/pastebin-scraper](https://github.com/streaak/pastebin-scraper) - Pastebin-scraper tool leverages the API of https://psbdmp.ws/ to find emails/domains dumped in pastebin.
+- [KALILINUXTRICKSYT/easysploit](https://github.com/KALILINUXTRICKSYT/easysploit) - EasySploit - Metasploit automation (EASIER and FASTER than EVER)
+- [screetsec/Sudomy](https://github.com/screetsec/Sudomy) - Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting
+- [screetsec/Dracnmap](https://github.com/screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and dif
+- [trimstray/sandmap](https://github.com/trimstray/sandmap) - Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.
+- [bcapptain/dockernymous](https://github.com/bcapptain/dockernymous) - A script used to create a whonix like gateway/workstation environment with docker containers.
+- [KeepWannabe/Remot3d](https://github.com/KeepWannabe/Remot3d) - Remot3d: is a simple tool created for large pentesters as well as just for the pleasure of defacers to control server by backdoors
+- [wuseman/EMAGNET](https://github.com/wuseman/EMAGNET) - Automated hacking tool that will find leaked databases with 97.1% accurate to grab mail + password together from recent uploads from https://pastebin.com. Bruteforce support for spotify accounts, inst
+- [Und3rf10w/kali-anonsurf](https://github.com/Und3rf10w/kali-anonsurf) - A port of ParrotSec's stealth and anonsurf modules to Kali Linux
+- [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
+- [brainfucksec/kalitorify](https://github.com/brainfucksec/kalitorify) - Transparent proxy through Tor for Kali Linux OS
+- [screetsec/Vegile](https://github.com/screetsec/Vegile) - This tool will setting up your backdoor/rootkits when backdoor already setup it will be hidden your spesisifc process,unlimited your session in metasploit and transparent. Even when it killed, it will
 
-## Starlark 
+## Smarty 
 
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
-
-## Swift 
-
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
-- [jordibruin/Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) - An overview of the different types of charts you can make with Swift Charts
-- [simibac/ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - SwiftUI Package for Configurable Confetti Animation 🎉
-- [Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11) - 💻 Windows 11 in SwiftUI.
-- [Toni77777/awesome-swiftui-libraries](https://github.com/Toni77777/awesome-swiftui-libraries) - :rocket: Awesome SwiftUI Libraries
-- [yattee/yattee](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS (iPhone, iPad), macOS and tvOS (Apple TV) built with Invidious and Piped
-- [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
-- [twostraws/HackingWithSwift](https://github.com/twostraws/HackingWithSwift) - The project source code for hackingwithswift.com
-- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS VMs on Apple Silicon to use in CI and other automations
-- [grpc/grpc-swift](https://github.com/grpc/grpc-swift) - The Swift language implementation of gRPC.
-- [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) - Instrumentation library for Swift server applications
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
-- [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
-- [KhaosT/MacVM](https://github.com/KhaosT/MacVM) - macOS VM for Apple Silicon using Virtualization API
-- [apple/sample-food-truck](https://github.com/apple/sample-food-truck) - SwiftUI sample code from WWDC22
-- [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
-- [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
-- [danielsaidi/RichTextKit](https://github.com/danielsaidi/RichTextKit) - RichTextKit is a Swift-based library for working with rich text in UIKit, AppKit and SwiftUI.
-- [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
-- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A completely native Discord client for macOS built 100% in Swift and SwiftUI!
-- [VergeGroup/Verge](https://github.com/VergeGroup/Verge) - 🟣 Verge is a very tunable state-management engine on iOS App (UIKit / SwiftUI) and built-in ORM.
-- [kuglee/TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
-- [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList) - The master list of repositories for the Swift Package Index.
-- [JustinFincher/WWDC2022-SwiftUINodeEditor](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor) - [WWDC 22 Swift Student Challenge] Pegboard, a SwiftUI based node-editor workspace for game dev and more
-- [fatbobman/SwiftUIOverlayContainer](https://github.com/fatbobman/SwiftUIOverlayContainer) - SwiftUI Overlay Container is a view container component for SwiftUI. It is a customizable, efficient and convenient view manager.  With just a simple configuration, SwiftUI Overlay Container can do th
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
-- [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
-- [v2ex/launcher](https://github.com/v2ex/launcher) - 
-- [danielsaidi/SwiftUIKit](https://github.com/danielsaidi/SwiftUIKit) - SwiftUIKit contains additional functionality for SwiftUI.
-- [apple/swift-distributed-actors](https://github.com/apple/swift-distributed-actors) - Peer-to-peer cluster implementation for Swift Distributed Actors
-- [apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
-- [exyte/ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI
-- [cmushroom/redis-pro](https://github.com/cmushroom/redis-pro) - redis-pro redis 桌面管理工具
-- [kean/Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
-- [exyte/PopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI
-- [Dimillian/MovieSwiftUI2](https://github.com/Dimillian/MovieSwiftUI2) - A complete reinvention
-- [zzanehip/The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project) - Recreating a fully functional version of iOS 4 in SwiftUI.
-- [jevonmao/PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
-- [stleamist/BetterSafariView](https://github.com/stleamist/BetterSafariView) - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
-- [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
-- [maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL client that lets you forget about GraphQL.
-- [pvieito/PythonKit](https://github.com/pvieito/PythonKit) - Swift framework to interact with Python.
-- [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
-- [gonzalezreal/MarkdownUI](https://github.com/gonzalezreal/MarkdownUI) - Render Markdown text in SwiftUI
-- [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-- [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms].
-- [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) - SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
-- [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
-- [apple/swift-algorithms](https://github.com/apple/swift-algorithms) - Commonly used sequence and collection algorithms for Swift
-- [apple/swift-atomics](https://github.com/apple/swift-atomics) - Low-level atomic operations for Swift
-- [danielsaidi/DeckKit](https://github.com/danielsaidi/DeckKit) - DeckKit makes it easy to create deck-based apps in SwiftUI.
-- [exyte/FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI
-- [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
-- [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
-- [dasautoooo/Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
-- [psharanda/Atributika](https://github.com/psharanda/Atributika) - Convert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.
-- [surfstudio/StackOv](https://github.com/surfstudio/StackOv) - An open-source SwiftUI Stack Overflow client
-- [exyte/Grid](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI
-- [devicekit/DeviceKit](https://github.com/devicekit/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
-- [paololeonardi/WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI.
-- [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more.
-- [marmelroy/PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
-- [WeTransfer/WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS
-- [kishikawakatsumi/KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
-- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions and additions to the standard SwiftUI library.
-- [nmdias/FeedKit](https://github.com/nmdias/FeedKit) - An RSS, Atom and JSON Feed parser written in Swift
-- [SFSafeSymbols/SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
-- [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) - The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
-- [JohnSundell/Ink](https://github.com/JohnSundell/Ink) - A fast and flexible Markdown parser written in Swift.
-- [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate QR Code in Swift, support iOS, macOS, watchOS and tvOS.
-- [SDWebImage/SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image loading and Animation framework powered by SDWebImage
-- [loryhuz/CleanyModal](https://github.com/loryhuz/CleanyModal) - Swift UI Kit to present clean modal/alert
-- [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
-- [Swinject/Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift with iOS/macOS/Linux
-- [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
-- [bizz84/SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ ⛺
-- [AppPear/ChartView](https://github.com/AppPear/ChartView) - ChartView made in SwiftUI
-- [apple/swift-numerics](https://github.com/apple/swift-numerics) - Advanced mathematical types and functions for Swift
-- [OAuthSwift/OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS
-- [swift-server/swift-aws-lambda-runtime](https://github.com/swift-server/swift-aws-lambda-runtime) - Swift implementation of AWS Lambda Runtime
-- [JohnSundell/Splash](https://github.com/JohnSundell/Splash) - A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!
-- [swift-server-community/APNSwift](https://github.com/swift-server-community/APNSwift) - An HTTP/2 APNS library built on AsyncHTTPClient
-- [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
-- [nachonavarro/Pages](https://github.com/nachonavarro/Pages) - 📖   A lightweight, paging view solution for SwiftUI
-- [playbook-ui/playbook-ios](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically taking snapshots of them.
-- [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
-- [swift-server/async-http-client](https://github.com/swift-server/async-http-client) - HTTP client library built on SwiftNIO
-- [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
-- [apple/swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
-- [twostraws/ControlRoom](https://github.com/twostraws/ControlRoom) - A macOS app to control the Xcode Simulator.
-- [JohnSundell/Plot](https://github.com/JohnSundell/Plot) - A DSL for writing type-safe HTML, XML and RSS in Swift.
-- [alexejn/TypeYouCard](https://github.com/alexejn/TypeYouCard) - SwiftUI Paycard form
-- [Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) - Gathering all info published, both by Apple and by others, about new framework SwiftUI.
-- [apple/swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language
-- [Quick/Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
-- [malcommac/SwiftLocation](https://github.com/malcommac/SwiftLocation) - 🛰 CoreLocation Made Easy - Efficient & Easy Location Tracker, IP Location, Gecoder, Geofence, Autocomplete, Beacon Ranging, Broadcaster and Visits Monitoring
-- [jakeheis/Shout](https://github.com/jakeheis/Shout) - SSH made easy in Swift
-- [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
-- [FluidGroup/Brightroom](https://github.com/FluidGroup/Brightroom) - 📷 A composable image editor using Core Image and Metal.
-- [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
-- [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker) - 📸 Instagram-like image picker & filters for iOS
-- [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
-- [CocoaDebug/CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) - iOS Debugging Tool 🚀
-- [apple/swift-protobuf](https://github.com/apple/swift-protobuf) - Plugin and runtime library for using protobuf with Swift
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [Harley-xk/MaLiang](https://github.com/Harley-xk/MaLiang) - iOS painting and drawing library based on Metal. 神笔马良有一支神笔（基于 Metal 的涂鸦绘图库）
-- [apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
-- [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
-- [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
-- [Jounce/Surge](https://github.com/Jounce/Surge) - A Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.
-- [AFathi/ARVideoKit](https://github.com/AFathi/ARVideoKit) - Capture & record ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆.
-- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
-- [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
-- [marcosgriselli/ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line
-- [olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute!
-- [ProjectDent/ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
-- [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
-- [exyte/Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics Swift library with SVG support
-- [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift
-- [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
-- [mxcl/PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
-- [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
-- [daltoniam/Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX
-- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
-- [raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
-- [ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 📖 Design Patterns implemented in Swift 5.0
-- [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
-- [danielgindi/Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
-- [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
+- [chvancooten/follina.py](https://github.com/chvancooten/follina.py) - POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes
 
 ## TypeScript 
 
-- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Manage Podman and other container engines from a single UI and tray
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
-- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software. Follow us on Twitter: https://twitter.com/ossinsight
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
-- [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
-- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
-- [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
-- [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - The meta-framework suite designed from scratch for frontend-focused modern web development.
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-- [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
-- [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web GUI for Apache Kafka Management
-- [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development
-- [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
-- [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
-- [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
-- [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-- [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
-- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
-- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-- [artifacthub/hub](https://github.com/artifacthub/hub) - Find, install and publish Kubernetes packages
-- [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
-- [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
-- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
-- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
-- [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
-- [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
-- [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
-- [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
-- [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
-- [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
-- [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
-- [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
-- [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
-- [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
-- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
-- [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
-- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
-- [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
-- [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
-- [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
-- [antvis/G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
-- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
-- [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [prescience-data/puppeteer-botcheck](https://github.com/prescience-data/puppeteer-botcheck) - 🕵‍♂ Bot detection tests for Puppeteer. Hide and seek!
+- [thomasdondorf/puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster) - Puppeteer Pool, run a cluster of instances in parallel
+- [aarmora/avoid-being-blocked-with-puppeteer](https://github.com/aarmora/avoid-being-blocked-with-puppeteer) - Puppeteer stealth is a great tool to help you avoid being blocked while web scraping with puppeteer. Easy to use and is very powerful.
+- [fast-facts/puppeteer-pro](https://github.com/fast-facts/puppeteer-pro) - A simple puppeteer wrapper to enable useful plugins with ease
+- [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web scraper that's nearly impossible to block - now called @ulixee/hero
+- [LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools) - The all-in-one Red Team extension for Web Pentester 🛠
+- [everettsouthwick/amazon-auto-reload](https://github.com/everettsouthwick/amazon-auto-reload) - Node script to iterate through a list of credit/debit cards and buy an Amazon.com gift cards of a specified amount.
+- [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
+- [tictactrip/luminator](https://github.com/tictactrip/luminator) - 🕸 Axios proxy provider agent.
+- [aarmora/jordan-uses-luminati](https://github.com/aarmora/jordan-uses-luminati) - Jordan shows examples of how to use Luminati, a very powerful proxy that works with http requests and Puppeteer.
+- [JorgenVatle/Luminati-Proxy-Extractor](https://github.com/JorgenVatle/Luminati-Proxy-Extractor) - Extract gIPs from your Luminati Proxy Manager entirely from the command line.
+- [Sourciluss667/dorks-gen-ts](https://github.com/Sourciluss667/dorks-gen-ts) - Dorks Generator with keywords, page type and page format made with TypeScript
+- [diego3g/rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
+- [arunbandari/mongo-gui](https://github.com/arunbandari/mongo-gui) - A web-based MongoDB graphical user interface
+- [pwnsdx/Mailsploit](https://github.com/pwnsdx/Mailsploit) - (Released in December 2017) Mailsploit is a collection of bugs in email clients that allow effective sender spoofing and code injection attacks. The spoofing is not detected by Mail Transfer Agents (M
+- [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+- [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
+- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
+
+## Vala 
+
+- [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
+
+## Vim script 
+
+- [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
+
+## Visual Basic 
+
+- [NYAN-x-CAT/Lime-Miner](https://github.com/NYAN-x-CAT/Lime-Miner) - a simple hidden silent XMR miner.
+- [TheMadHatt3r/DazContentInstaller](https://github.com/TheMadHatt3r/DazContentInstaller) - Daz Freeware Zip Installer
+
+## Visual Basic .NET 
+
+- [X-SLAYER/Website-Cloner](https://github.com/X-SLAYER/Website-Cloner) - It allows you to download a website from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
+- [UnamSanctam/SilentXMRMiner](https://github.com/UnamSanctam/SilentXMRMiner) - A Silent (Hidden) Monero (XMR) Miner Builder
 
 ## Vue 
 
-- [uptrace/uptrace](https://github.com/uptrace/uptrace) - OpenTelemetry distributed tracing tool that monitors performance, errors, and logs
-- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-- [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
-- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+- [Chaphasilor/odcrawler-frontend](https://github.com/Chaphasilor/odcrawler-frontend) - A frontend for ODCrawler, an Open Directory search engine.
+- [martijnmichel/nordvpn-linux](https://github.com/martijnmichel/nordvpn-linux) - A nicer way to connect to NordVPN on Linux.
+
+## YARA 
+
+- [ail-project/ail-yara-rules](https://github.com/ail-project/ail-yara-rules) - A set of YARA rules for the AIL framework to detect leak or information disclosure
 
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [maguowei](https://github.com/maguowei) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Astrogeorgeonethree](https://github.com/Astrogeorgeonethree) has waived all copyright and related or neighboring rights to this work.
 
