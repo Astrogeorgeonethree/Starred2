@@ -311,6 +311,7 @@
 
 ## chrome 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [kameleo-io/local-api-examples](https://github.com/kameleo-io/local-api-examples) - Useful and easy to understand examples written in Node.js and .NET Core about web scraping and automated browsing with Kameleo Client
@@ -325,6 +326,7 @@
 
 ## chrome-extension 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools) - The all-in-one Red Team extension for Web Pentester 🛠
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans
@@ -334,6 +336,7 @@
 
 ## cli 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice is a tool that uses PowerShell automation to setup your Windows devices.
 - [stampery/mongoaudit](https://github.com/stampery/mongoaudit) - 🔥 A powerful MongoDB auditing and pentesting tool 🔥
@@ -485,6 +488,7 @@
 
 ## firefox 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [kameleo-io/local-api-examples](https://github.com/kameleo-io/local-api-examples) - Useful and easy to understand examples written in Node.js and .NET Core about web scraping and automated browsing with Kameleo Client
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
@@ -828,6 +832,7 @@
 
 ## javascript 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [hacktoolspack/hack-tools](https://github.com/hacktoolspack/hack-tools) - hack tools
 - [Michal2SAB/Hash-Dehasher](https://github.com/Michal2SAB/Hash-Dehasher) - A program to find the real string for your hash. MD5, SHA256, any really. Works really fast, gets to the "aaaa" combo in about 1 second even on a bad and busy pc.
 - [Michal2SAB/Bitcoin-Stealer](https://github.com/Michal2SAB/Bitcoin-Stealer) - Generate random bitcoin wallets, private keys (seeds) and then check if they match a wallet that contains some kind of balance, and then take it. Node.js
@@ -1054,6 +1059,7 @@
 
 ## others 
 
+- [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 - [ckam/proxy_checker](https://github.com/ckam/proxy_checker) - simple proxy checker on bash
 - [ail-project/ail-framework](https://github.com/ail-project/ail-framework) - AIL framework - Analysis Information Leak framework
 - [ail-project/ail-yara-rules](https://github.com/ail-project/ail-yara-rules) - A set of YARA rules for the AIL framework to detect leak or information disclosure
