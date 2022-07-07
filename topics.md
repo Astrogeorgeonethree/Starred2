@@ -389,6 +389,7 @@
 
 ## cybersecurity 
 
+- [h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting](https://github.com/h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting) - Sniffcon has a wide list of powerful online bug bounty tools which can be used to find security vulnerabilities.
 - [whoamisec75/httpsuite](https://github.com/whoamisec75/httpsuite) - A toolkit for web reconnaissance, it's fast and easy to use.
 - [LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools) - The all-in-one Red Team extension for Web Pentester 🛠
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
@@ -499,6 +500,7 @@
 
 ## flask 
 
+- [h33tlit/Jbin-website-secret-scraper](https://github.com/h33tlit/Jbin-website-secret-scraper) - Jbin will gather all the URLs from the website and then it will try to expose the secret data from them such as API keys, API secrets, API tokens and many other juicy information.
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 
 ## framework 
@@ -792,6 +794,7 @@
 
 ## http 
 
+- [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
 - [james-proxy/james](https://github.com/james-proxy/james) - Web Debugging Proxy Application
 - [Chaphasilor/odcrawler-frontend](https://github.com/Chaphasilor/odcrawler-frontend) - A frontend for ODCrawler, an Open Directory search engine.
@@ -1059,6 +1062,7 @@
 
 ## others 
 
+- [h33tlit/HowToHunt](https://github.com/h33tlit/HowToHunt) - Tutorials and Things to Do while Hunting Vulnerability.
 - [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 - [ckam/proxy_checker](https://github.com/ckam/proxy_checker) - simple proxy checker on bash
 - [ail-project/ail-framework](https://github.com/ail-project/ail-framework) - AIL framework - Analysis Information Leak framework
@@ -1939,6 +1943,7 @@
 
 ## python 
 
+- [h33tlit/Jbin-website-secret-scraper](https://github.com/h33tlit/Jbin-website-secret-scraper) - Jbin will gather all the URLs from the website and then it will try to expose the secret data from them such as API keys, API secrets, API tokens and many other juicy information.
 - [hamid0740/Combo-List-Fixer](https://github.com/hamid0740/Combo-List-Fixer) - Simple python code to fix your combo list by removing any text after a separator or removing duplicate combos
 - [hacktoolspack/hack-tools](https://github.com/hacktoolspack/hack-tools) - hack tools
 - [AngelSecurityTeam/CC_Scrapper](https://github.com/AngelSecurityTeam/CC_Scrapper) - Telegram CC  Scrapper - Debit/Credit Card [channel public or private / group ]
@@ -2157,6 +2162,7 @@
 
 ## security 
 
+- [h33tlit/Jbin-website-secret-scraper](https://github.com/h33tlit/Jbin-website-secret-scraper) - Jbin will gather all the URLs from the website and then it will try to expose the secret data from them such as API keys, API secrets, API tokens and many other juicy information.
 - [R4yGM/dorkscout](https://github.com/R4yGM/dorkscout) - DorkScout - Golang tool to automate google dork scan against the entiere internet or specific targets
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [guardianproject/orbot](https://github.com/guardianproject/orbot) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
