@@ -502,6 +502,7 @@
 
 ## Others 
 
+- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [h33tlit/HowToHunt](https://github.com/h33tlit/HowToHunt) - Tutorials and Things to Do while Hunting Vulnerability.
 - [h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting](https://github.com/h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting) - Sniffcon has a wide list of powerful online bug bounty tools which can be used to find security vulnerabilities.
 - [h3110w0r1d-y/BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen) - Burp Suite Pro Loader & Keygen ( All version supported )
@@ -678,6 +679,7 @@
 
 ## Python 
 
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [ail-project/ail-framework](https://github.com/ail-project/ail-framework) - AIL framework - Analysis Information Leak framework
 - [JMousqueton/PoC-CVE-2022-30190](https://github.com/JMousqueton/PoC-CVE-2022-30190) - 
 - [vulmon/Vulmap](https://github.com/vulmon/Vulmap) - Vulmap Online Local Vulnerability Scanners Project
@@ -869,7 +871,7 @@
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [cyberark/BlobHunter](https://github.com/cyberark/BlobHunter) - Find exposed data in Azure with this public blob scanner
 - [adrijano/Bitcoin-wallet-cracker](https://github.com/adrijano/Bitcoin-wallet-cracker) - Automated Bitcoin wallet generator that with mnemonic and passphrases bruteforces wallet addresses
-- [m8r0wn/nullinux](https://github.com/m8r0wn/nullinux) - Internal penetration testing tool for Linux that can be used to enumerate OS information, domain information, shares, directories, and users through SMB.
+- [m8sec/nullinux](https://github.com/m8sec/nullinux) - Internal penetration testing tool for Linux that can be used to enumerate OS information, domain information, shares, directories, and users through SMB.
 - [DreyAnd/maian-cart-rce](https://github.com/DreyAnd/maian-cart-rce) - Maian Cart 3.8 preauth RCE exploit
 - [kakamband/WPKiller](https://github.com/kakamband/WPKiller) - CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit
 - [guy-liu/yith-giftdrop](https://github.com/guy-liu/yith-giftdrop) - Exploit for the Arbitrary File Upload vulnerability in YITH WooCommerce Gift Cards Premium
