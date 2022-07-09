@@ -185,6 +185,7 @@
 
 ## CSS 
 
+- [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [arifszn/email-scraper](https://github.com/arifszn/email-scraper) - An email scraper made with Node and React.
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [ajinabraham/CMSScan](https://github.com/ajinabraham/CMSScan) - CMS Scanner: Scan Wordpress, Drupal, Joomla, vBulletin websites for Security issues
@@ -657,6 +658,7 @@
 
 ## Perl 
 
+- [htrgouvea/nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway
 - [Zusyaku/Deface-And-Dorking](https://github.com/Zusyaku/Deface-And-Dorking) - Tutorial Seputar Depes Dan Web Hacking
 - [Aron-Tn/Mega-Bot](https://github.com/Aron-Tn/Mega-Bot) - [NEW] : Mega Bot ☣ Scanner & Auto Exploiter
 - [AlisamTechnology/ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced dork Search & Mass Exploit Scanner
@@ -679,6 +681,10 @@
 
 ## Python 
 
+- [nicolas-carolo/hsploit](https://github.com/nicolas-carolo/hsploit) - An advanced command-line search engine for Exploit-DB
+- [ruped24/toriptables3](https://github.com/ruped24/toriptables3) - Tor Iptables script is an anonymizer that sets up iptables and tor to route all services and traffic including DNS through the Tor network.
+- [ruped24/tor_ip_switcher](https://github.com/ruped24/tor_ip_switcher) - tor_ip_switcher is useful for making any DoS attack look like a DDoS attack. Works with toriptables2.
+- [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [ail-project/ail-framework](https://github.com/ail-project/ail-framework) - AIL framework - Analysis Information Leak framework
 - [JMousqueton/PoC-CVE-2022-30190](https://github.com/JMousqueton/PoC-CVE-2022-30190) - 
