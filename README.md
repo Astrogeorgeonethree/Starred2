@@ -677,7 +677,7 @@
 - [BloodHoundAD/AzureHound](https://github.com/BloodHoundAD/AzureHound) - 
 - [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) - A collection of scripts for assessing Microsoft Azure security
 - [securethelogs/RedRabbit](https://github.com/securethelogs/RedRabbit) - Red Team PowerShell Script
-- [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit.
+- [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and creating malicious payloads using Metasploit. For use with Kali Linux.
 
 ## Python 
 
