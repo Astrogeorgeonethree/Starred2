@@ -217,6 +217,7 @@
 
 ## Go 
 
+- [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) - An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
 - [ferreiraklet/Jeeves](https://github.com/ferreiraklet/Jeeves) - Jeeves SQLI Finder
@@ -503,6 +504,7 @@
 
 ## Others 
 
+- [SecOps-Institute/Tor-IP-Addresses](https://github.com/SecOps-Institute/Tor-IP-Addresses) - Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [h33tlit/HowToHunt](https://github.com/h33tlit/HowToHunt) - Tutorials and Things to Do while Hunting Vulnerability.
 - [h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting](https://github.com/h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting) - Sniffcon has a wide list of powerful online bug bounty tools which can be used to find security vulnerabilities.
@@ -681,6 +683,8 @@
 
 ## Python 
 
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [sdushantha/dora](https://github.com/sdushantha/dora) - Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
 - [nicolas-carolo/hsploit](https://github.com/nicolas-carolo/hsploit) - An advanced command-line search engine for Exploit-DB
 - [ruped24/toriptables3](https://github.com/ruped24/toriptables3) - Tor Iptables script is an anonymizer that sets up iptables and tor to route all services and traffic including DNS through the Tor network.
 - [ruped24/tor_ip_switcher](https://github.com/ruped24/tor_ip_switcher) - tor_ip_switcher is useful for making any DoS attack look like a DDoS attack. Works with toriptables2.
@@ -1389,6 +1393,7 @@
 
 ## Rust 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [seanpianka/aws-incentives-api-rs](https://github.com/seanpianka/aws-incentives-api-rs) - A Rust service for using the Amazon Gift Card API
 - [MCOfficer/odcrawler-discovery](https://github.com/MCOfficer/odcrawler-discovery) - The (new) discovery backend for https://odcrawler.xyz
