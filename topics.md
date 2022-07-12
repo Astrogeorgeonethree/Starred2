@@ -89,6 +89,7 @@
 - [opengl](#opengl)
 - [others](#others)
 - [p2p](#p2p)
+- [package-manager](#package-manager)
 - [parsing](#parsing)
 - [perl](#perl)
 - [php](#php)
@@ -336,6 +337,7 @@
 
 ## cli 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice is a tool that uses PowerShell automation to setup your Windows devices.
@@ -529,6 +531,7 @@
 
 ## github 
 
+- [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 - [jaebradley/github-personal-access-token-generator-cli](https://github.com/jaebradley/github-personal-access-token-generator-cli) - Create GitHub Personal Access Tokens from the Terminal
 - [alifathi-h1/gh_scanner](https://github.com/alifathi-h1/gh_scanner) - GH Scanner Tool is written in Python3 and designed for penetration testers and bug bounty hunters to scan Organization/User repositories for leaks such as GitHub Token, AWS Access Keys, Slack Webhooks
 - [powerexploit/Ashok](https://github.com/powerexploit/Ashok) - Ashok is a OSINT Recon Tool , a.k.a :heart_eyes:  Swiss Army knife .
@@ -544,6 +547,7 @@
 
 ## go 
 
+- [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 - [haydenwoodhead/burner.kiwi](https://github.com/haydenwoodhead/burner.kiwi) - No bullshit temporary mail service written in Go
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [dwisiswant0/go-stare](https://github.com/dwisiswant0/go-stare) - A fast & light web screenshot without headless browser but Chrome DevTools Protocol!
@@ -570,6 +574,7 @@
 
 ## golang 
 
+- [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 - [R4yGM/dorkscout](https://github.com/R4yGM/dorkscout) - DorkScout - Golang tool to automate google dork scan against the entiere internet or specific targets
 - [haydenwoodhead/burner.kiwi](https://github.com/haydenwoodhead/burner.kiwi) - No bullshit temporary mail service written in Go
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
@@ -751,6 +756,7 @@
 
 ## hacktoberfest 
 
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [d-edge/Cardidy](https://github.com/d-edge/Cardidy) - A .net library to identify credit card number and cvv
@@ -1920,7 +1926,12 @@
 
 ## p2p 
 
+- [SecOps-Institute/Tor-IP-Addresses](https://github.com/SecOps-Institute/Tor-IP-Addresses) - Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, and ABP / uBO subscriptions, all merged from multiple reputable sources, combined with my own research. Also, script-based utilities to help you c
+
+## package-manager 
+
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 
 ## parsing 
 
@@ -1955,6 +1966,8 @@
 
 ## python 
 
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [sdushantha/dora](https://github.com/sdushantha/dora) - Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [h33tlit/Jbin-website-secret-scraper](https://github.com/h33tlit/Jbin-website-secret-scraper) - Jbin will gather all the URLs from the website and then it will try to expose the secret data from them such as API keys, API secrets, API tokens and many other juicy information.
 - [hamid0740/Combo-List-Fixer](https://github.com/hamid0740/Combo-List-Fixer) - Simple python code to fix your combo list by removing any text after a separator or removing duplicate combos
@@ -2388,6 +2401,7 @@
 
 ## vue 
 
+- [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [Chaphasilor/odcrawler-frontend](https://github.com/Chaphasilor/odcrawler-frontend) - A frontend for ODCrawler, an Open Directory search engine.
 
