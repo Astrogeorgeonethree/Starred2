@@ -531,6 +531,7 @@
 
 ## github 
 
+- [janeklb/gh-search](https://github.com/janeklb/gh-search) - GitHub code search with full text regex filtering, from your cli.
 - [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 - [jaebradley/github-personal-access-token-generator-cli](https://github.com/jaebradley/github-personal-access-token-generator-cli) - Create GitHub Personal Access Tokens from the Terminal
 - [alifathi-h1/gh_scanner](https://github.com/alifathi-h1/gh_scanner) - GH Scanner Tool is written in Python3 and designed for penetration testers and bug bounty hunters to scan Organization/User repositories for leaks such as GitHub Token, AWS Access Keys, Slack Webhooks
@@ -541,6 +542,7 @@
 
 ## github-api 
 
+- [janeklb/gh-search](https://github.com/janeklb/gh-search) - GitHub code search with full text regex filtering, from your cli.
 - [deepdivesec/GitMAD](https://github.com/deepdivesec/GitMAD) - Monitor, Alert, and Discover sensitive info and data leakage on Github.
 - [BishopFox/GitGot](https://github.com/BishopFox/GitGot) - Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
@@ -1330,7 +1332,7 @@
 - [Udyz/CVE-2021-22986-SSRF2RCE](https://github.com/Udyz/CVE-2021-22986-SSRF2RCE) - F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE
 - [Al1ex/CVE-2021-22986](https://github.com/Al1ex/CVE-2021-22986) - CVE-2021-22986 & F5 BIG-IP RCE
 - [ZephrFish/WindowsHardeningScript](https://github.com/ZephrFish/WindowsHardeningScript) - Some settings stolen from multiple scripts @ZephrFish
-- [r4v10l1/python_bruteforcer](https://github.com/r4v10l1/python_bruteforcer) - Bruteforce logins with python
+- [r4v10l1/python-bruteforcer](https://github.com/r4v10l1/python-bruteforcer) - Bruteforce logins with python
 - [r4j0x00/exploits](https://github.com/r4j0x00/exploits) - 
 - [0xSearches/sandcastle](https://github.com/0xSearches/sandcastle) - 🏰 A Python script for AWS S3 bucket enumeration.
 - [iGotRootSRC/Dorkers](https://github.com/iGotRootSRC/Dorkers) - Dorks for Google, Shodan and BinaryEdge
