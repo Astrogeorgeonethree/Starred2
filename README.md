@@ -683,6 +683,7 @@
 
 ## Python 
 
+- [janeklb/gh-search](https://github.com/janeklb/gh-search) - GitHub code search with full text regex filtering, from your cli.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [sdushantha/dora](https://github.com/sdushantha/dora) - Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
 - [nicolas-carolo/hsploit](https://github.com/nicolas-carolo/hsploit) - An advanced command-line search engine for Exploit-DB
@@ -871,7 +872,7 @@
 - [Udyz/CVE-2021-22986-SSRF2RCE](https://github.com/Udyz/CVE-2021-22986-SSRF2RCE) - F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE
 - [Al1ex/CVE-2021-22986](https://github.com/Al1ex/CVE-2021-22986) - CVE-2021-22986 & F5 BIG-IP RCE
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-- [r4v10l1/python_bruteforcer](https://github.com/r4v10l1/python_bruteforcer) - Bruteforce logins with python
+- [r4v10l1/python-bruteforcer](https://github.com/r4v10l1/python-bruteforcer) - Bruteforce logins with python
 - [0xSearches/sandcastle](https://github.com/0xSearches/sandcastle) - 🏰 A Python script for AWS S3 bucket enumeration.
 - [rm1984/IMAPLoginTester](https://github.com/rm1984/IMAPLoginTester) - A simple Python script that reads a text file with lots of e-mails and passwords, and tries to check if those credentials are valid by trying to login on IMAP servers.
 - [prozaqq/mongol](https://github.com/prozaqq/mongol) - A MongoDB no authentication scanner and enumerator
