@@ -180,7 +180,7 @@
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [ajinabraham/CMSScan](https://github.com/ajinabraham/CMSScan) - CMS Scanner: Scan Wordpress, Drupal, Joomla, vBulletin websites for Security issues
 - [NullArray/NetSet](https://github.com/NullArray/NetSet) - Operational Security utility and automator.
-- [apify/crawlee](https://github.com/apify/crawlee) - Apify SDK — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
 - [screetsec/BruteSploit](https://github.com/screetsec/BruteSploit) - BruteSploit is a collection of method for automated Generate, Bruteforce and Manipulation wordlist with interactive shell. That can be used during a penetration test to enumerate and maybe can be used
 - [NullArray/AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
 
@@ -1057,7 +1057,7 @@
 
 ## npm 
 
-- [apify/crawlee](https://github.com/apify/crawlee) - Apify SDK — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
 
 ## objective-c 
 
