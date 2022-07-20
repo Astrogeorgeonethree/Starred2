@@ -1982,7 +1982,7 @@
 - [Rdimo/Hazard-Nuker](https://github.com/Rdimo/Hazard-Nuker) - A discord token nuker With loads of options that will screw an account up real bad, also has inbuilt massreport, GroupChat Spammer and Token/Password/Creditcard grabber and so much more!
 - [Sunlight-Rim/FTPSearcher](https://github.com/Sunlight-Rim/FTPSearcher) - Asynchronous file scanner and downloader for FTP servers. Also takes IP ranges.
 - [0xZDH/o365spray](https://github.com/0xZDH/o365spray) - Username enumeration and password spraying tool aimed at Microsoft O365.
-- [james04gr/TorCrawl.py](https://github.com/james04gr/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
+- [MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
 - [KevinLage/Edu-Account-creator](https://github.com/KevinLage/Edu-Account-creator) - 
 - [mpgn/BEAST-PoC](https://github.com/mpgn/BEAST-PoC) - :muscle: Proof Of Concept of the BEAST attack against SSL/TLS CVE-2011-3389 :muscle:
 - [tamimibrahim17/List-of-user-agents](https://github.com/tamimibrahim17/List-of-user-agents) - List of major web + mobile browser user agent strings. +1 Bonus script to scrape :)
