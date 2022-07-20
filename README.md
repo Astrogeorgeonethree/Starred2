@@ -773,7 +773,7 @@
 - [bdunlap9/query](https://github.com/bdunlap9/query) - Python3 query through all text files in current directory for certain strings and then print the full line that string was found in
 - [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot
 - [pwn0sec/Pwnscan](https://github.com/pwn0sec/Pwnscan) - Shalfa is a simple tool that helps you with Extract URLs.
-- [james04gr/TorCrawl.py](https://github.com/james04gr/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
+- [MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
 - [danieleperera/OnionIngestor](https://github.com/danieleperera/OnionIngestor) - An extendable tool to Collect, Crawl and Monitor onion sites on tor network and index collected information on Elasticsearch
 - [Haru1ca/MailAccessAccountChecker](https://github.com/Haru1ca/MailAccessAccountChecker) - 
 - [extremedevalt/ExtremeAIO-Free-25-Modules-ALL-IN-ONE](https://github.com/extremedevalt/ExtremeAIO-Free-25-Modules-ALL-IN-ONE) - Python 3x AIO, for free, open source!
