@@ -1121,7 +1121,6 @@
 - [GONZOsint/geowifi](https://github.com/GONZOsint/geowifi) - Search WiFi geolocation data by BSSID and SSID on different public databases.
 - [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engine.
 - [sm00v/Dehashed](https://github.com/sm00v/Dehashed) - This repo contains scripts to query dehashed.com and crack the returned hashes which will then save all cleartext passwords and hashes to files.
-- [Zusyaku/Database-Leak](https://github.com/Zusyaku/Database-Leak) - Kumpulan Database Yang Berhasil Dibobol Oleh Hacker Dan Disebar Kepublik
 - [iamavu/Slyther](https://github.com/iamavu/Slyther) - AWS Security Tool
 - [iamavu/personal-security-checklist](https://github.com/iamavu/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
 - [cipher387/cipher387.github.io](https://github.com/cipher387/cipher387.github.io) - Repo for site with links to my projects
