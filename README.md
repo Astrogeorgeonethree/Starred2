@@ -515,7 +515,6 @@
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
-- [Zusyaku/Database-Leak](https://github.com/Zusyaku/Database-Leak) - Kumpulan Database Yang Berhasil Dibobol Oleh Hacker Dan Disebar Kepublik
 - [iamavu/personal-security-checklist](https://github.com/iamavu/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
 - [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
 - [dragonfruitnetwork/onionfruit](https://github.com/dragonfruitnetwork/onionfruit) - OnionFruit™ Connect - Tor access client with country selection, bridge configuration, pluggable transports and experimental DNS support
