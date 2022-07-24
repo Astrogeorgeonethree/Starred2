@@ -1376,7 +1376,7 @@
 - [faizann24/XssPy](https://github.com/faizann24/XssPy) - XssPy - Web Application XSS Scanner
 - [epsylon/xsser](https://github.com/epsylon/xsser) - Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications.
 - [pwn0sec/PwnXSS](https://github.com/pwn0sec/PwnXSS) - PwnXSS: Vulnerability (XSS) scanner exploit
-- [noolep/AWCREC](https://github.com/noolep/AWCREC) - Amazon Credentials Checker
+- [ItsMeLBoy/AWCREC](https://github.com/ItsMeLBoy/AWCREC) - Amazon Credentials Checker
 - [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2) - OpenBullet reinvented
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [uiowa-irl/FP-Inspector](https://github.com/uiowa-irl/FP-Inspector) - Artifact release for our IEEE Symposium on Security and Privacy 2021 paper entitled Fingerprinting the Fingerprinters: Learning to Detect Browser Fingerprinting Behaviors
