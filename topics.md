@@ -1568,9 +1568,7 @@
 - [avineshwar/slurp](https://github.com/avineshwar/slurp) - S3 bucket enumerator
 - [NullArray/DorkNet](https://github.com/NullArray/DorkNet) - Selenium powered Python script to automate searching for vulnerable web apps.
 - [CPH-SEC/CPH-SEC.github.io](https://github.com/CPH-SEC/CPH-SEC.github.io) - CPH:SEC - Copenhagen Ethical Hacking and Penetration Testing Society
-- [Ekultek/Zeus-Scanner](https://github.com/Ekultek/Zeus-Scanner) - Advanced reconnaissance utility
 - [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) - The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread f
-- [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
 - [jaxBCD/Ultimate-Dork](https://github.com/jaxBCD/Ultimate-Dork) - Web Crawler
 - [m4ll0k/SecretFinder](https://github.com/m4ll0k/SecretFinder) - SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files
 - [pwnsdx/Mailsploit](https://github.com/pwnsdx/Mailsploit) - (Released in December 2017) Mailsploit is a collection of bugs in email clients that allow effective sender spoofing and code injection attacks. The spoofing is not detected by Mail Transfer Agents (M
@@ -1886,7 +1884,6 @@
 - [fkasler/dolos_cloak](https://github.com/fkasler/dolos_cloak) - Automated 802.1x Bypass
 - [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
 - [Und3rf10w/kali-anonsurf](https://github.com/Und3rf10w/kali-anonsurf) - A port of ParrotSec's stealth and anonsurf modules to Kali Linux
-- [Ekultek/WhatBreach](https://github.com/Ekultek/WhatBreach) - OSINT tool to find breached emails, databases, pastes, and relevant information
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [trustedsec/hate_crack](https://github.com/trustedsec/hate_crack) - A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
 - [shinnok/netcatgui](https://github.com/shinnok/netcatgui) - NetcatGUI is a simple GUI program that is set to emulate the popular network "swiss army knife" tool netcat (nc) using an easy to use graphical user interface and cross platform availability.
