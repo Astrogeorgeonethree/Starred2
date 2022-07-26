@@ -1078,8 +1078,6 @@
 - [m4ll0k/Atlas](https://github.com/m4ll0k/Atlas) - Quick SQLMap Tamper Suggester
 - [NullArray/DorkNet](https://github.com/NullArray/DorkNet) - Selenium powered Python script to automate searching for vulnerable web apps.
 - [jaxBCD/Zeebsploit](https://github.com/jaxBCD/Zeebsploit) - web scanner - exploitation - information gathering
-- [Ekultek/Zeus-Scanner](https://github.com/Ekultek/Zeus-Scanner) - Advanced reconnaissance utility
-- [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
 - [ejedev/dorkhunter](https://github.com/ejedev/dorkhunter) - Searches and tests SQL dorks to find vulnerable sites.
 - [jaxBCD/Ultimate-Dork](https://github.com/jaxBCD/Ultimate-Dork) - Web Crawler
 - [m4ll0k/SecretFinder](https://github.com/m4ll0k/SecretFinder) - SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files
@@ -1321,7 +1319,6 @@
 - [fkasler/dolos_cloak](https://github.com/fkasler/dolos_cloak) - Automated 802.1x Bypass
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [itsmehacker/CardPwn](https://github.com/itsmehacker/CardPwn) - OSINT Tool to find Breached Credit Cards Information
-- [Ekultek/WhatBreach](https://github.com/Ekultek/WhatBreach) - OSINT tool to find breached emails, databases, pastes, and relevant information
 - [trustedsec/hate_crack](https://github.com/trustedsec/hate_crack) - A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [Acceis/leakScraper](https://github.com/Acceis/leakScraper) - LeakScraper is an efficient set of tools to process and visualize huge text files containing credentials. Theses tools are designed to help penetration testers and redteamers doing OSINT by gathering 
