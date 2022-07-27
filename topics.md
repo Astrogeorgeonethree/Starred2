@@ -264,7 +264,7 @@
 - [jakewmeyer/Geo](https://github.com/jakewmeyer/Geo) - :earth_americas: A Bash utility for easy wan, lan, router, dns, mac address, and geolocation output, with clean stdout for piping
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [screetsec/Sudomy](https://github.com/screetsec/Sudomy) - Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting
-- [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and creating malicious payloads using Metasploit. For use with Kali Linux.
+- [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux.
 
 ## bitcoin 
 
@@ -1411,7 +1411,7 @@
 - [onemanbuilds/OpenBulletConfigTool](https://github.com/onemanbuilds/OpenBulletConfigTool) - This is a simple tool for openbullet configs
 - [gordboy/rtl8812au-5.9.3.2](https://github.com/gordboy/rtl8812au-5.9.3.2) - Realtek 8812AU driver version 5.9.3.2
 - [z-labs/NordVPNQuickConnect](https://github.com/z-labs/NordVPNQuickConnect) - Desktop application that replaces the NordVPN command line interface (CLI) for linux machines
-- [Amirtyper/NordVpn_Checker](https://github.com/Amirtyper/NordVpn_Checker) - Cracker NordVpn Full Capture And ProxyLess 2020 !!
+- [Amirtyper/NordVpn_Checker](https://github.com/Amirtyper/NordVpn_Checker) - Cracker NordVpn Full Capture And ProxyLess 2022 !!
 - [RightToPrivacy/MACcleaner](https://github.com/RightToPrivacy/MACcleaner) - New continually changing MAC spoofer concept to thwart trackers; randomizes mac address at random times) prevents WIFI access point location tracking/MAC change patterns, permanent mac setting include
 - [cdown/psi-notify](https://github.com/cdown/psi-notify) - Alert when your machine is becoming oversaturated, *before* it slows to a crawl
 - [ClimenteA/vamp-theme-notepad](https://github.com/ClimenteA/vamp-theme-notepad) - Dark theme for notepad++
@@ -2430,7 +2430,7 @@
 ## windows 
 
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, fewer antivirus detection and user-friendliness.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [SecWiki/windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) - windows-kernel-exploits   Windows平台提权漏洞集合
