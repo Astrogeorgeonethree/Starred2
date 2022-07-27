@@ -53,7 +53,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, fewer antivirus detection and user-friendliness.
 - [amirDEV/JohnTechFreeRDP](https://github.com/amirDEV/JohnTechFreeRDP) - 
 - [NirajShr3stha/coffinRDP](https://github.com/NirajShr3stha/coffinRDP) - You can get unlimited rdp for free.
 - [ZephrFish/WindowsHardeningScript](https://github.com/ZephrFish/WindowsHardeningScript) - Some settings stolen from multiple scripts @ZephrFish
@@ -677,7 +677,7 @@
 - [BloodHoundAD/AzureHound](https://github.com/BloodHoundAD/AzureHound) - 
 - [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) - A collection of scripts for assessing Microsoft Azure security
 - [securethelogs/RedRabbit](https://github.com/securethelogs/RedRabbit) - Red Team PowerShell Script
-- [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and creating malicious payloads using Metasploit. For use with Kali Linux.
+- [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux.
 
 ## Python 
 
@@ -941,7 +941,7 @@
 - [nityanandagohain/proxy_configuration](https://github.com/nityanandagohain/proxy_configuration) - System wide proxy configuration in a single script with options to add, remove proxy and restore system default proxy configuration
 - [priyamharsh14/Prawler](https://github.com/priyamharsh14/Prawler) - Advance Proxy Scraper written in Python3
 - [z-labs/NordVPNQuickConnect](https://github.com/z-labs/NordVPNQuickConnect) - Desktop application that replaces the NordVPN command line interface (CLI) for linux machines
-- [Amirtyper/NordVpn_Checker](https://github.com/Amirtyper/NordVpn_Checker) - Cracker NordVpn Full Capture And ProxyLess 2020 !!
+- [Amirtyper/NordVpn_Checker](https://github.com/Amirtyper/NordVpn_Checker) - Cracker NordVpn Full Capture And ProxyLess 2022 !!
 - [cdown/tzupdate](https://github.com/cdown/tzupdate) - Set the system timezone based on IP geolocation
 - [AnuragSinghKushwah/anonymous-scraping](https://github.com/AnuragSinghKushwah/anonymous-scraping) - Anonymous Web Scraping using Python, Selenium, Free Proxy and Paid Proxies (luminati)
 - [pry0cc/ProxyDock](https://github.com/pry0cc/ProxyDock) - ProxyDock is a Dockerfile and Bash script that converts your OpenVPN files into local proxies.
