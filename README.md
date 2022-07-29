@@ -1064,7 +1064,7 @@
 - [AahmetTURGUT/FindOpenDatabase](https://github.com/AahmetTURGUT/FindOpenDatabase) - Find open MongoDB and Elasticsearch databases details and get to Json
 - [JLospinoso/memcachedump](https://github.com/JLospinoso/memcachedump) - Use your Shodan API Key to dump all the contents of exposed memcached servers.
 - [imnikola/ShodanAnomymousDirs](https://github.com/imnikola/ShodanAnomymousDirs) - FTP server crawler for anonymous login based on shodan
-- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, coll
+- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
 - [orleven/Tentacle](https://github.com/orleven/Tentacle) - Tentacle is a POC vulnerability verification and exploit framework. It supports free extension of exploits and uses POC scripts. It supports calls to zoomeye, fofa, shodan and other APIs to perform bu
 - [davidfoerster/aptsources-cleanup](https://github.com/davidfoerster/aptsources-cleanup) - Detects and interactively deactivates duplicate Apt source entries and deletes sources list files without valid enabled source entries (as requested in https://askubuntu.com/a/762815/175814).
 - [s0md3v/Silver](https://github.com/s0md3v/Silver) - Mass scan IPs for vulnerable services
@@ -1078,6 +1078,8 @@
 - [m4ll0k/Atlas](https://github.com/m4ll0k/Atlas) - Quick SQLMap Tamper Suggester
 - [NullArray/DorkNet](https://github.com/NullArray/DorkNet) - Selenium powered Python script to automate searching for vulnerable web apps.
 - [jaxBCD/Zeebsploit](https://github.com/jaxBCD/Zeebsploit) - web scanner - exploitation - information gathering
+- [Ekultek/Zeus-Scanner](https://github.com/Ekultek/Zeus-Scanner) - Advanced reconnaissance utility
+- [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
 - [ejedev/dorkhunter](https://github.com/ejedev/dorkhunter) - Searches and tests SQL dorks to find vulnerable sites.
 - [jaxBCD/Ultimate-Dork](https://github.com/jaxBCD/Ultimate-Dork) - Web Crawler
 - [m4ll0k/SecretFinder](https://github.com/m4ll0k/SecretFinder) - SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files
@@ -1319,6 +1321,7 @@
 - [fkasler/dolos_cloak](https://github.com/fkasler/dolos_cloak) - Automated 802.1x Bypass
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [itsmehacker/CardPwn](https://github.com/itsmehacker/CardPwn) - OSINT Tool to find Breached Credit Cards Information
+- [Ekultek/WhatBreach](https://github.com/Ekultek/WhatBreach) - OSINT tool to find breached emails, databases, pastes, and relevant information
 - [trustedsec/hate_crack](https://github.com/trustedsec/hate_crack) - A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [Acceis/leakScraper](https://github.com/Acceis/leakScraper) - LeakScraper is an efficient set of tools to process and visualize huge text files containing credentials. Theses tools are designed to help penetration testers and redteamers doing OSINT by gathering 
