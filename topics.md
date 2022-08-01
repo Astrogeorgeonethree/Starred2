@@ -555,7 +555,7 @@
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [dwisiswant0/go-stare](https://github.com/dwisiswant0/go-stare) - A fast & light web screenshot without headless browser but Chrome DevTools Protocol!
 - [dwisiswant0/cf-check](https://github.com/dwisiswant0/cf-check) - CloudFlare Checker written in Go
-- [signedsecurity/sigurlfind3r](https://github.com/signedsecurity/sigurlfind3r) - A passive reconnaissance tool for known URLs discovery - it gathers a list of URLs passively using various online sources.
+- [hueristiq/sigurlfind3r](https://github.com/hueristiq/sigurlfind3r) - A passive reconnaissance tool for known URLs discovery - it gathers a list of URLs passively using various online sources.
 - [alexandr-gnrk/Hash-cracker](https://github.com/alexandr-gnrk/Hash-cracker) - Brute force program for SHA1, SHA256, SHA512 and MD5.
 - [Narasimha1997/fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -584,7 +584,7 @@
 - [dwisiswant0/go-stare](https://github.com/dwisiswant0/go-stare) - A fast & light web screenshot without headless browser but Chrome DevTools Protocol!
 - [dwisiswant0/cf-check](https://github.com/dwisiswant0/cf-check) - CloudFlare Checker written in Go
 - [Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.
-- [signedsecurity/sigurlfind3r](https://github.com/signedsecurity/sigurlfind3r) - A passive reconnaissance tool for known URLs discovery - it gathers a list of URLs passively using various online sources.
+- [hueristiq/sigurlfind3r](https://github.com/hueristiq/sigurlfind3r) - A passive reconnaissance tool for known URLs discovery - it gathers a list of URLs passively using various online sources.
 - [CyanCoding/Brute-Force-Password-Cracker](https://github.com/CyanCoding/Brute-Force-Password-Cracker) - A brute force attacker with packages for development in Python 3, Kotlin, C#, Go, Vala, and C++.
 - [alexandr-gnrk/Hash-cracker](https://github.com/alexandr-gnrk/Hash-cracker) - Brute force program for SHA1, SHA256, SHA512 and MD5.
 - [cyberark/kubesploit](https://github.com/cyberark/kubesploit) - Kubesploit is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in Golang, focused on containerized environments.
