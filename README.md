@@ -245,7 +245,7 @@
 - [gwen001/github-regexp](https://github.com/gwen001/github-regexp) - Basically a regexp over a GitHub search.
 - [kleiton0x00/ppmap](https://github.com/kleiton0x00/ppmap) - A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets.
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [hueristiq/sigurlfind3r](https://github.com/hueristiq/sigurlfind3r) - A passive reconnaissance tool for known URLs discovery - it gathers a list of URLs passively using various online sources.
+- [hueristiq/urlfind3r](https://github.com/hueristiq/urlfind3r) - A passive reconnaissance tool for known URLs discovery - it gathers a list of URLs passively using various online sources.
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [projectdiscovery/cloudlist](https://github.com/projectdiscovery/cloudlist) - Cloudlist is a tool for listing Assets from multiple Cloud Providers.
 - [h4x0r-dz/CVE-2021-26855](https://github.com/h4x0r-dz/CVE-2021-26855) - 
@@ -740,7 +740,7 @@
 - [SecurityRiskAdvisors/msspray](https://github.com/SecurityRiskAdvisors/msspray) - Password attacks and MFA validation against various endpoints in Azure and Office 365
 - [MarkoH17/EmailSecCheck](https://github.com/MarkoH17/EmailSecCheck) - EmailSecCheck is a lightweight Python utility used to check for common SPF/DMARC misconfigurations that may allow for email spoofing.
 - [MarkoH17/Spray365](https://github.com/MarkoH17/Spray365) - Spray365 makes spraying Microsoft accounts (Office 365 / Azure AD) easy through its customizable two-step password spraying approach. The built-in execution plan features options that attempt to bypas
-- [WangYihang/GitHacker](https://github.com/WangYihang/GitHacker) - 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers' mind
+- [WangYihang/GitHacker](https://github.com/WangYihang/GitHacker) - 🕷️ A `.git` folder exploiting tool that is able to restore the entire Git repository, including stash, common branches, common tags.
 - [WangYihang/SourceLeakHacker](https://github.com/WangYihang/SourceLeakHacker) - :bug: A multi threads web application source leak scanner
 - [hosch3n/ProxyVulns](https://github.com/hosch3n/ProxyVulns) - [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 & CVE-2021-31207 
 - [herwonowr/exprolog](https://github.com/herwonowr/exprolog) - ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)
@@ -970,7 +970,7 @@
 - [risksense/zerologon](https://github.com/risksense/zerologon) - Exploit for zerologon cve-2020-1472
 - [dirkjanm/CVE-2020-1472](https://github.com/dirkjanm/CVE-2020-1472) - PoC for Zerologon - all research credits go to Tom Tervoort of Secura
 - [th3unkn0n/TeleGram-Scraper](https://github.com/th3unkn0n/TeleGram-Scraper) - telegram group scraper tool. fetch all information about group members
-- [infobyte/faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform
+- [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 - [stamparm/DSSS](https://github.com/stamparm/DSSS) - Damn Small SQLi Scanner
 - [delvelabs/batea](https://github.com/delvelabs/batea) - AI-based, context-driven network device ranking
 - [sdnewhop/grinder](https://github.com/sdnewhop/grinder) - :mag_right: Python framework to automatically discover and enumerate hosts from different back-end systems (Shodan, Censys)
