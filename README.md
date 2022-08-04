@@ -674,7 +674,7 @@
 - [SNGWN/Burp-Suite](https://github.com/SNGWN/Burp-Suite) - || Activate Burp Suite Pro with Key-Generator and Key-Loader ||
 - [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
 - [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice is a tool that uses PowerShell automation to setup your Windows devices.
-- [BloodHoundAD/AzureHound](https://github.com/BloodHoundAD/AzureHound) - 
+- [BloodHoundAD/Legacy-AzureHound.ps1](https://github.com/BloodHoundAD/Legacy-AzureHound.ps1) - 
 - [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) - A collection of scripts for assessing Microsoft Azure security
 - [securethelogs/RedRabbit](https://github.com/securethelogs/RedRabbit) - Red Team PowerShell Script
 - [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux.
