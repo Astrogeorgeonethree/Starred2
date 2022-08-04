@@ -1324,7 +1324,7 @@
 - [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) - IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by p
 - [GnosticPlayers/Solr-GRAB](https://github.com/GnosticPlayers/Solr-GRAB) - Steal Apache Solr instance Queries with or without a username and password.
 - [assetnote/kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
-- [BloodHoundAD/AzureHound](https://github.com/BloodHoundAD/AzureHound) - 
+- [BloodHoundAD/Legacy-AzureHound.ps1](https://github.com/BloodHoundAD/Legacy-AzureHound.ps1) - 
 - [1n7erface/PocList](https://github.com/1n7erface/PocList) - Alibaba-Nacos-Unauthorized/ApacheDruid-RCE_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-G
 - [ZephrFish/CVE-2021-22986_Check](https://github.com/ZephrFish/CVE-2021-22986_Check) - CVE-2021-22986 Checker Script in Python3
 - [Udyz/CVE-2020-7961-Mass](https://github.com/Udyz/CVE-2020-7961-Mass) - CVE-2020–7961 Mass exploit for Script Kiddies
