@@ -1079,6 +1079,8 @@
 
 ## others 
 
+- [forb1d3n/Trixie](https://github.com/forb1d3n/Trixie) - Here i'll post new tricks concerning scamming, carding etc. Stay tuned
+- [grumpychris/pentest-resources](https://github.com/grumpychris/pentest-resources) - Links, commands, tools etc. for use in pentesting
 - [nicolas-carolo/hsploit](https://github.com/nicolas-carolo/hsploit) - An advanced command-line search engine for Exploit-DB
 - [ruped24/toriptables3](https://github.com/ruped24/toriptables3) - Tor Iptables script is an anonymizer that sets up iptables and tor to route all services and traffic including DNS through the Tor network.
 - [ruped24/tor_ip_switcher](https://github.com/ruped24/tor_ip_switcher) - tor_ip_switcher is useful for making any DoS attack look like a DDoS attack. Works with toriptables2.
