@@ -505,6 +505,7 @@
 
 ## Others 
 
+- [chenjj/Awesome-HTTPRequestSmuggling](https://github.com/chenjj/Awesome-HTTPRequestSmuggling) - A curated list of awesome blogs and tools about HTTP request smuggling attacks.   Feel free to contribute!  🍻
 - [The-Viper-One/Pentest-Everything](https://github.com/The-Viper-One/Pentest-Everything) - A collection of CTF write-ups, pentesting topics, guides and notes. Notes compiled from multiple sources and my own lab research. Topics also support OSCP, Active Directory, CRTE, eJPT and eCPPT.
 - [samokosik/COMB](https://github.com/samokosik/COMB) - Compilation of many breaches (thanks, marek)
 - [forb1d3n/Trixie](https://github.com/forb1d3n/Trixie) - Here i'll post new tricks concerning scamming, carding etc. Stay tuned
@@ -686,6 +687,9 @@
 
 ## Python 
 
+- [infosec-au/enumXFF](https://github.com/infosec-au/enumXFF) - Enumerating IPs in X-Forwarded-Headers to bypass 403 restrictions
+- [defparam/smuggler](https://github.com/defparam/smuggler) - Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
+- [anshumanpattnaik/http-request-smuggling](https://github.com/anshumanpattnaik/http-request-smuggling) - HTTP Request Smuggling Detection Tool
 - [janeklb/gh-search](https://github.com/janeklb/gh-search) - GitHub code search with full text regex filtering, from your cli.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [sdushantha/dora](https://github.com/sdushantha/dora) - Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
@@ -767,7 +771,7 @@
 - [dfirsec/blacklist_check](https://github.com/dfirsec/blacklist_check) - Simple script to download and query IP address reputation lists from various sources.
 - [jgamblin/isthisipbad](https://github.com/jgamblin/isthisipbad) - Python Script to Check IP Against Blacklist
 - [chompie1337/SMBGhost_RCE_PoC](https://github.com/chompie1337/SMBGhost_RCE_PoC) - 
-- [isaaccto/BitcoinFinder](https://github.com/isaaccto/BitcoinFinder) - ⚡ Bitcoin Balance Checker & Generator.
+- [isaacxbt/BitcoinFinder](https://github.com/isaacxbt/BitcoinFinder) - ⚡ Bitcoin Balance Checker & Generator.
 - [Josue87/EmailFinder](https://github.com/Josue87/EmailFinder) - Search emails from a domain through search engines
 - [dievus/Oh365UserFinder](https://github.com/dievus/Oh365UserFinder) - Python3 o365 User Enumeration Tool
 - [0xZDH/o365spray](https://github.com/0xZDH/o365spray) - Username enumeration and password spraying tool aimed at Microsoft O365.
