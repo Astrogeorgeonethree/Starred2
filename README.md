@@ -725,7 +725,6 @@
 - [averagesecurityguy/scripts](https://github.com/averagesecurityguy/scripts) - Scripts I use during pentest engagements.
 - [Plasmonix/Netflixer](https://github.com/Plasmonix/Netflixer) - 👻 Fast Netflix account checker
 - [Its-Vichy/IpVanish-Checker](https://github.com/Its-Vichy/IpVanish-Checker) - Ultra fast checker made in 10min
-- [Rdimo/Hazard-Nuker](https://github.com/Rdimo/Hazard-Nuker) - A discord token nuker With loads of options that will screw an account up real bad, also has inbuilt massreport, GroupChat Spammer and Token/Password/Creditcard grabber and so much more!
 - [Josue87/pwndbTorCredentials](https://github.com/Josue87/pwndbTorCredentials) - 
 - [jdiazmx/karma](https://github.com/jdiazmx/karma) - API pwndb
 - [nccgroup/gitpwnd](https://github.com/nccgroup/gitpwnd) - GitPwnd is a network penetration tool that lets you use a git repo for command and control of compromised machines
@@ -771,7 +770,6 @@
 - [dfirsec/blacklist_check](https://github.com/dfirsec/blacklist_check) - Simple script to download and query IP address reputation lists from various sources.
 - [jgamblin/isthisipbad](https://github.com/jgamblin/isthisipbad) - Python Script to Check IP Against Blacklist
 - [chompie1337/SMBGhost_RCE_PoC](https://github.com/chompie1337/SMBGhost_RCE_PoC) - 
-- [isaacxbt/BitcoinFinder](https://github.com/isaacxbt/BitcoinFinder) - ⚡ Bitcoin Balance Checker & Generator.
 - [Josue87/EmailFinder](https://github.com/Josue87/EmailFinder) - Search emails from a domain through search engines
 - [dievus/Oh365UserFinder](https://github.com/dievus/Oh365UserFinder) - Python3 o365 User Enumeration Tool
 - [0xZDH/o365spray](https://github.com/0xZDH/o365spray) - Username enumeration and password spraying tool aimed at Microsoft O365.
@@ -1406,7 +1404,7 @@
 - [seanpianka/aws-incentives-api-rs](https://github.com/seanpianka/aws-incentives-api-rs) - A Rust service for using the Amazon Gift Card API
 - [MCOfficer/odcrawler-discovery](https://github.com/MCOfficer/odcrawler-discovery) - The (new) discovery backend for https://odcrawler.xyz
 - [l4yton/js-parse](https://github.com/l4yton/js-parse) - Find subdomains, relative urls, parameter, custom headers and api keys in javascript files
-- [Findomain/Findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Ke
+- [Findomain/Findomain](https://github.com/Findomain/Findomain) - The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, mul
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [leo-lb/wpbrute-rs](https://github.com/leo-lb/wpbrute-rs) - High performance WordPress login bruteforcer with automatic concurrency for maximum amount of tries per second.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
