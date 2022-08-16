@@ -451,7 +451,6 @@
 
 ## discord 
 
-- [Rdimo/Hazard-Nuker](https://github.com/Rdimo/Hazard-Nuker) - A discord token nuker With loads of options that will screw an account up real bad, also has inbuilt massreport, GroupChat Spammer and Token/Password/Creditcard grabber and so much more!
 - [UndeadSec/Idisagree](https://github.com/UndeadSec/Idisagree) - Control remote computers using discord bot and python 3.
 
 ## django 
@@ -1208,7 +1207,6 @@
 - [jgamblin/isthisipbad](https://github.com/jgamblin/isthisipbad) - Python Script to Check IP Against Blacklist
 - [chompie1337/SMBGhost_RCE_PoC](https://github.com/chompie1337/SMBGhost_RCE_PoC) - 
 - [helich0pper/Karkinos](https://github.com/helich0pper/Karkinos) - Penetration Testing and Hacking CTF's Swiss Army Knife with: Reverse Shell Handling - Encoding/Decoding - Encryption/Decryption - Cracking Hashes / Hashing
-- [isaacxbt/BitcoinFinder](https://github.com/isaacxbt/BitcoinFinder) - ⚡ Bitcoin Balance Checker & Generator.
 - [BonJarber/SecUtils](https://github.com/BonJarber/SecUtils) - Random utilities from my security projects that might be useful to others
 - [Josue87/EmailFinder](https://github.com/Josue87/EmailFinder) - Search emails from a domain through search engines
 - [c6fc/warcannon](https://github.com/c6fc/warcannon) - High speed/Low cost CommonCrawl RegExp in Node.js
@@ -1379,7 +1377,7 @@
 - [IAmBlackHacker/Software](https://github.com/IAmBlackHacker/Software) - Some software for windows and linux
 - [RoyalFlyBy/PornHubDownloader](https://github.com/RoyalFlyBy/PornHubDownloader) - A pornhub.com downloader that allows you to login so you can download everything you have access to. including but not limited to private videos, 1080p or higher resolutions, premium videos and even p
 - [tictactrip/luminator](https://github.com/tictactrip/luminator) - 🕸 Axios proxy provider agent.
-- [Findomain/Findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Ke
+- [Findomain/Findomain](https://github.com/Findomain/Findomain) - The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, mul
 - [christophetd/CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
 - [0xInfection/XSRFProbe](https://github.com/0xInfection/XSRFProbe) - The Prime Cross Site Request Forgery (CSRF) Audit and Exploitation Toolkit.
 - [Tuhinshubhra/dirscraper](https://github.com/Tuhinshubhra/dirscraper) - OSINT scanning tool which discovers and maps directories found in javascript files hosted on a website.
@@ -1989,7 +1987,6 @@
 - [hhhrrrttt222111/Dorkify](https://github.com/hhhrrrttt222111/Dorkify) - Perform Google Dork search with Dorkify
 - [rly0nheart/oxdork](https://github.com/rly0nheart/oxdork) - Google dorking tool
 - [averagesecurityguy/scripts](https://github.com/averagesecurityguy/scripts) - Scripts I use during pentest engagements.
-- [Rdimo/Hazard-Nuker](https://github.com/Rdimo/Hazard-Nuker) - A discord token nuker With loads of options that will screw an account up real bad, also has inbuilt massreport, GroupChat Spammer and Token/Password/Creditcard grabber and so much more!
 - [Sunlight-Rim/FTPSearcher](https://github.com/Sunlight-Rim/FTPSearcher) - Asynchronous file scanner and downloader for FTP servers. Also takes IP ranges.
 - [0xZDH/o365spray](https://github.com/0xZDH/o365spray) - Username enumeration and password spraying tool aimed at Microsoft O365.
 - [MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
