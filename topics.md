@@ -816,6 +816,7 @@
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
 - [james-proxy/james](https://github.com/james-proxy/james) - Web Debugging Proxy Application
 - [Chaphasilor/odcrawler-frontend](https://github.com/Chaphasilor/odcrawler-frontend) - A frontend for ODCrawler, an Open Directory search engine.
+- [faiqsohail/ProxyChecker](https://github.com/faiqsohail/ProxyChecker) - An easy to use open-source, multithreaded Proxy Checker. Allows you to quickly check HTTP and SOCKS proxies in a user friendly GUI, for Windows, Mac OS, Linux.
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [iw4p/proxy-scraper](https://github.com/iw4p/proxy-scraper) - scrape proxies from more than 5 different sources and check which ones are still alive
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
