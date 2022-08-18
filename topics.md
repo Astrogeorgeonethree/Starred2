@@ -51,6 +51,7 @@
 - [go](#go)
 - [golang](#golang)
 - [google](#google)
+- [google-cloud](#google-cloud)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
@@ -236,6 +237,7 @@
 - [BishopFox/smogcloud](https://github.com/BishopFox/smogcloud) - Find cloud assets that no one wants exposed 🔎 ☁️
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [miguelmota/s3scanner](https://github.com/miguelmota/s3scanner) - Scan for open public S3 buckets
+- [belane/CloudHunter](https://github.com/belane/CloudHunter) - AWS, Azure and Google bucket scanner
 - [MindPointGroup/cloudfrunt](https://github.com/MindPointGroup/cloudfrunt) - A tool for identifying misconfigured CloudFront domains
 - [carnal0wnage/weirdAAL](https://github.com/carnal0wnage/weirdAAL) - WeirdAAL (AWS Attack Library)
 - [DenizParlak/Zeus](https://github.com/DenizParlak/Zeus) - AWS Auditing & Hardening Tool
@@ -249,6 +251,7 @@
 ## azure 
 
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
+- [belane/CloudHunter](https://github.com/belane/CloudHunter) - AWS, Azure and Google bucket scanner
 - [jordanpotti/CloudScraper](https://github.com/jordanpotti/CloudScraper) - CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.
 
 ## bash 
@@ -626,6 +629,10 @@
 - [1N3/Goohak](https://github.com/1N3/Goohak) - Automatically Launch Google Hacking Queries Against A Target Domain
 - [blueudp/DorkMe](https://github.com/blueudp/DorkMe) - [WORKING IN V2, WITH PROXIES, CUSTOM USER AGENT... TO MUCH BETTER!]DorkMe is a tool designed with the purpose of making easier the searching of vulnerabilities with Google Dorks, such as SQL Injection
 - [opsdisk/pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
+
+## google-cloud 
+
+- [belane/CloudHunter](https://github.com/belane/CloudHunter) - AWS, Azure and Google bucket scanner
 
 ## hackathon 
 
@@ -1130,7 +1137,7 @@
 - [zzzteph/weakpass](https://github.com/zzzteph/weakpass) - Weakpass rule-based online generator to create a wordlist based on a set of words entered by the user.
 - [ustayready/CredKing](https://github.com/ustayready/CredKing) - Password spraying using AWS Lambda for IP rotation
 - [GONZOsint/geowifi](https://github.com/GONZOsint/geowifi) - Search WiFi geolocation data by BSSID and SSID on different public databases.
-- [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engine.
+- [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engines.
 - [sm00v/Dehashed](https://github.com/sm00v/Dehashed) - This repo contains scripts to query dehashed.com and crack the returned hashes which will then save all cleartext passwords and hashes to files.
 - [iamavu/Slyther](https://github.com/iamavu/Slyther) - AWS Security Tool
 - [iamavu/personal-security-checklist](https://github.com/iamavu/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
@@ -1489,7 +1496,6 @@
 - [EranGoldman/s3Scanner](https://github.com/EranGoldman/s3Scanner) - crawl the web for s3 links and then scan those buckets for interesting files
 - [Ucnt/aws-s3-downloader](https://github.com/Ucnt/aws-s3-downloader) - Download all files and XML list in a public Amazon AWS S3 bucket.
 - [aljazceru/s3-bucket-scanner](https://github.com/aljazceru/s3-bucket-scanner) - Scanner for public s3 buckets
-- [belane/CloudHunter](https://github.com/belane/CloudHunter) - AWS, Azure and Google bucket scanner
 - [dagrz/aws_pwn](https://github.com/dagrz/aws_pwn) - A collection of AWS penetration testing junk
 - [DenizParlak/hayat](https://github.com/DenizParlak/hayat) - Hayat is a script for report and analyze Google Cloud Platform resources.
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
@@ -1616,7 +1622,7 @@
 - [alphaSeclab/awesome-burp-suite](https://github.com/alphaSeclab/awesome-burp-suite) - Awesome Burp Suite Resources. 400+ open source Burp plugins, 400+ posts and videos.
 - [Cyb0r9/ispy](https://github.com/Cyb0r9/ispy) - ispy V1.0 - Eternalblue(ms17-010)/Bluekeep(CVE-2019-0708) Scanner and exploit ( Metasploit automation )
 - [ReddyyZ/URLBrute-Py](https://github.com/ReddyyZ/URLBrute-Py) - Tool to brute website sub-domains and dirs.
-- [RedVirus0/BlackDir-Framework](https://github.com/RedVirus0/BlackDir-Framework) - Web Application Vulnerability Scanner
+- [JehadAlqurashi/BlackDir-Framework](https://github.com/JehadAlqurashi/BlackDir-Framework) - Web Application Vulnerability Scanner
 - [sf197/hashboy-tool](https://github.com/sf197/hashboy-tool) - a hash query tool
 - [alexxy/netdiscover](https://github.com/alexxy/netdiscover) - netdiscover
 - [PortSwigger/http-request-smuggler](https://github.com/PortSwigger/http-request-smuggler) - 
