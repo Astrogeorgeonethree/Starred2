@@ -227,7 +227,7 @@
 - [kitabisa/mubeng](https://github.com/kitabisa/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
 - [R4yGM/dorkscout](https://github.com/R4yGM/dorkscout) - DorkScout - Golang tool to automate google dork scan against the entiere internet or specific targets
 - [americanexpress/earlybird](https://github.com/americanexpress/earlybird) - EarlyBird is a sensitive data detection tool capable of scanning source code repositories for clear text password violations, PII, outdated cryptography methods, key files and more.
-- [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engine.
+- [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engines.
 - [haydenwoodhead/burner.kiwi](https://github.com/haydenwoodhead/burner.kiwi) - No bullshit temporary mail service written in Go
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [VirusTotal/vt-cli](https://github.com/VirusTotal/vt-cli) - VirusTotal Command Line Interface
@@ -1109,7 +1109,7 @@
 - [linkchecker/linkchecker](https://github.com/linkchecker/linkchecker) - check links in web documents or full websites
 - [Cyb0r9/ispy](https://github.com/Cyb0r9/ispy) - ispy V1.0 - Eternalblue(ms17-010)/Bluekeep(CVE-2019-0708) Scanner and exploit ( Metasploit automation )
 - [ReddyyZ/URLBrute-Py](https://github.com/ReddyyZ/URLBrute-Py) - Tool to brute website sub-domains and dirs.
-- [RedVirus0/BlackDir-Framework](https://github.com/RedVirus0/BlackDir-Framework) - Web Application Vulnerability Scanner
+- [JehadAlqurashi/BlackDir-Framework](https://github.com/JehadAlqurashi/BlackDir-Framework) - Web Application Vulnerability Scanner
 - [UndeadSec/Idisagree](https://github.com/UndeadSec/Idisagree) - Control remote computers using discord bot and python 3.
 - [sf197/hashboy-tool](https://github.com/sf197/hashboy-tool) - a hash query tool
 - [PortSwigger/google-hack](https://github.com/PortSwigger/google-hack) - Burp Suite Extension providing Google Hacking Interface
