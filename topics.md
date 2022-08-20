@@ -1110,7 +1110,7 @@
 - [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) - An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
 - [Zusyaku/Deface-And-Dorking](https://github.com/Zusyaku/Deface-And-Dorking) - Tutorial Seputar Depes Dan Web Hacking
 - [ferreiraklet/Jeeves](https://github.com/ferreiraklet/Jeeves) - Jeeves SQLI Finder
-- [JMousqueton/PoC-CVE-2022-30190](https://github.com/JMousqueton/PoC-CVE-2022-30190) - 
+- [JMousqueton/PoC-CVE-2022-30190](https://github.com/JMousqueton/PoC-CVE-2022-30190) - POC CVE-2022-30190 : CVE 0-day MS Offic RCE aka msdt follina
 - [chvancooten/follina.py](https://github.com/chvancooten/follina.py) - POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes
 - [junkurihara/dnscrypt-proxy-modns](https://github.com/junkurihara/dnscrypt-proxy-modns) - Fork of dnscrypt-proxy to implement a multiple-relay-based  DNS anonymization protocol (mu-ODNS)
 - [cloudflare/odoh-client-go](https://github.com/cloudflare/odoh-client-go) - Oblivious DoH client
