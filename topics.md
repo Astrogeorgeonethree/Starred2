@@ -375,6 +375,7 @@
 
 - [UnamSanctam/SilentXMRMiner](https://github.com/UnamSanctam/SilentXMRMiner) - A Silent (Hidden) Monero (XMR) Miner Builder
 - [Michal2SAB/Bitcoin-Stealer](https://github.com/Michal2SAB/Bitcoin-Stealer) - Generate random bitcoin wallets, private keys (seeds) and then check if they match a wallet that contains some kind of balance, and then take it. Node.js
+- [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot (PyCryptoBot)
 - [DavidMGilbert/btc-hack](https://github.com/DavidMGilbert/btc-hack) - An automated bitcoin wallet generator that brute forces random wallet addresses by checking their balance in real-time using an online API .
 - [stellar/go](https://github.com/stellar/go) - Stellar's public monorepo of go code
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
@@ -1224,7 +1225,6 @@
 - [dinosn/proxyshell](https://github.com/dinosn/proxyshell) - A basic proxylogon scanner
 - [Udyz/Automatic-Proxylogon-Exploit](https://github.com/Udyz/Automatic-Proxylogon-Exploit) - Automatic OWA Proxylogon Exploit
 - [bdunlap9/query](https://github.com/bdunlap9/query) - Python3 query through all text files in current directory for certain strings and then print the full line that string was found in
-- [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot
 - [pwn0sec/Pwnscan](https://github.com/pwn0sec/Pwnscan) - Shalfa is a simple tool that helps you with Extract URLs.
 - [s0md3v/be-a-hacker](https://github.com/s0md3v/be-a-hacker) - roadmap for being a self-taught hacker
 - [danieleperera/OnionIngestor](https://github.com/danieleperera/OnionIngestor) - An extendable tool to Collect, Crawl and Monitor onion sites on tor network and index collected information on Elasticsearch
@@ -1997,6 +1997,7 @@
 - [averagesecurityguy/scripts](https://github.com/averagesecurityguy/scripts) - Scripts I use during pentest engagements.
 - [Sunlight-Rim/FTPSearcher](https://github.com/Sunlight-Rim/FTPSearcher) - Asynchronous file scanner and downloader for FTP servers. Also takes IP ranges.
 - [0xZDH/o365spray](https://github.com/0xZDH/o365spray) - Username enumeration and password spraying tool aimed at Microsoft O365.
+- [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot (PyCryptoBot)
 - [MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
 - [KevinLage/Edu-Account-creator](https://github.com/KevinLage/Edu-Account-creator) - 
 - [mpgn/BEAST-PoC](https://github.com/mpgn/BEAST-PoC) - :muscle: Proof Of Concept of the BEAST attack against SSL/TLS CVE-2011-3389 :muscle:
@@ -2116,6 +2117,7 @@
 - [MarkoH17/Spray365](https://github.com/MarkoH17/Spray365) - Spray365 makes spraying Microsoft accounts (Office 365 / Azure AD) easy through its customizable two-step password spraying approach. The built-in execution plan features options that attempt to bypas
 - [dfirsec/blacklist_check](https://github.com/dfirsec/blacklist_check) - Simple script to download and query IP address reputation lists from various sources.
 - [0xZDH/o365spray](https://github.com/0xZDH/o365spray) - Username enumeration and password spraying tool aimed at Microsoft O365.
+- [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot (PyCryptoBot)
 - [KevinLage/Edu-Account-creator](https://github.com/KevinLage/Edu-Account-creator) - 
 - [AngelSecurityTeam/Security-Admin](https://github.com/AngelSecurityTeam/Security-Admin) - Finder Web Site Admin Login Page
 - [0xZDH/Omnispray](https://github.com/0xZDH/Omnispray) - Modular Enumeration and Password Spraying Framework
