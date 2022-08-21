@@ -776,7 +776,7 @@
 - [dinosn/proxyshell](https://github.com/dinosn/proxyshell) - A basic proxylogon scanner
 - [Udyz/Automatic-Proxylogon-Exploit](https://github.com/Udyz/Automatic-Proxylogon-Exploit) - Automatic OWA Proxylogon Exploit
 - [bdunlap9/query](https://github.com/bdunlap9/query) - Python3 query through all text files in current directory for certain strings and then print the full line that string was found in
-- [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot
+- [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot (PyCryptoBot)
 - [pwn0sec/Pwnscan](https://github.com/pwn0sec/Pwnscan) - Shalfa is a simple tool that helps you with Extract URLs.
 - [MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
 - [danieleperera/OnionIngestor](https://github.com/danieleperera/OnionIngestor) - An extendable tool to Collect, Crawl and Monitor onion sites on tor network and index collected information on Elasticsearch
