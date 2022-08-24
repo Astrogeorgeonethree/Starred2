@@ -26,6 +26,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Nim](#nim)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -496,6 +497,10 @@
 
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 
+## Nim 
+
+- [ParrotSec/anonsurf](https://github.com/ParrotSec/anonsurf) - parrot anonymous mode
+
 ## Objective-C 
 
 - [macmade/FileVaultCracker](https://github.com/macmade/FileVaultCracker) - macOS FileVault cracking tool
@@ -845,7 +850,7 @@
 - [EntySec/CamRaptor](https://github.com/EntySec/CamRaptor) - CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials.
 - [Ramalingasamy012/admin-finder](https://github.com/Ramalingasamy012/admin-finder) - This tool is used to find the admin login page of a website.
 - [lstomberg/BHNVGCBalanceChecker](https://github.com/lstomberg/BHNVGCBalanceChecker) - Check remaining balance of your Blackhawk Network Visa gift cards
-- [TebbaaX/GRecon](https://github.com/TebbaaX/GRecon) - Another version of katana but more automated and less stable. the purpose of this small tool is to run a Google based passive recon against your scope.
+- [TebbaaX/GRecon](https://github.com/TebbaaX/GRecon) - Another version of katana, more automated but less stable. the purpose of this small tool is to run a Google based passive recon against your scope.
 - [KingOfBugbounty/Bug-Bounty-Toolz](https://github.com/KingOfBugbounty/Bug-Bounty-Toolz) - BBT - Bug Bounty Tools
 - [GerbenJavado/LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files
 - [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
@@ -1538,7 +1543,7 @@
 - [diego3g/rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
 - [arunbandari/mongo-gui](https://github.com/arunbandari/mongo-gui) - A web-based MongoDB graphical user interface
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The web scraping and browser automation library that helps you build reliable crawlers. Fast.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 
