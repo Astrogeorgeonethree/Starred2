@@ -181,7 +181,7 @@
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [ajinabraham/CMSScan](https://github.com/ajinabraham/CMSScan) - CMS Scanner: Scan Wordpress, Drupal, Joomla, vBulletin websites for Security issues
 - [NullArray/NetSet](https://github.com/NullArray/NetSet) - Operational Security utility and automator.
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The web scraping and browser automation library that helps you build reliable crawlers. Fast.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [screetsec/BruteSploit](https://github.com/screetsec/BruteSploit) - BruteSploit is a collection of method for automated Generate, Bruteforce and Manipulation wordlist with interactive shell. That can be used during a penetration test to enumerate and maybe can be used
 - [NullArray/AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
 
@@ -1071,7 +1071,7 @@
 
 ## npm 
 
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The web scraping and browser automation library that helps you build reliable crawlers. Fast.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 
 ## objective-c 
 
@@ -1092,6 +1092,7 @@
 
 ## others 
 
+- [ParrotSec/anonsurf](https://github.com/ParrotSec/anonsurf) - parrot anonymous mode
 - [infosec-au/enumXFF](https://github.com/infosec-au/enumXFF) - Enumerating IPs in X-Forwarded-Headers to bypass 403 restrictions
 - [defparam/smuggler](https://github.com/defparam/smuggler) - Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
 - [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.9: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed f
@@ -2125,7 +2126,7 @@
 - [pawlaczyk/sarenka](https://github.com/pawlaczyk/sarenka) - OSINT tool - gets data from services like shodan, censys etc. in one app
 - [Aron-Tn/Amazon_Checker](https://github.com/Aron-Tn/Amazon_Checker) - Amazon Email Valid Checker V2 With Proxies By ARON-TN
 - [Ramalingasamy012/admin-finder](https://github.com/Ramalingasamy012/admin-finder) - This tool is used to find the admin login page of a website.
-- [TebbaaX/GRecon](https://github.com/TebbaaX/GRecon) - Another version of katana but more automated and less stable. the purpose of this small tool is to run a Google based passive recon against your scope.
+- [TebbaaX/GRecon](https://github.com/TebbaaX/GRecon) - Another version of katana, more automated but less stable. the purpose of this small tool is to run a Google based passive recon against your scope.
 - [CyanCoding/Brute-Force-Password-Cracker](https://github.com/CyanCoding/Brute-Force-Password-Cracker) - A brute force attacker with packages for development in Python 3, Kotlin, C#, Go, Vala, and C++.
 - [rm1984/IMAPLoginTester](https://github.com/rm1984/IMAPLoginTester) - A simple Python script that reads a text file with lots of e-mails and passwords, and tries to check if those credentials are valid by trying to login on IMAP servers.
 - [adrijano/Bitcoin-wallet-cracker](https://github.com/adrijano/Bitcoin-wallet-cracker) - Automated Bitcoin wallet generator that with mnemonic and passphrases bruteforces wallet addresses
