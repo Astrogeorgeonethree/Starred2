@@ -165,6 +165,7 @@
 
 ## automation 
 
+- [pablosnt/rekono](https://github.com/pablosnt/rekono) - Execute full pentesting processes combining multiple hacking tools automatically
 - [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
 - [kameleo-io/local-api-examples](https://github.com/kameleo-io/local-api-examples) - Useful and easy to understand examples written in Node.js and .NET Core about web scraping and automated browsing with Kameleo Client
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
@@ -181,7 +182,7 @@
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [ajinabraham/CMSScan](https://github.com/ajinabraham/CMSScan) - CMS Scanner: Scan Wordpress, Drupal, Joomla, vBulletin websites for Security issues
 - [NullArray/NetSet](https://github.com/NullArray/NetSet) - Operational Security utility and automator.
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [screetsec/BruteSploit](https://github.com/screetsec/BruteSploit) - BruteSploit is a collection of method for automated Generate, Bruteforce and Manipulation wordlist with interactive shell. That can be used during a penetration test to enumerate and maybe can be used
 - [NullArray/AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
 
@@ -295,6 +296,7 @@
 
 ## bot 
 
+- [doener2323/doenerium](https://github.com/doener2323/doenerium) - Fully undetected grabber (grabs wallets, passwords, cookies, modifies discord client etc.)
 - [samc621/SneakerBot](https://github.com/samc621/SneakerBot) - All-in-one bot, with auto captcha-solving and proxy management, using Node.js and Puppeteer.
 - [kameleo-io/local-api-examples](https://github.com/kameleo-io/local-api-examples) - Useful and easy to understand examples written in Node.js and .NET Core about web scraping and automated browsing with Kameleo Client
 - [kkoooqq/fakebrowser](https://github.com/kkoooqq/fakebrowser) - 🤖 Fake fingerprints to bypass anti-bot systems. Simulate mouse and keyboard operations to make behavior like a real person.
@@ -397,6 +399,7 @@
 
 ## cybersecurity 
 
+- [pablosnt/rekono](https://github.com/pablosnt/rekono) - Execute full pentesting processes combining multiple hacking tools automatically
 - [h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting](https://github.com/h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting) - Sniffcon has a wide list of powerful online bug bounty tools which can be used to find security vulnerabilities.
 - [whoamisec75/httpsuite](https://github.com/whoamisec75/httpsuite) - A toolkit for web reconnaissance, it's fast and easy to use.
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
@@ -456,6 +459,7 @@
 
 ## discord 
 
+- [doener2323/doenerium](https://github.com/doener2323/doenerium) - Fully undetected grabber (grabs wallets, passwords, cookies, modifies discord client etc.)
 - [UndeadSec/Idisagree](https://github.com/UndeadSec/Idisagree) - Control remote computers using discord bot and python 3.
 
 ## django 
@@ -514,6 +518,7 @@
 
 ## framework 
 
+- [rly0nheart/octosuite](https://github.com/rly0nheart/octosuite) - Advanced Github OSINT Framework
 - [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
 - [PreferredAI/venom](https://github.com/PreferredAI/venom) - Your preferred open source focused crawler for the deep web.
 - [jaxBCD/Zeebsploit](https://github.com/jaxBCD/Zeebsploit) - web scanner - exploitation - information gathering
@@ -524,6 +529,7 @@
 
 ## frameworks 
 
+- [rly0nheart/octosuite](https://github.com/rly0nheart/octosuite) - Advanced Github OSINT Framework
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 
 ## frontend 
@@ -538,6 +544,7 @@
 
 ## github 
 
+- [rly0nheart/octosuite](https://github.com/rly0nheart/octosuite) - Advanced Github OSINT Framework
 - [janeklb/gh-search](https://github.com/janeklb/gh-search) - GitHub code search with full text regex filtering, from your cli.
 - [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 - [jaebradley/github-personal-access-token-generator-cli](https://github.com/jaebradley/github-personal-access-token-generator-cli) - Create GitHub Personal Access Tokens from the Terminal
@@ -549,6 +556,7 @@
 
 ## github-api 
 
+- [rly0nheart/octosuite](https://github.com/rly0nheart/octosuite) - Advanced Github OSINT Framework
 - [janeklb/gh-search](https://github.com/janeklb/gh-search) - GitHub code search with full text regex filtering, from your cli.
 - [deepdivesec/GitMAD](https://github.com/deepdivesec/GitMAD) - Monitor, Alert, and Discover sensitive info and data leakage on Github.
 - [BishopFox/GitGot](https://github.com/BishopFox/GitGot) - Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
@@ -642,6 +650,8 @@
 
 ## hacking 
 
+- [pablosnt/rekono](https://github.com/pablosnt/rekono) - Execute full pentesting processes combining multiple hacking tools automatically
+- [doener2323/doenerium](https://github.com/doener2323/doenerium) - Fully undetected grabber (grabs wallets, passwords, cookies, modifies discord client etc.)
 - [The-Viper-One/Pentest-Everything](https://github.com/The-Viper-One/Pentest-Everything) - A collection of CTF write-ups, pentesting topics, guides and notes. Notes compiled from multiple sources and my own lab research. Topics also support OSCP, Active Directory, CRTE, eJPT and eCPPT.
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
@@ -928,6 +938,7 @@
 
 ## linux 
 
+- [rly0nheart/octosuite](https://github.com/rly0nheart/octosuite) - Advanced Github OSINT Framework
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
@@ -1071,7 +1082,7 @@
 
 ## npm 
 
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 
 ## objective-c 
 
@@ -1092,6 +1103,9 @@
 
 ## others 
 
+- [ofirgt0/captainServer](https://github.com/ofirgt0/captainServer) - 
+- [rly0nheart/thelordseye](https://github.com/rly0nheart/thelordseye) - thelordseye searches and returns detailed information about devices that are directly connected to the internet [IoT] (Smart TV's, Fridges, Webcams, Traffic Lights etc).
+- [internetwache/GitTools](https://github.com/internetwache/GitTools) - A repository with 3 tools for pwn'ing websites with .git repositories available
 - [ParrotSec/anonsurf](https://github.com/ParrotSec/anonsurf) - parrot anonymous mode
 - [infosec-au/enumXFF](https://github.com/infosec-au/enumXFF) - Enumerating IPs in X-Forwarded-Headers to bypass 403 restrictions
 - [defparam/smuggler](https://github.com/defparam/smuggler) - Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
@@ -1984,6 +1998,7 @@
 
 ## python 
 
+- [rly0nheart/octosuite](https://github.com/rly0nheart/octosuite) - Advanced Github OSINT Framework
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [sdushantha/dora](https://github.com/sdushantha/dora) - Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -2429,6 +2444,7 @@
 
 ## web 
 
+- [pablosnt/rekono](https://github.com/pablosnt/rekono) - Execute full pentesting processes combining multiple hacking tools automatically
 - [hhhrrrttt222111/Dorkify](https://github.com/hhhrrrttt222111/Dorkify) - Perform Google Dork search with Dorkify
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 - [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
