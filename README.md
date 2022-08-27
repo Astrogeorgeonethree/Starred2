@@ -35,6 +35,7 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Raku](#raku)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -1317,7 +1318,6 @@
 - [malwaredllc/bamf](https://github.com/malwaredllc/bamf) - A tool which utilizes Shodan to detect vulnerable IoT devices.
 - [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 - [calebmadrigal/trackerjacker](https://github.com/calebmadrigal/trackerjacker) - Like nmap for mapping wifi networks you're not connected to, plus device tracking
-- [waseem-sajjad/WifiGod](https://github.com/waseem-sajjad/WifiGod) - 
 - [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
 - [SigPloiter/HLR-Lookups](https://github.com/SigPloiter/HLR-Lookups) - Locating Roaming location of a number, and collecting msisdn and opeartor related infromation (IMSI, HLR GT, MSC GT)
 - [0xbharath/censys-enumeration](https://github.com/0xbharath/censys-enumeration) - A script to extract subdomains/emails for a given domain using SSL/TLS certificate dataset on Censys
@@ -1384,6 +1384,10 @@
 ## Raku 
 
 - [OWASP/joomscan](https://github.com/OWASP/joomscan) - OWASP Joomla Vulnerability Scanner Project
+
+## Roff 
+
+- [hacxx-underground/Files](https://github.com/hacxx-underground/Files) - Directory for Hacxx Underground files
 
 ## Ruby 
 
@@ -1549,7 +1553,7 @@
 - [diego3g/rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
 - [arunbandari/mongo-gui](https://github.com/arunbandari/mongo-gui) - A web-based MongoDB graphical user interface
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 
