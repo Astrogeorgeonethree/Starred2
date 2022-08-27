@@ -182,7 +182,7 @@
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [ajinabraham/CMSScan](https://github.com/ajinabraham/CMSScan) - CMS Scanner: Scan Wordpress, Drupal, Joomla, vBulletin websites for Security issues
 - [NullArray/NetSet](https://github.com/NullArray/NetSet) - Operational Security utility and automator.
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [screetsec/BruteSploit](https://github.com/screetsec/BruteSploit) - BruteSploit is a collection of method for automated Generate, Bruteforce and Manipulation wordlist with interactive shell. That can be used during a penetration test to enumerate and maybe can be used
 - [NullArray/AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
 
@@ -1082,7 +1082,7 @@
 
 ## npm 
 
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 
 ## objective-c 
 
@@ -1103,6 +1103,7 @@
 
 ## others 
 
+- [hacxx-underground/Files](https://github.com/hacxx-underground/Files) - Directory for Hacxx Underground files
 - [ofirgt0/captainServer](https://github.com/ofirgt0/captainServer) - 
 - [rly0nheart/thelordseye](https://github.com/rly0nheart/thelordseye) - thelordseye searches and returns detailed information about devices that are directly connected to the internet [IoT] (Smart TV's, Fridges, Webcams, Traffic Lights etc).
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) - A repository with 3 tools for pwn'ing websites with .git repositories available
@@ -1899,7 +1900,6 @@
 - [malwaredllc/bamf](https://github.com/malwaredllc/bamf) - A tool which utilizes Shodan to detect vulnerable IoT devices.
 - [s0lst1c3/eaphammer](https://github.com/s0lst1c3/eaphammer) - Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.
 - [tresacton/dspectrumgui](https://github.com/tresacton/dspectrumgui) - The goal of this app is to make it trivial to demodulate most basic RF transmission, and provide a digital worksheet for your reverse engineering efforts.
-- [waseem-sajjad/WifiGod](https://github.com/waseem-sajjad/WifiGod) - 
 - [SigPloiter/HLR-Lookups](https://github.com/SigPloiter/HLR-Lookups) - Locating Roaming location of a number, and collecting msisdn and opeartor related infromation (IMSI, HLR GT, MSC GT)
 - [0xbharath/censys-enumeration](https://github.com/0xbharath/censys-enumeration) - A script to extract subdomains/emails for a given domain using SSL/TLS certificate dataset on Censys
 - [savio-code/fern-wifi-cracker](https://github.com/savio-code/fern-wifi-cracker) - Automatically exported from code.google.com/p/fern-wifi-cracker
