@@ -55,7 +55,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, fewer antivirus detections and user-friendliness.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [amirDEV/JohnTechFreeRDP](https://github.com/amirDEV/JohnTechFreeRDP) - 
 - [NirajShr3stha/coffinRDP](https://github.com/NirajShr3stha/coffinRDP) - You can get unlimited rdp for free.
 - [ZephrFish/WindowsHardeningScript](https://github.com/ZephrFish/WindowsHardeningScript) - Some settings stolen from multiple scripts @ZephrFish
