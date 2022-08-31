@@ -189,6 +189,7 @@
 
 ## awesome 
 
+- [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet
 - [chenjj/Awesome-HTTPRequestSmuggling](https://github.com/chenjj/Awesome-HTTPRequestSmuggling) - A curated list of awesome blogs and tools about HTTP request smuggling attacks.   Feel free to contribute!  🍻
 - [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -212,6 +213,7 @@
 
 ## awesome-list 
 
+- [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet
 - [chenjj/Awesome-HTTPRequestSmuggling](https://github.com/chenjj/Awesome-HTTPRequestSmuggling) - A curated list of awesome blogs and tools about HTTP request smuggling attacks.   Feel free to contribute!  🍻
 - [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
 - [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
@@ -400,6 +402,7 @@
 
 ## cybersecurity 
 
+- [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
 - [pablosnt/rekono](https://github.com/pablosnt/rekono) - Execute full pentesting processes combining multiple hacking tools automatically
 - [h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting](https://github.com/h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting) - Sniffcon has a wide list of powerful online bug bounty tools which can be used to find security vulnerabilities.
 - [whoamisec75/httpsuite](https://github.com/whoamisec75/httpsuite) - A toolkit for web reconnaissance, it's fast and easy to use.
@@ -428,6 +431,7 @@
 
 ## data 
 
+- [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
 - [JoelGMSec/FakeDataGen](https://github.com/JoelGMSec/FakeDataGen) - Full Valid Fake Data Generator
 - [AlisamTechnology/ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced dork Search & Mass Exploit Scanner
 - [htrgouvea/harpoon](https://github.com/htrgouvea/harpoon) - [W.I.P] An ecosystem of crawlers for detecting: leaks, sensitive data exposure and attempts exfiltration of data
@@ -786,6 +790,7 @@
 
 ## hacktoberfest 
 
+- [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -2003,6 +2008,7 @@
 
 ## python 
 
+- [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
 - [rly0nheart/octosuite](https://github.com/rly0nheart/octosuite) - Advanced Github OSINT Framework
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [sdushantha/dora](https://github.com/sdushantha/dora) - Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
@@ -2352,6 +2358,7 @@
 
 ## server 
 
+- [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [whatwebgui/WhatWebGUI](https://github.com/whatwebgui/WhatWebGUI) - WhatWebGUI is a cross-platform compatible Java-based application for Windows 10, Mac OSX and Linux which implements the front end of the popular web scanning tool WhatWeb, the next generation web scan
 - [AlisamTechnology/ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced dork Search & Mass Exploit Scanner
 
