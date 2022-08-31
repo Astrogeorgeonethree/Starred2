@@ -512,6 +512,7 @@
 
 ## Others 
 
+- [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet
 - [chenjj/Awesome-HTTPRequestSmuggling](https://github.com/chenjj/Awesome-HTTPRequestSmuggling) - A curated list of awesome blogs and tools about HTTP request smuggling attacks.   Feel free to contribute!  🍻
 - [The-Viper-One/Pentest-Everything](https://github.com/The-Viper-One/Pentest-Everything) - A collection of CTF write-ups, pentesting topics, guides and notes. Notes compiled from multiple sources and my own lab research. Topics also support OSCP, Active Directory, CRTE, eJPT and eCPPT.
 - [forb1d3n/Trixie](https://github.com/forb1d3n/Trixie) - Here i'll post new tricks concerning scamming, carding etc. Stay tuned
@@ -693,6 +694,8 @@
 
 ## Python 
 
+- [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+- [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
 - [rly0nheart/thelordseye](https://github.com/rly0nheart/thelordseye) - thelordseye searches and returns detailed information about devices that are directly connected to the internet [IoT] (Smart TV's, Fridges, Webcams, Traffic Lights etc).
 - [rly0nheart/octosuite](https://github.com/rly0nheart/octosuite) - Advanced Github OSINT Framework
 - [pablosnt/rekono](https://github.com/pablosnt/rekono) - Execute full pentesting processes combining multiple hacking tools automatically
