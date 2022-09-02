@@ -35,7 +35,6 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Raku](#raku)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -694,6 +693,7 @@
 
 ## Python 
 
+- [d1vious/git-wild-hunt](https://github.com/d1vious/git-wild-hunt) - A tool to hunt for credentials in github wild AKA git*hunt
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
 - [rly0nheart/thelordseye](https://github.com/rly0nheart/thelordseye) - thelordseye searches and returns detailed information about devices that are directly connected to the internet [IoT] (Smart TV's, Fridges, Webcams, Traffic Lights etc).
@@ -1387,10 +1387,6 @@
 ## Raku 
 
 - [OWASP/joomscan](https://github.com/OWASP/joomscan) - OWASP Joomla Vulnerability Scanner Project
-
-## Roff 
-
-- [hacxx-underground/Files](https://github.com/hacxx-underground/Files) - Directory for Hacxx Underground files
 
 ## Ruby 
 
