@@ -1113,7 +1113,7 @@
 
 ## others 
 
-- [hacxx-underground/Files](https://github.com/hacxx-underground/Files) - Directory for Hacxx Underground files
+- [d1vious/git-wild-hunt](https://github.com/d1vious/git-wild-hunt) - A tool to hunt for credentials in github wild AKA git*hunt
 - [ofirgt0/captainServer](https://github.com/ofirgt0/captainServer) - 
 - [rly0nheart/thelordseye](https://github.com/rly0nheart/thelordseye) - thelordseye searches and returns detailed information about devices that are directly connected to the internet [IoT] (Smart TV's, Fridges, Webcams, Traffic Lights etc).
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) - A repository with 3 tools for pwn'ing websites with .git repositories available
