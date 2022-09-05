@@ -299,6 +299,7 @@
 
 ## bot 
 
+- [c99tn/vMass](https://github.com/c99tn/vMass) - vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl.
 - [doener2323/doenerium](https://github.com/doener2323/doenerium) - Fully undetected grabber (grabs wallets, passwords, cookies, modifies discord client etc.)
 - [samc621/SneakerBot](https://github.com/samc621/SneakerBot) - All-in-one bot, with auto captcha-solving and proxy management, using Node.js and Puppeteer.
 - [kameleo-io/local-api-examples](https://github.com/kameleo-io/local-api-examples) - Useful and easy to understand examples written in Node.js and .NET Core about web scraping and automated browsing with Kameleo Client
@@ -1142,7 +1143,7 @@
 - [cloudflare/odoh-client-go](https://github.com/cloudflare/odoh-client-go) - Oblivious DoH client
 - [vulmon/Vulmap](https://github.com/vulmon/Vulmap) - Vulmap Online Local Vulnerability Scanners Project
 - [hakluke/weaponised-XSS-payloads](https://github.com/hakluke/weaponised-XSS-payloads) - XSS payloads designed to turn alert(1) into P1
-- [thevillagehacker/Bug-Hunting](https://github.com/thevillagehacker/Bug-Hunting) - The Repository contains various payloads, tools, tips and tricks from various hackers around the world. Please take a quick look down here 👇👇
+- [thevillagehacker/Bug-Hunting-Arsenal](https://github.com/thevillagehacker/Bug-Hunting-Arsenal) - The Repository contains various payloads, tools, tips and tricks from various hackers around the world. Please take a quick look down here 👇👇
 - [s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff
 - [kitabisa/mubeng](https://github.com/kitabisa/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
 - [bustd86/bing-dork-scanner](https://github.com/bustd86/bing-dork-scanner) - Bing Dork Scanner and simple sqli-injection checker
@@ -1981,6 +1982,7 @@
 
 ## perl 
 
+- [c99tn/vMass](https://github.com/c99tn/vMass) - vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl.
 - [htrgouvea/nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway
 - [hacktoolspack/hack-tools](https://github.com/hacktoolspack/hack-tools) - hack tools
 - [Aron-Tn/Mega-Bot](https://github.com/Aron-Tn/Mega-Bot) - [NEW] : Mega Bot ☣ Scanner & Auto Exploiter
@@ -2509,6 +2511,7 @@
 
 ## wordpress 
 
+- [c99tn/vMass](https://github.com/c99tn/vMass) - vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl.
 - [random-robbie/InfiniteWP-exploit](https://github.com/random-robbie/InfiniteWP-exploit) - InfiniteWP Client &lt; 1.9.4.5 - Authentication Bypass
 - [r0oth3x49/wp-gravity-form-exploit](https://github.com/r0oth3x49/wp-gravity-form-exploit) - WordPress Gravity Forms Plugin 1.8.19 - Arbitrary File Upload
 - [tristanlatr/WPWatcher](https://github.com/tristanlatr/WPWatcher) - Wordpress Watcher is a wrapper for WPScan that manages scans on multiple sites and reports by email and/or syslog. Schedule scans and get notified when vulnerabilities, outdated plugins and other risk
