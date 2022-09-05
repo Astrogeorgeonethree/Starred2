@@ -669,6 +669,7 @@
 
 ## Perl 
 
+- [c99tn/vMass](https://github.com/c99tn/vMass) - vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl.
 - [htrgouvea/nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway
 - [Zusyaku/Deface-And-Dorking](https://github.com/Zusyaku/Deface-And-Dorking) - Tutorial Seputar Depes Dan Web Hacking
 - [Aron-Tn/Mega-Bot](https://github.com/Aron-Tn/Mega-Bot) - [NEW] : Mega Bot ☣ Scanner & Auto Exploiter
@@ -1431,7 +1432,7 @@
 
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) - A repository with 3 tools for pwn'ing websites with .git repositories available
 - [ckam/proxy_checker](https://github.com/ckam/proxy_checker) - simple proxy checker on bash
-- [thevillagehacker/Bug-Hunting](https://github.com/thevillagehacker/Bug-Hunting) - The Repository contains various payloads, tools, tips and tricks from various hackers around the world. Please take a quick look down here 👇👇
+- [thevillagehacker/Bug-Hunting-Arsenal](https://github.com/thevillagehacker/Bug-Hunting-Arsenal) - The Repository contains various payloads, tools, tips and tricks from various hackers around the world. Please take a quick look down here 👇👇
 - [indiancybertroops/DorKey](https://github.com/indiancybertroops/DorKey) - Dorkey is Dork generator For Sql Injection It includes Php Aspx And other extension Its Simple Fast And Lightweight Sqli Dork Generator
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [machevalia/pwndb.sh](https://github.com/machevalia/pwndb.sh) - Script to utilize the v2 pwndb onion site to find leaked passwords.
