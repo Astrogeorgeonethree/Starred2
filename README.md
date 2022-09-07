@@ -519,7 +519,7 @@
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [h33tlit/HowToHunt](https://github.com/h33tlit/HowToHunt) - Tutorials and Things to Do while Hunting Vulnerability.
 - [h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting](https://github.com/h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting) - Sniffcon has a wide list of powerful online bug bounty tools which can be used to find security vulnerabilities.
-- [h3110w0r1d-y/BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen) - Burp Suite Pro Loader & Keygen ( All version supported )
+- [h3110w0r1d-y/BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen) - Burp Suite Pro Loader & Keygen
 - [daffainfo/all-about-apikey](https://github.com/daffainfo/all-about-apikey) - Detailed information about API key / OAuth token (Description, Request, Response, Regex, Example)
 - [CorrieOnly/google-dorks](https://github.com/CorrieOnly/google-dorks) - 
 - [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
