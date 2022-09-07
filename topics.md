@@ -1132,7 +1132,7 @@
 - [ckam/proxy_checker](https://github.com/ckam/proxy_checker) - simple proxy checker on bash
 - [ail-project/ail-framework](https://github.com/ail-project/ail-framework) - AIL framework - Analysis Information Leak framework
 - [ail-project/ail-yara-rules](https://github.com/ail-project/ail-yara-rules) - A set of YARA rules for the AIL framework to detect leak or information disclosure
-- [h3110w0r1d-y/BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen) - Burp Suite Pro Loader & Keygen ( All version supported )
+- [h3110w0r1d-y/BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen) - Burp Suite Pro Loader & Keygen
 - [1N3/IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 - [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) - An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
 - [Zusyaku/Deface-And-Dorking](https://github.com/Zusyaku/Deface-And-Dorking) - Tutorial Seputar Depes Dan Web Hacking
