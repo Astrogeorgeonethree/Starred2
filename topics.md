@@ -372,6 +372,7 @@
 
 ## cpp 
 
+- [UnamSanctam/SilentCryptoMiner](https://github.com/UnamSanctam/SilentCryptoMiner) - A Silent (Hidden) Free Crypto Miner Builder - Supports ETH, ETC, XMR and many more.
 - [0x09AL/RdpThief](https://github.com/0x09AL/RdpThief) - Extracting Clear Text Passwords from mstsc.exe using API Hooking.
 - [CyanCoding/Brute-Force-Password-Cracker](https://github.com/CyanCoding/Brute-Force-Password-Cracker) - A brute force attacker with packages for development in Python 3, Kotlin, C#, Go, Vala, and C++.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
