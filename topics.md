@@ -1115,6 +1115,8 @@
 
 ## others 
 
+- [jas502n/CVE-2019-19781](https://github.com/jas502n/CVE-2019-19781) - Citrix ADC Remote Code Execution
+- [projectzeroindia/CVE-2019-11510](https://github.com/projectzeroindia/CVE-2019-11510) - Exploit for Arbitrary File Read on Pulse Secure SSL VPN (CVE-2019-11510)
 - [d1vious/git-wild-hunt](https://github.com/d1vious/git-wild-hunt) - A tool to hunt for credentials in github wild AKA git*hunt
 - [ofirgt0/captainServer](https://github.com/ofirgt0/captainServer) - 
 - [rly0nheart/thelordseye](https://github.com/rly0nheart/thelordseye) - thelordseye searches and returns detailed information about devices that are directly connected to the internet [IoT] (Smart TV's, Fridges, Webcams, Traffic Lights etc).
@@ -2091,7 +2093,7 @@
 - [vfosterm/NordVPN-NetworkManager-Gui](https://github.com/vfosterm/NordVPN-NetworkManager-Gui) - A NordVPN GUI client for linux using the native Network Manager
 - [morpheusthewhite/nordpy](https://github.com/morpheusthewhite/nordpy) - A gui application to connect automatically to the recommended NordVPN server
 - [blueudp/Deep-Explorer](https://github.com/blueudp/Deep-Explorer) - Deep Explorer is a ( 1 day developed ) tool made in python which purpose is the search of hidden services in tor network, using Ahmia Browser and crawling the links obtained
-- [TebbaaX/Katana](https://github.com/TebbaaX/Katana) - Python Tool that gives you the ability to run Advanced Google Queries (Known as Google Dorks - Google Dorking)
+- [TebbaaX/Katana](https://github.com/TebbaaX/Katana) - Python Tool that gives you the ability to run Advanced Google Queries (Known as Google Dorks - Google Dorking) - (No longer maintained)
 - [varchashva/LetsMapYourNetwork](https://github.com/varchashva/LetsMapYourNetwork) - Lets Map Your Network enables you to visualise your physical network in form of graph with zero manual error
 - [Nekmo/dirhunt](https://github.com/Nekmo/dirhunt) - Find web directories without bruteforce
 - [sameera-madushan/InstaSave](https://github.com/sameera-madushan/InstaSave) - Python script to download images, videos & profile pictures from Instagram.
