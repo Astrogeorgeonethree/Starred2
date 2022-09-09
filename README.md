@@ -694,6 +694,7 @@
 
 ## Python 
 
+- [jas502n/CVE-2019-19781](https://github.com/jas502n/CVE-2019-19781) - Citrix ADC Remote Code Execution
 - [d1vious/git-wild-hunt](https://github.com/d1vious/git-wild-hunt) - A tool to hunt for credentials in github wild AKA git*hunt
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
@@ -1215,7 +1216,7 @@
 - [c0rv4x/project-black](https://github.com/c0rv4x/project-black) - Pentest/BugBounty progress control with scanning modules
 - [Starwarsfan2099/Python-Hash-Cracker](https://github.com/Starwarsfan2099/Python-Hash-Cracker) - Python Hash Cracker.
 - [tegal1337/NekoBotV1](https://github.com/tegal1337/NekoBotV1) - NekoBot | Auto Exploiter With 500+ Exploit 2000+ Shell
-- [TebbaaX/Katana](https://github.com/TebbaaX/Katana) - Python Tool that gives you the ability to run Advanced Google Queries (Known as Google Dorks - Google Dorking)
+- [TebbaaX/Katana](https://github.com/TebbaaX/Katana) - Python Tool that gives you the ability to run Advanced Google Queries (Known as Google Dorks - Google Dorking) - (No longer maintained)
 - [hexway/r00kie-kr00kie](https://github.com/hexway/r00kie-kr00kie) - PoC exploit for the CVE-2019-15126 kr00k vulnerability
 - [nxnjz/unhashit](https://github.com/nxnjz/unhashit) - Simple Script to query hash databases APIs
 - [tatanus/SPF](https://github.com/tatanus/SPF) - SpeedPhishing Framework
@@ -1430,6 +1431,7 @@
 
 ## Shell 
 
+- [projectzeroindia/CVE-2019-11510](https://github.com/projectzeroindia/CVE-2019-11510) - Exploit for Arbitrary File Read on Pulse Secure SSL VPN (CVE-2019-11510)
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) - A repository with 3 tools for pwn'ing websites with .git repositories available
 - [ckam/proxy_checker](https://github.com/ckam/proxy_checker) - simple proxy checker on bash
 - [thevillagehacker/Bug-Hunting-Arsenal](https://github.com/thevillagehacker/Bug-Hunting-Arsenal) - The Repository contains various payloads, tools, tips and tricks from various hackers around the world. Please take a quick look down here 👇👇
