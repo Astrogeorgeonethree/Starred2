@@ -407,7 +407,6 @@
 - [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
 - [pablosnt/rekono](https://github.com/pablosnt/rekono) - Execute full pentesting processes combining multiple hacking tools automatically
 - [h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting](https://github.com/h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting) - Sniffcon has a wide list of powerful online bug bounty tools which can be used to find security vulnerabilities.
-- [whoamisec75/httpsuite](https://github.com/whoamisec75/httpsuite) - A toolkit for web reconnaissance, it's fast and easy to use.
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools) - The all-in-one Red Team extension for Web Pentester 🛠
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
@@ -669,7 +668,6 @@
 - [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
 - [capture0x/XSS-LOADER](https://github.com/capture0x/XSS-LOADER) - Xss Payload Generator ~ Xss Scanner ~ Xss Dork Finder
 - [indiancybertroops/DorKey](https://github.com/indiancybertroops/DorKey) - Dorkey is Dork generator For Sql Injection It includes Php Aspx And other extension Its Simple Fast And Lightweight Sqli Dork Generator
-- [whoamisec75/httpsuite](https://github.com/whoamisec75/httpsuite) - A toolkit for web reconnaissance, it's fast and easy to use.
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [hacktoolspack/hack-tools](https://github.com/hacktoolspack/hack-tools) - hack tools
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
@@ -1115,6 +1113,8 @@
 
 ## others 
 
+- [Ginsberg5150/Discord-and-Telegram-OSINT-references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references) - 
+- [mpgn/CVE-2019-19781](https://github.com/mpgn/CVE-2019-19781) - CVE-2019-19781 - Remote Code Execution on Citrix ADC Netscaler exploit
 - [jas502n/CVE-2019-19781](https://github.com/jas502n/CVE-2019-19781) - Citrix ADC Remote Code Execution
 - [projectzeroindia/CVE-2019-11510](https://github.com/projectzeroindia/CVE-2019-11510) - Exploit for Arbitrary File Read on Pulse Secure SSL VPN (CVE-2019-11510)
 - [d1vious/git-wild-hunt](https://github.com/d1vious/git-wild-hunt) - A tool to hunt for credentials in github wild AKA git*hunt
@@ -1155,7 +1155,6 @@
 - [E4rr0r4/XGDork-2](https://github.com/E4rr0r4/XGDork-2) - SQLi Google Dork Scanner (new version)
 - [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
-- [whoamisec75/ipdigger](https://github.com/whoamisec75/ipdigger) - Takes a file of hosts or domains and outputs the IP address of each host/domain in the file.
 - [jnrbsn/user-agents](https://github.com/jnrbsn/user-agents) - Latest user agent strings for major browsers and OSs; checks for updates daily
 - [fullhunt/spring4shell-scan](https://github.com/fullhunt/spring4shell-scan) - A fully automated, reliable, and accurate scanner for finding Spring4Shell and Spring Cloud RCE vulnerabilities
 - [gwen001/pentest-tools](https://github.com/gwen001/pentest-tools) - Custom pentesting tools
