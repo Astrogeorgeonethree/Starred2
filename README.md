@@ -511,6 +511,7 @@
 
 ## Others 
 
+- [Ginsberg5150/Discord-and-Telegram-OSINT-references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references) - 
 - [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet
 - [chenjj/Awesome-HTTPRequestSmuggling](https://github.com/chenjj/Awesome-HTTPRequestSmuggling) - A curated list of awesome blogs and tools about HTTP request smuggling attacks.   Feel free to contribute!  🍻
 - [The-Viper-One/Pentest-Everything](https://github.com/The-Viper-One/Pentest-Everything) - A collection of CTF write-ups, pentesting topics, guides and notes. Notes compiled from multiple sources and my own lab research. Topics also support OSCP, Active Directory, CRTE, eJPT and eCPPT.
@@ -694,6 +695,7 @@
 
 ## Python 
 
+- [mpgn/CVE-2019-19781](https://github.com/mpgn/CVE-2019-19781) - CVE-2019-19781 - Remote Code Execution on Citrix ADC Netscaler exploit
 - [jas502n/CVE-2019-19781](https://github.com/jas502n/CVE-2019-19781) - Citrix ADC Remote Code Execution
 - [d1vious/git-wild-hunt](https://github.com/d1vious/git-wild-hunt) - A tool to hunt for credentials in github wild AKA git*hunt
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
@@ -719,8 +721,6 @@
 - [hamid0740/Combo-List-Fixer](https://github.com/hamid0740/Combo-List-Fixer) - Simple python code to fix your combo list by removing any text after a separator or removing duplicate combos
 - [JakeWnuk/SickNerd](https://github.com/JakeWnuk/SickNerd) - CLI tool for Google Dorking with the ability to fetch and filter dorks from GHDB, save and load results, and search multiple domains.
 - [E4rr0r4/XGDork-2](https://github.com/E4rr0r4/XGDork-2) - SQLi Google Dork Scanner (new version)
-- [whoamisec75/ipdigger](https://github.com/whoamisec75/ipdigger) - Takes a file of hosts or domains and outputs the IP address of each host/domain in the file.
-- [whoamisec75/httpsuite](https://github.com/whoamisec75/httpsuite) - A toolkit for web reconnaissance, it's fast and easy to use.
 - [jnrbsn/user-agents](https://github.com/jnrbsn/user-agents) - Latest user agent strings for major browsers and OSs; checks for updates daily
 - [fullhunt/spring4shell-scan](https://github.com/fullhunt/spring4shell-scan) - A fully automated, reliable, and accurate scanner for finding Spring4Shell and Spring Cloud RCE vulnerabilities
 - [gwen001/pentest-tools](https://github.com/gwen001/pentest-tools) - Custom pentesting tools
