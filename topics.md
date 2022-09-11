@@ -1113,6 +1113,7 @@
 
 ## others 
 
+- [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [Ginsberg5150/Discord-and-Telegram-OSINT-references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references) - 
 - [mpgn/CVE-2019-19781](https://github.com/mpgn/CVE-2019-19781) - CVE-2019-19781 - Remote Code Execution on Citrix ADC Netscaler exploit
 - [jas502n/CVE-2019-19781](https://github.com/jas502n/CVE-2019-19781) - Citrix ADC Remote Code Execution
