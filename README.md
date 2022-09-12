@@ -696,6 +696,9 @@
 
 ## Python 
 
+- [Neo23x0/munin](https://github.com/Neo23x0/munin) - Online hash checker for Virustotal and other services
+- [fr0gger/vthunting](https://github.com/fr0gger/vthunting) - Vthunting is a tiny script used to generate report about Virus Total hunting and send it by email, slack or telegram.
+- [VirusTotal/vt-py](https://github.com/VirusTotal/vt-py) - The official Python 3 client library for VirusTotal
 - [mpgn/CVE-2019-19781](https://github.com/mpgn/CVE-2019-19781) - CVE-2019-19781 - Remote Code Execution on Citrix ADC Netscaler exploit
 - [jas502n/CVE-2019-19781](https://github.com/jas502n/CVE-2019-19781) - Citrix ADC Remote Code Execution
 - [d1vious/git-wild-hunt](https://github.com/d1vious/git-wild-hunt) - A tool to hunt for credentials in github wild AKA git*hunt
