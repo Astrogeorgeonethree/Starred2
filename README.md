@@ -69,6 +69,7 @@
 
 ## C 
 
+- [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [arthepsy/CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034) - PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)
 - [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
@@ -696,6 +697,7 @@
 
 ## Python 
 
+- [svo80/vti_search](https://github.com/svo80/vti_search) - VirusTotal Intelligence Search
 - [Neo23x0/munin](https://github.com/Neo23x0/munin) - Online hash checker for Virustotal and other services
 - [fr0gger/vthunting](https://github.com/fr0gger/vthunting) - Vthunting is a tiny script used to generate report about Virus Total hunting and send it by email, slack or telegram.
 - [VirusTotal/vt-py](https://github.com/VirusTotal/vt-py) - The official Python 3 client library for VirusTotal
@@ -1578,6 +1580,7 @@
 
 ## Visual Basic .NET 
 
+- [Are-s-h/GovCracker](https://github.com/Are-s-h/GovCracker) - GovCracker is the best Wrapper and GUI for Hashcat, John the Ripper, PRINCE, Maskprocessor, Wordlister, CUPP, etc.
 - [X-SLAYER/Website-Cloner](https://github.com/X-SLAYER/Website-Cloner) - It allows you to download a website from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
 - [UnamSanctam/SilentXMRMiner](https://github.com/UnamSanctam/SilentXMRMiner) - A Silent (Hidden) Monero (XMR) Miner Builder
 
