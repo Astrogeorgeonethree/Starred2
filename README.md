@@ -88,7 +88,6 @@
 - [Ranginang67/SQLVuln](https://github.com/Ranginang67/SQLVuln) - Simple tool to scanning sql injection vulnerability, easy to use!!
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
 - [csete/gpredict](https://github.com/csete/gpredict) - Gpredict satellite tracking application
-- [kapilratnani/JSON-Viewer](https://github.com/kapilratnani/JSON-Viewer) - A JSON viewer plugin for Notepad++. Displays the selected JSON string in a tree view.
 - [sieukrem/jn-npp-plugin](https://github.com/sieukrem/jn-npp-plugin) - Plugin for Notepad++ allowing you to automate some tasks using JavaScript
 - [dail8859/ElasticTabstops](https://github.com/dail8859/ElasticTabstops) - Elastic Tabstops plugin for Notepad++
 - [superolmo/BigFiles](https://github.com/superolmo/BigFiles) - Notepad++ Plugin for reading large files
@@ -165,6 +164,7 @@
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager) - Notepad++ Plugin Manager
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
+- [kapilratnani/JSON-Viewer](https://github.com/kapilratnani/JSON-Viewer) - A JSON viewer plugin for Notepad++. Displays the selected JSON string in a tree view.
 - [oviradoi/npp-explorer-plugin](https://github.com/oviradoi/npp-explorer-plugin) - Modified version of the Explorer plugin for Notepad++ that matches its colors with the current theme
 - [Predelnik/DSpellCheck](https://github.com/Predelnik/DSpellCheck) - Notepad++ Spell-checking Plug-in
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
@@ -519,7 +519,7 @@
 - [The-Viper-One/Pentest-Everything](https://github.com/The-Viper-One/Pentest-Everything) - A collection of CTF write-ups, pentesting topics, guides and notes. Notes compiled from multiple sources and my own lab research. Topics also support OSCP, Active Directory, CRTE, eJPT and eCPPT.
 - [forb1d3n/Trixie](https://github.com/forb1d3n/Trixie) - Here i'll post new tricks concerning scamming, carding etc. Stay tuned
 - [SecOps-Institute/Tor-IP-Addresses](https://github.com/SecOps-Institute/Tor-IP-Addresses) - Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
-- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [h33tlit/HowToHunt](https://github.com/h33tlit/HowToHunt) - Tutorials and Things to Do while Hunting Vulnerability.
 - [h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting](https://github.com/h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting) - Sniffcon has a wide list of powerful online bug bounty tools which can be used to find security vulnerabilities.
 - [h3110w0r1d-y/BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen) - Burp Suite Pro Loader & Keygen
