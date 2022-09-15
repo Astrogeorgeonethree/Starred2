@@ -707,7 +707,7 @@
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
 - [rly0nheart/thelordseye](https://github.com/rly0nheart/thelordseye) - thelordseye searches and returns detailed information about devices that are directly connected to the internet [IoT] (Smart TV's, Fridges, Webcams, Traffic Lights etc).
-- [rly0nheart/octosuite](https://github.com/rly0nheart/octosuite) - Advanced Github OSINT Framework
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
 - [pablosnt/rekono](https://github.com/pablosnt/rekono) - Execute full pentesting processes combining multiple hacking tools automatically
 - [infosec-au/enumXFF](https://github.com/infosec-au/enumXFF) - Enumerating IPs in X-Forwarded-Headers to bypass 403 restrictions
 - [defparam/smuggler](https://github.com/defparam/smuggler) - Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
