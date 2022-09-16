@@ -89,6 +89,7 @@
 - [open-source](#open-source)
 - [opencv](#opencv)
 - [opengl](#opengl)
+- [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
@@ -343,7 +344,6 @@
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools) - The all-in-one Red Team extension for Web Pentester 🛠
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans
-- [Sainan/Universal-Bypass](https://github.com/Sainan/Universal-Bypass) - Don't waste your time with compliance. Universal Bypass circumvents annoying link shorteners.
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 
@@ -470,6 +470,7 @@
 
 ## discord 
 
+- [Ginsberg5150/Discord-and-Telegram-OSINT-references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references) - Small repo for Telegram and Discord OSINT and research
 - [doener2323/doenerium](https://github.com/doener2323/doenerium) - Fully undetected grabber (grabs wallets, passwords, cookies, modifies discord client etc.)
 - [UndeadSec/Idisagree](https://github.com/UndeadSec/Idisagree) - Control remote computers using discord bot and python 3.
 
@@ -1111,6 +1112,113 @@
 
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 
+## osint 
+
+- [Ginsberg5150/Discord-and-Telegram-OSINT-references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references) - Small repo for Telegram and Discord OSINT and research
+- [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [JakeWnuk/SickNerd](https://github.com/JakeWnuk/SickNerd) - CLI tool for Google Dorking with the ability to fetch and filter dorks from GHDB, save and load results, and search multiple domains.
+- [R4yGM/dorkscout](https://github.com/R4yGM/dorkscout) - DorkScout - Golang tool to automate google dork scan against the entiere internet or specific targets
+- [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
+- [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
+- [hhhrrrttt222111/Dorkify](https://github.com/hhhrrrttt222111/Dorkify) - Perform Google Dork search with Dorkify
+- [GONZOsint/geowifi](https://github.com/GONZOsint/geowifi) - Search WiFi geolocation data by BSSID and SSID on different public databases.
+- [rly0nheart/oxdork](https://github.com/rly0nheart/oxdork) - Google dorking tool
+- [rly0nheart/thedevilseye](https://github.com/rly0nheart/thedevilseye) - The Devils Eye is an OSINT tool that extracts onion links and descriptions that match with the users query from the Darkweb, without requiring the use for Tor.
+- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
+- [Josue87/EmailFinder](https://github.com/Josue87/EmailFinder) - Search emails from a domain through search engines
+- [MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
+- [redhuntlabs/BurpSuite-Asset_Discover](https://github.com/redhuntlabs/BurpSuite-Asset_Discover) - Burp Suite extension to discover assets from HTTP response.
+- [matamorphosis/Scrummage](https://github.com/matamorphosis/Scrummage) - The Ultimate OSINT and Threat Hunting Framework
+- [ShivamRai2003/Reconky-Automated_Bash_Script](https://github.com/ShivamRai2003/Reconky-Automated_Bash_Script) - Reconky is an great Content Discovery bash script for bug bounty hunters which automate lot of task and organized in the well mannered form  which help them to look forward.
+- [kevgk/OD-Search](https://github.com/kevgk/OD-Search) - Web-Extension that builds search queries to find files on the internet.
+- [pawlaczyk/sarenka](https://github.com/pawlaczyk/sarenka) - OSINT tool - gets data from services like shodan, censys etc. in one app
+- [hueristiq/hqurlfind3r](https://github.com/hueristiq/hqurlfind3r) - A passive reconnaissance tool for known URLs discovery - it gathers a list of URLs passively using various online sources.
+- [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+- [Viralmaniar/BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon) - BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+- [A3h1nt/Grawler](https://github.com/A3h1nt/Grawler) - Grawler is a tool written in PHP which comes with a web interface that automates the task of using google dorks, scrapes the results, and stores them in a file.
+- [lapolis/ScavengingTheScavenger](https://github.com/lapolis/ScavengingTheScavenger) - Lazy way to gather dumped credentials.
+- [rndinfosecguy/pastePasswordLists](https://github.com/rndinfosecguy/pastePasswordLists) - Top password lists generated from leaks collected from different paste sites
+- [itsmehacker/DarkScrape](https://github.com/itsmehacker/DarkScrape) - OSINT Tool For Scraping Dark Websites
+- [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining parameters from dark corners of Web Archives
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
+- [thewhiteh4t/pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) - OSINT Tool for Finding Passwords of Compromised Email Addresses
+- [powerexploit/Ashok](https://github.com/powerexploit/Ashok) - Ashok is a OSINT Recon Tool , a.k.a :heart_eyes:  Swiss Army knife .
+- [AllPentesting/AllIntelligence](https://github.com/AllPentesting/AllIntelligence) - Proyecto Hackathon Cybercamp 2019 - AllIntelligence nos permitirá tener una visión general de posibles vectores de ataque de una organización.
+- [redhuntlabs/Awesome-Asset-Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) - List of Awesome Asset Discovery Resources
+- [citcheese/ODBParser](https://github.com/citcheese/ODBParser) - OSINT tool to search, parse and dump only the open Elasticsearch and MongoDB directories that have the data you care about exposing
+- [opsdisk/metagoofil](https://github.com/opsdisk/metagoofil) - Search Google and download specific file types
+- [equalitie/shodan_fingerprinter](https://github.com/equalitie/shodan_fingerprinter) - Script fingerprinting systems based on shodan.io data
+- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
+- [NullArray/DorkNet](https://github.com/NullArray/DorkNet) - Selenium powered Python script to automate searching for vulnerable web apps.
+- [OWASP/Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
+- [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
+- [InQuest/omnibus](https://github.com/InQuest/omnibus) - The OSINT Omnibus (beta release)
+- [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor) - Extract and aggregate threat intelligence.
+- [christophetd/censys-subdomain-finder](https://github.com/christophetd/censys-subdomain-finder) - ⚡ Perform subdomain enumeration using the certificate transparency logs from Censys.
+- [s0md3v/Orbit](https://github.com/s0md3v/Orbit) - Blockchain Transactions Investigation Tool
+- [nerrorsec/nDorker](https://github.com/nerrorsec/nDorker) - Automate dorking while doing bug bounty or other stuffs.
+- [MandConsultingGroup/Scylla](https://github.com/MandConsultingGroup/Scylla) - The Simplistic Information Gathering Engine | Find Advanced Information on a Username, Website, Phone Number, etc.
+- [evilsocket/xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
+- [0x0FB0/pulsar](https://github.com/0x0FB0/pulsar) - Network footprint scanner platform. Discover domains and run your custom checks periodically.
+- [P3GLEG/PwnBack](https://github.com/P3GLEG/PwnBack) - Burp Extender plugin that generates a sitemap of a website using Wayback Machine
+- [deepdivesec/GitMAD](https://github.com/deepdivesec/GitMAD) - Monitor, Alert, and Discover sensitive info and data leakage on Github.
+- [blueudp/Deep-Explorer](https://github.com/blueudp/Deep-Explorer) - Deep Explorer is a ( 1 day developed ) tool made in python which purpose is the search of hidden services in tor network, using Ahmia Browser and crawling the links obtained
+- [iojw/socialscan](https://github.com/iojw/socialscan) - Python library and CLI for accurately querying username and email usage on online platforms
+- [m3n0sd0n4ld/uDork](https://github.com/m3n0sd0n4ld/uDork) - uDork is a script written in Bash Scripting that uses advanced Google search techniques to obtain sensitive information in files or directories, find IoT devices, detect versions of web applications, 
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+- [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager
+- [Nhoya/gOSINT](https://github.com/Nhoya/gOSINT) - OSINT Swiss Army Knife
+- [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+- [1N3/BlackWidow](https://github.com/1N3/BlackWidow) - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.
+- [1N3/Goohak](https://github.com/1N3/Goohak) - Automatically Launch Google Hacking Queries Against A Target Domain
+- [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [abhisharma404/vault](https://github.com/abhisharma404/vault) - swiss army knife for hackers
+- [sc1341/InstagramOSINT](https://github.com/sc1341/InstagramOSINT) - An Instagram Open Source Intelligence Tool
+- [BishopFox/GitGot](https://github.com/BishopFox/GitGot) - Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
+- [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
+- [shogunlab/Gitformant](https://github.com/shogunlab/Gitformant) - OSINT tool for discovering confidential data leaked on Github.
+- [averagesecurityguy/scrape](https://github.com/averagesecurityguy/scrape) - Extensible paste site scraper written in Golang.
+- [sham00n/waybulk](https://github.com/sham00n/waybulk) - Search a list of domains on the wayback machine
+- [Viralmaniar/I-See-You](https://github.com/Viralmaniar/I-See-You) - ISeeYou is a Bash and Javascript tool to find the exact location of the users during social engineering or phishing engagements. Using exact location coordinates an attacker can perform preliminary re
+- [tillson/git-hound](https://github.com/tillson/git-hound) - Reconnaissance tool for GitHub code search. Finds exposed API keys using pattern matching, commit history searching, and a unique result scoring system.
+- [saeeddhqan/Maryam](https://github.com/saeeddhqan/Maryam) - Maryam: Open-source Intelligence(OSINT) Framework
+- [blueudp/DorkMe](https://github.com/blueudp/DorkMe) - [WORKING IN V2, WITH PROXIES, CUSTOM USER AGENT... TO MUCH BETTER!]DorkMe is a tool designed with the purpose of making easier the searching of vulnerabilities with Google Dorks, such as SQL Injection
+- [hisxo/gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
+- [m4ll0k/Infoga](https://github.com/m4ll0k/Infoga) - Infoga - Email OSINT
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
+- [needmorecowbell/sniff-paste](https://github.com/needmorecowbell/sniff-paste) - Pastebin OSINT Harvester
+- [notdodo/pastego](https://github.com/notdodo/pastego) - Scrape/Parse Pastebin using GO and expression grammar (PEG)
+- [sham00n/buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
+- [j3ssie/metabigor](https://github.com/j3ssie/metabigor) - Intelligence tool but without API key
+- [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
+- [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
+- [martinvigo/email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
+- [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
+- [superhedgy/AttackSurfaceMapper](https://github.com/superhedgy/AttackSurfaceMapper) - AttackSurfaceMapper is a tool that aims to automate the reconnaissance process.
+- [itsmehacker/CardPwn](https://github.com/itsmehacker/CardPwn) - OSINT Tool to find Breached Credit Cards Information
+- [Ekultek/WhatBreach](https://github.com/Ekultek/WhatBreach) - OSINT tool to find breached emails, databases, pastes, and relevant information
+- [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
+- [Acceis/leakScraper](https://github.com/Acceis/leakScraper) - LeakScraper is an efficient set of tools to process and visualize huge text files containing credentials. Theses tools are designed to help penetration testers and redteamers doing OSINT by gathering 
+- [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
+- [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
+- [initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
+- [graniet/operative-framework](https://github.com/graniet/operative-framework) - operative framework is a investigation OSINT framework, you can interact with multiple targets, execute multiple modules, create links with target, export rapport to PDF file, add note to target or re
+- [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
+- [khast3x/Offensive-Dockerfiles](https://github.com/khast3x/Offensive-Dockerfiles) - Offensive tools as Dockerfiles. Lightweight & Ready to go
+- [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
+- [rndinfosecguy/Scavenger](https://github.com/rndinfosecguy/Scavenger) - Crawler (Bot) searching for credential leaks on paste sites.
+- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
+- [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [opsdisk/pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
+- [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux.
+- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
+
 ## others 
 
 - [Are-s-h/GovCracker](https://github.com/Are-s-h/GovCracker) - GovCracker is the best Wrapper and GUI for Hashcat, John the Ripper, PRINCE, Maskprocessor, Wordlister, CUPP, etc.
@@ -1119,7 +1227,6 @@
 - [fr0gger/vthunting](https://github.com/fr0gger/vthunting) - Vthunting is a tiny script used to generate report about Virus Total hunting and send it by email, slack or telegram.
 - [VirusTotal/vt-py](https://github.com/VirusTotal/vt-py) - The official Python 3 client library for VirusTotal
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
-- [Ginsberg5150/Discord-and-Telegram-OSINT-references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references) - 
 - [mpgn/CVE-2019-19781](https://github.com/mpgn/CVE-2019-19781) - CVE-2019-19781 - Remote Code Execution on Citrix ADC Netscaler exploit
 - [jas502n/CVE-2019-19781](https://github.com/jas502n/CVE-2019-19781) - Citrix ADC Remote Code Execution
 - [projectzeroindia/CVE-2019-11510](https://github.com/projectzeroindia/CVE-2019-11510) - Exploit for Arbitrary File Read on Pulse Secure SSL VPN (CVE-2019-11510)
@@ -1156,7 +1263,6 @@
 - [s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff
 - [kitabisa/mubeng](https://github.com/kitabisa/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
 - [bustd86/bing-dork-scanner](https://github.com/bustd86/bing-dork-scanner) - Bing Dork Scanner and simple sqli-injection checker
-- [JakeWnuk/SickNerd](https://github.com/JakeWnuk/SickNerd) - CLI tool for Google Dorking with the ability to fetch and filter dorks from GHDB, save and load results, and search multiple domains.
 - [CorrieOnly/google-dorks](https://github.com/CorrieOnly/google-dorks) - 
 - [E4rr0r4/XGDork-2](https://github.com/E4rr0r4/XGDork-2) - SQLi Google Dork Scanner (new version)
 - [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
@@ -1172,7 +1278,6 @@
 - [ehudbaumatz/scrapers](https://github.com/ehudbaumatz/scrapers) - scraping non-scrapy sites (e.g. search engines, wayback machine etc)
 - [zzzteph/weakpass](https://github.com/zzzteph/weakpass) - Weakpass rule-based online generator to create a wordlist based on a set of words entered by the user.
 - [ustayready/CredKing](https://github.com/ustayready/CredKing) - Password spraying using AWS Lambda for IP rotation
-- [GONZOsint/geowifi](https://github.com/GONZOsint/geowifi) - Search WiFi geolocation data by BSSID and SSID on different public databases.
 - [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engines.
 - [sm00v/Dehashed](https://github.com/sm00v/Dehashed) - This repo contains scripts to query dehashed.com and crack the returned hashes which will then save all cleartext passwords and hashes to files.
 - [iamavu/Slyther](https://github.com/iamavu/Slyther) - AWS Security Tool
@@ -1212,7 +1317,6 @@
 - [dragonfruitnetwork/onionfruit](https://github.com/dragonfruitnetwork/onionfruit) - OnionFruit™ Connect - Tor access client with country selection, bridge configuration, pluggable transports and experimental DNS support
 - [shacojx/CVE-2021-26855-exploit-Exchange](https://github.com/shacojx/CVE-2021-26855-exploit-Exchange) - 
 - [RickGeex/ProxyLogon](https://github.com/RickGeex/ProxyLogon) - ProxyLogon is the formally generic name for CVE-2021-26855, a vulnerability on Microsoft Exchange Server that allows an attacker bypassing the authentication and impersonating as the admin. We have al
-- [rly0nheart/thedevilseye](https://github.com/rly0nheart/thedevilseye) - The Devils Eye is an OSINT tool that extracts onion links and descriptions that match with the users query from the Darkweb, without requiring the use for Tor.
 - [ktecv2000/ProxyShell](https://github.com/ktecv2000/ProxyShell) - ProxyShell POC Exploit : Exchange Server RCE (ACL Bypass + EoP + Arbitrary File Write)
 - [Jumbo-WJB/Exchange_SSRF](https://github.com/Jumbo-WJB/Exchange_SSRF) - Some Attacks of Exchange SSRF ProxyLogon&ProxyShell
 - [RhinoSecurityLabs/Security-Research](https://github.com/RhinoSecurityLabs/Security-Research) - Exploits written by the Rhino Security Labs team
@@ -1252,7 +1356,6 @@
 - [chompie1337/SMBGhost_RCE_PoC](https://github.com/chompie1337/SMBGhost_RCE_PoC) - 
 - [helich0pper/Karkinos](https://github.com/helich0pper/Karkinos) - Penetration Testing and Hacking CTF's Swiss Army Knife with: Reverse Shell Handling - Encoding/Decoding - Encryption/Decryption - Cracking Hashes / Hashing
 - [BonJarber/SecUtils](https://github.com/BonJarber/SecUtils) - Random utilities from my security projects that might be useful to others
-- [Josue87/EmailFinder](https://github.com/Josue87/EmailFinder) - Search emails from a domain through search engines
 - [c6fc/warcannon](https://github.com/c6fc/warcannon) - High speed/Low cost CommonCrawl RegExp in Node.js
 - [dievus/Oh365UserFinder](https://github.com/dievus/Oh365UserFinder) - Python3 o365 User Enumeration Tool
 - [insidetrust/statistically-likely-usernames](https://github.com/insidetrust/statistically-likely-usernames) - Wordlists for creating statistically likely username lists for use in password attacks and security testing
@@ -1272,7 +1375,6 @@
 - [extremedevalt/Mail-Access-Checker](https://github.com/extremedevalt/Mail-Access-Checker) - Mail Access Checker by ExtremeDev | Python 3x | https proxies
 - [guptaofficial17/Mailify](https://github.com/guptaofficial17/Mailify) - The Best Mail-Access Checker/Penetesting Tool Ever Made!
 - [extremedevalt/BingOX](https://github.com/extremedevalt/BingOX) - Bing Parser.
-- [redhuntlabs/BurpSuite-Asset_Discover](https://github.com/redhuntlabs/BurpSuite-Asset_Discover) - Burp Suite extension to discover assets from HTTP response.
 - [dafthack/PowerMeta](https://github.com/dafthack/PowerMeta) - PowerMeta searches for publicly available files hosted on various websites for a particular domain by using specially crafted Google, and Bing searches. It then allows for the download of those files 
 - [yeswehack/PwnFox](https://github.com/yeswehack/PwnFox) - PwnFox is a Firefox/Burp extension that provide usefull tools for your security audit.
 - [ustayready/fireprox](https://github.com/ustayready/fireprox) - AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
@@ -1310,7 +1412,6 @@
 - [vektort13/AntiOS](https://github.com/vektort13/AntiOS) - Pyhton scripts that can change your Windows fingerprints and ID
 - [Jian-Wuyou/twitter-image-scraper](https://github.com/Jian-Wuyou/twitter-image-scraper) - 
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - This script lets you check whether a specific phone number is connected to a Telegram account.
-- [matamorphosis/Scrummage](https://github.com/matamorphosis/Scrummage) - The Ultimate OSINT and Threat Hunting Framework
 - [grahamhelton/dehashQuery](https://github.com/grahamhelton/dehashQuery) - A script used to query the dehashed API and filter for more useful results
 - [random-robbie/bruteforce-lists](https://github.com/random-robbie/bruteforce-lists) - Some files for bruteforcing certain things.
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
@@ -1481,7 +1582,6 @@
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [foytak/Archive](https://github.com/foytak/Archive) - 
 - [syrex1013/RainbowSQL](https://github.com/syrex1013/RainbowSQL) - RainbowSQL is very fast dork&SQL injection scanner.
-- [rndinfosecguy/pastePasswordLists](https://github.com/rndinfosecguy/pastePasswordLists) - Top password lists generated from leaks collected from different paste sites
 - [sunny9577/proxy-scraper](https://github.com/sunny9577/proxy-scraper) - ⭐️ A proxy scraper made using Protractor | Proxy list Updates every three hour 🔥
 - [TeamMsgExtractor/msg-extractor](https://github.com/TeamMsgExtractor/msg-extractor) - Extracts emails and attachments saved in Microsoft Outlook's .msg files
 - [opsdisk/cloud_metadata_extractor](https://github.com/opsdisk/cloud_metadata_extractor) - Cloud metadata extraction tools and scripts
@@ -1506,7 +1606,6 @@
 - [stamparm/DSSS](https://github.com/stamparm/DSSS) - Damn Small SQLi Scanner
 - [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
 - [delvelabs/batea](https://github.com/delvelabs/batea) - AI-based, context-driven network device ranking
-- [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining parameters from dark corners of Web Archives
 - [mindedsecurity/behave](https://github.com/mindedsecurity/behave) - Behave! A monitoring browser extension for pages acting as "bad boi"
 - [obheda12/GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
 - [0xb0y/Magento-Grabber](https://github.com/0xb0y/Magento-Grabber) - Auto exploiter + Dumper, steal information on victim site, and auto create mailer on victim
@@ -1593,7 +1692,6 @@
 - [digininja/CloudStorageFinder](https://github.com/digininja/CloudStorageFinder) - A collection of tools to find data that has been made public in cloud storage systems such as S3 Buckets and Digital Ocean Spaces
 - [0xDanielLopez/pwn_check](https://github.com/0xDanielLopez/pwn_check) - Checks if the given emails have been pwned.
 - [Techno-Hwizrdry/checkpwnedemails](https://github.com/Techno-Hwizrdry/checkpwnedemails) - A command line tool to check if a single (or multiple) email addresses have been compromised.
-- [equalitie/shodan_fingerprinter](https://github.com/equalitie/shodan_fingerprinter) - Script fingerprinting systems based on shodan.io data
 - [tenable/poc](https://github.com/tenable/poc) - Proof of Concepts
 - [n0x08/ShodanTools](https://github.com/n0x08/ShodanTools) - Collection of scripts & fingerprinting tricks for Shodan.io
 - [n0x08/AllYourCloud](https://github.com/n0x08/AllYourCloud) - Data collection scripts for All Your Cloud Are Belong To Us conference talk
@@ -1617,7 +1715,6 @@
 - [mazen160/bfac](https://github.com/mazen160/bfac) - BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.
 - [dmgbuild/ds_store](https://github.com/dmgbuild/ds_store) - 
 - [avineshwar/slurp](https://github.com/avineshwar/slurp) - S3 bucket enumerator
-- [NullArray/DorkNet](https://github.com/NullArray/DorkNet) - Selenium powered Python script to automate searching for vulnerable web apps.
 - [CPH-SEC/CPH-SEC.github.io](https://github.com/CPH-SEC/CPH-SEC.github.io) - CPH:SEC - Copenhagen Ethical Hacking and Penetration Testing Society
 - [Ekultek/Zeus-Scanner](https://github.com/Ekultek/Zeus-Scanner) - Advanced reconnaissance utility
 - [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) - The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread f
@@ -1647,9 +1744,7 @@
 - [random-robbie/My-Shodan-Scripts](https://github.com/random-robbie/My-Shodan-Scripts) - Collection of Scripts for shodan searching stuff.
 - [RUB-NDS/PRET](https://github.com/RUB-NDS/PRET) - Printer Exploitation Toolkit - The tool that made dumpster diving obsolete.
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
-- [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor) - Extract and aggregate threat intelligence.
 - [summitt/Burp-Non-HTTP-Extension](https://github.com/summitt/Burp-Non-HTTP-Extension) - Non-HTTP Protocol Extension (NoPE) Proxy and DNS for Burp Suite.
-- [christophetd/censys-subdomain-finder](https://github.com/christophetd/censys-subdomain-finder) - ⚡ Perform subdomain enumeration using the certificate transparency logs from Censys.
 - [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition.
 - [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
 - [dionach/CMSmap](https://github.com/dionach/CMSmap) - CMSmap is a python open source CMS scanner that automates the process of detecting security flaws of the most popular CMSs.
@@ -1754,7 +1849,6 @@
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) - Small utilities that are useful in advanced password cracking
 - [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [dvopsway/datasploit](https://github.com/dvopsway/datasploit) - A tool to perform various OSINT techniques, aggregate all the raw data, visualise it on a dashboard, and facilitate alerting and monitoring on the data.
-- [P3GLEG/PwnBack](https://github.com/P3GLEG/PwnBack) - Burp Extender plugin that generates a sitemap of a website using Wayback Machine
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [kolonist/bscoords](https://github.com/kolonist/bscoords) - Get location based on (MCC, MNC, LAC, CellID) using Google, Yandex, OpenCellID and Mozilla Location Service
 - [kolonist/wifi_location](https://github.com/kolonist/wifi_location) - Get location based on WI-Fi access point BSSID using Mylnikov Geo and Wigle.net
@@ -1784,7 +1878,6 @@
 - [zerobyte-id/SEcraper](https://github.com/zerobyte-id/SEcraper) - Search engine scraper tool with BASH script.
 - [Starwarsfan2099/Python-Hash-Cracker](https://github.com/Starwarsfan2099/Python-Hash-Cracker) - Python Hash Cracker.
 - [tegal1337/NekoBotV1](https://github.com/tegal1337/NekoBotV1) - NekoBot | Auto Exploiter With 500+ Exploit 2000+ Shell
-- [m3n0sd0n4ld/uDork](https://github.com/m3n0sd0n4ld/uDork) - uDork is a script written in Bash Scripting that uses advanced Google search techniques to obtain sensitive information in files or directories, find IoT devices, detect versions of web applications, 
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 - [aryanrtm/KawaiiDeauther](https://github.com/aryanrtm/KawaiiDeauther) - Jam all wifi clients/routers.
 - [dmayer/idb](https://github.com/dmayer/idb) - idb is a tool to simplify some common tasks for iOS pentesting and research
@@ -1831,7 +1924,6 @@
 - [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
 - [arthastang/Router-Exploit-Shovel](https://github.com/arthastang/Router-Exploit-Shovel) - Automated Application Generation for Stack Overflow Types on Wireless Routers
 - [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
-- [sc1341/InstagramOSINT](https://github.com/sc1341/InstagramOSINT) - An Instagram Open Source Intelligence Tool
 - [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 - [BishopFox/zigdiggity](https://github.com/BishopFox/zigdiggity) - A ZigBee hacking toolkit by Bishop Fox
 - [BishopFox/dufflebag](https://github.com/BishopFox/dufflebag) - Search exposed EBS volumes for secrets
@@ -1845,7 +1937,6 @@
 - [jcesarstef/ghhdb-Github-Hacking-Database](https://github.com/jcesarstef/ghhdb-Github-Hacking-Database) - Github Hacking Database - My personal collection of Github Dorks to search for Confidential Information (Yes, it's a Github version of Google Dorks)
 - [secworld/theHarvester](https://github.com/secworld/theHarvester) - E-mail, subdomain and people names harvester
 - [secworld/Breach-Miner](https://github.com/secworld/Breach-Miner) - A tool to harvest credentials from leaked data dump
-- [shogunlab/Gitformant](https://github.com/shogunlab/Gitformant) - OSINT tool for discovering confidential data leaked on Github.
 - [beamzer/pastebin-monitor-and-alert](https://github.com/beamzer/pastebin-monitor-and-alert) - A pastebin monitor using the scraping API with pushover alerts
 - [DataSploit/datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc.,  aggregate all the raw data, and give data in multiple formats.
 - [pry0cc/pdf-get](https://github.com/pry0cc/pdf-get) - A badass grabbing tool for getting PDF's of books.
@@ -1856,7 +1947,6 @@
 - [Cignoraptor-ita/cignotrack](https://github.com/Cignoraptor-ita/cignotrack) - OSINT tool for testing privacy and social engineering vulnerability of organizations.
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [davidtavarez/pinky](https://github.com/davidtavarez/pinky) - pinky - The PHP mini RAT (Remote Administration Tool)
-- [Viralmaniar/I-See-You](https://github.com/Viralmaniar/I-See-You) - ISeeYou is a Bash and Javascript tool to find the exact location of the users during social engineering or phishing engagements. Using exact location coordinates an attacker can perform preliminary re
 - [pownjs/proxy](https://github.com/pownjs/proxy) - Pown Proxy is a versatile web application security testing proxy with cool TUI features.
 - [Mi-Al/WiFi-autopwner](https://github.com/Mi-Al/WiFi-autopwner) - WiFi-autopwner: script to automate searching and auditing Wi-Fi networks with weak security
 - [tenable/routeros](https://github.com/tenable/routeros) - RouterOS Security Research Tooling and Proof of Concepts
@@ -1866,7 +1956,6 @@
 - [PBDataRecon/PBDataRecon](https://github.com/PBDataRecon/PBDataRecon) - Pastebin Analysis and Storage Tool
 - [Securityautomation/DumpTheGit](https://github.com/Securityautomation/DumpTheGit) - DumpTheGit searches through public repositories to find sensitive information uploaded to the Github repositories.
 - [joaopsys/NowCrawling](https://github.com/joaopsys/NowCrawling) - A web crawler that will help you find files and lots of interesting information.
-- [saeeddhqan/Maryam](https://github.com/saeeddhqan/Maryam) - Maryam: Open-source Intelligence(OSINT) Framework
 - [staz0t/hashcatch](https://github.com/staz0t/hashcatch) - Capture handshakes of nearby WiFi networks automatically
 - [SafeNetIS/Ahadu](https://github.com/SafeNetIS/Ahadu) - Generate a password list for brute force attacks based on list of words provided
 - [NaveenRudra/RTTM](https://github.com/NaveenRudra/RTTM) - Real Time Threat Monitoring Tool
@@ -1875,7 +1964,6 @@
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [guelfoweb/knock](https://github.com/guelfoweb/knock) - Knock Subdomain Scan
 - [nahamsec/lazyrecon](https://github.com/nahamsec/lazyrecon) - This script is intended to automate your reconnaissance process in an organized fashion
-- [hisxo/gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
 - [vivami/SauronEye](https://github.com/vivami/SauronEye) - Search tool to find specific files containing specific words, i.e. files containing passwords..
 - [Cyb0r9/SocialBox](https://github.com/Cyb0r9/SocialBox) - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
@@ -1907,10 +1995,8 @@
 - [Mebus/cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng) - Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.
-- [m4ll0k/Infoga](https://github.com/m4ll0k/Infoga) - Infoga - Email OSINT
 - [KALILINUXTRICKSYT/easysploit](https://github.com/KALILINUXTRICKSYT/easysploit) - EasySploit - Metasploit automation (EASIER and FASTER than EVER)
 - [s0md3v/Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
-- [needmorecowbell/sniff-paste](https://github.com/needmorecowbell/sniff-paste) - Pastebin OSINT Harvester
 - [bcapptain/dockernymous](https://github.com/bcapptain/dockernymous) - A script used to create a whonix like gateway/workstation environment with docker containers.
 - [KeepWannabe/Remot3d](https://github.com/KeepWannabe/Remot3d) - Remot3d: is a simple tool created for large pentesters as well as just for the pleasure of defacers to control server by backdoors
 - [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
@@ -1935,20 +2021,16 @@
 - [fkasler/dolos_cloak](https://github.com/fkasler/dolos_cloak) - Automated 802.1x Bypass
 - [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
 - [Und3rf10w/kali-anonsurf](https://github.com/Und3rf10w/kali-anonsurf) - A port of ParrotSec's stealth and anonsurf modules to Kali Linux
-- [Ekultek/WhatBreach](https://github.com/Ekultek/WhatBreach) - OSINT tool to find breached emails, databases, pastes, and relevant information
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [trustedsec/hate_crack](https://github.com/trustedsec/hate_crack) - A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
 - [shinnok/netcatgui](https://github.com/shinnok/netcatgui) - NetcatGUI is a simple GUI program that is set to emulate the popular network "swiss army knife" tool netcat (nc) using an easy to use graphical user interface and cross platform availability.
 - [pritunl/pritunl-client-electron](https://github.com/pritunl/pritunl-client-electron) - Pritunl OpenVPN client
 - [Viralmaniar/SMWYG-Show-Me-What-You-Got](https://github.com/Viralmaniar/SMWYG-Show-Me-What-You-Got) - This tool allows you to perform OSINT and reconnaissance on an organisation or an individual. It allows one to search 1.4 Billion clear text credentials which was dumped as part of BreachCompilation l
 - [romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint) - This tool was created during our research at Checkpoint Software Technologies on Whatsapp Protocol (This repository will be updated after BlackHat 2019)
-- [initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
 - [davidtavarez/pwndb](https://github.com/davidtavarez/pwndb) - Search for leaked credentials
 - [woj-ciech/LeakLooker](https://github.com/woj-ciech/LeakLooker) - Find open databases - Powered by Binaryedge.io
 - [n1nj4sec/LaZagne](https://github.com/n1nj4sec/LaZagne) - Credentials recovery project
 - [magnumripper/net-creds](https://github.com/magnumripper/net-creds) - Sniffs sensitive data from interface or pcap
-- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
-- [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A Software that automates your social media interactions to collect posts, photos, videos, interests, friends, followers, and much more on Facebook.
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [Cartmanishere/zippyshare-scraper](https://github.com/Cartmanishere/zippyshare-scraper) - A module to get direct downloadable links from zippyshare download page.
@@ -1963,7 +2045,6 @@
 - [10se1ucgo/DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) - Uses some known methods that attempt to minimize tracking in Windows 10
 - [Smaash/snitch](https://github.com/Smaash/snitch) - information gathering via dorks
 - [AeonDave/doork](https://github.com/AeonDave/doork) - Passive Vulnerability Auditor
-- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [freakdesign/shopifyFD](https://github.com/freakdesign/shopifyFD) - JavaScript layer to provide additional functionality and fixes to the Shopify dashboard
 - [josephpd3/ClinicalTrialsDownloader](https://github.com/josephpd3/ClinicalTrialsDownloader) - Download Clinical Trials from clinicaltrials.gov and save as .pkl files.
 - [realpython/python-scripts](https://github.com/realpython/python-scripts) - because i'm tired of gists
@@ -2408,6 +2489,7 @@
 
 ## telegram 
 
+- [Ginsberg5150/Discord-and-Telegram-OSINT-references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references) - Small repo for Telegram and Discord OSINT and research
 - [AngelSecurityTeam/CC_Scrapper](https://github.com/AngelSecurityTeam/CC_Scrapper) - Telegram CC  Scrapper - Debit/Credit Card [channel public or private / group ]
 - [th3unkn0n/TeleGram-Scraper](https://github.com/th3unkn0n/TeleGram-Scraper) - telegram group scraper tool. fetch all information about group members
 - [vitaminarts/Telegram-scraper-api](https://github.com/vitaminarts/Telegram-scraper-api) - An easy-to-use PHP api for Getting contents of Telegram's public channels and groups Messages without needing to join them.
