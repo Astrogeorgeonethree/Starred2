@@ -467,7 +467,6 @@
 - [ETCExtensions/Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies
 - [varchashva/LetsMapYourNetwork](https://github.com/varchashva/LetsMapYourNetwork) - Lets Map Your Network enables you to visualise your physical network in form of graph with zero manual error
 - [simonepri/upash](https://github.com/simonepri/upash) - 🔒Unified API for password hashing algorithms
-- [Sainan/Universal-Bypass](https://github.com/Sainan/Universal-Bypass) - Don't waste your time with compliance. Universal Bypass circumvents annoying link shorteners.
 - [brannondorsey/ProbeKit](https://github.com/brannondorsey/ProbeKit) - SSID Probe Request Collection Workshop
 - [samyk/poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
 - [pownjs/proxy](https://github.com/pownjs/proxy) - Pown Proxy is a versatile web application security testing proxy with cool TUI features.
@@ -513,7 +512,7 @@
 ## Others 
 
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
-- [Ginsberg5150/Discord-and-Telegram-OSINT-references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references) - 
+- [Ginsberg5150/Discord-and-Telegram-OSINT-references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references) - Small repo for Telegram and Discord OSINT and research
 - [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet
 - [chenjj/Awesome-HTTPRequestSmuggling](https://github.com/chenjj/Awesome-HTTPRequestSmuggling) - A curated list of awesome blogs and tools about HTTP request smuggling attacks.   Feel free to contribute!  🍻
 - [The-Viper-One/Pentest-Everything](https://github.com/The-Viper-One/Pentest-Everything) - A collection of CTF write-ups, pentesting topics, guides and notes. Notes compiled from multiple sources and my own lab research. Topics also support OSCP, Active Directory, CRTE, eJPT and eCPPT.
