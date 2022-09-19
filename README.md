@@ -220,6 +220,7 @@
 
 ## Go 
 
+- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. It is designed to maintain result reliability with an increased number of threads.
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
 - [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
@@ -373,6 +374,7 @@
 
 ## JavaScript 
 
+- [0140454/hackbar](https://github.com/0140454/hackbar) - A browser extension for Penetration Testing
 - [ofirgt0/captainServer](https://github.com/ofirgt0/captainServer) - 
 - [doener2323/doenerium](https://github.com/doener2323/doenerium) - Fully undetected grabber (grabs wallets, passwords, cookies, modifies discord client etc.)
 - [h33tlit/Jbin-website-secret-scraper](https://github.com/h33tlit/Jbin-website-secret-scraper) - Jbin will gather all the URLs from the website and then it will try to expose the secret data from them such as API keys, API secrets, API tokens and many other juicy information.
@@ -698,6 +700,7 @@
 
 ## Python 
 
+- [chrispetrou/FastAudit](https://github.com/chrispetrou/FastAudit) - :shipit: A wordpress security auditor! Audit your wordpress application for security issues with even 1 request.
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [svo80/vti_search](https://github.com/svo80/vti_search) - VirusTotal Intelligence Search
 - [Neo23x0/munin](https://github.com/Neo23x0/munin) - Online hash checker for Virustotal and other services
@@ -715,7 +718,7 @@
 - [defparam/smuggler](https://github.com/defparam/smuggler) - Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
 - [anshumanpattnaik/http-request-smuggling](https://github.com/anshumanpattnaik/http-request-smuggling) - HTTP Request Smuggling Detection Tool
 - [janeklb/gh-search](https://github.com/janeklb/gh-search) - GitHub code search with full text regex filtering, from your cli.
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [sdushantha/dora](https://github.com/sdushantha/dora) - Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
 - [nicolas-carolo/hsploit](https://github.com/nicolas-carolo/hsploit) - An advanced command-line search engine for Exploit-DB
 - [ruped24/toriptables3](https://github.com/ruped24/toriptables3) - Tor Iptables script is an anonymizer that sets up iptables and tor to route all services and traffic including DNS through the Tor network.
@@ -1439,6 +1442,7 @@
 
 ## Shell 
 
+- [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced
 - [projectzeroindia/CVE-2019-11510](https://github.com/projectzeroindia/CVE-2019-11510) - Exploit for Arbitrary File Read on Pulse Secure SSL VPN (CVE-2019-11510)
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) - A repository with 3 tools for pwn'ing websites with .git repositories available
 - [ckam/proxy_checker](https://github.com/ckam/proxy_checker) - simple proxy checker on bash
