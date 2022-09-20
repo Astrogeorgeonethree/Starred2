@@ -163,7 +163,7 @@
 - [0x09AL/RdpThief](https://github.com/0x09AL/RdpThief) - Extracting Clear Text Passwords from mstsc.exe using API Hooking.
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager) - Notepad++ Plugin Manager
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X (and other things, too)
 - [kapilratnani/JSON-Viewer](https://github.com/kapilratnani/JSON-Viewer) - A JSON viewer plugin for Notepad++. Displays the selected JSON string in a tree view.
 - [oviradoi/npp-explorer-plugin](https://github.com/oviradoi/npp-explorer-plugin) - Modified version of the Explorer plugin for Notepad++ that matches its colors with the current theme
 - [Predelnik/DSpellCheck](https://github.com/Predelnik/DSpellCheck) - Notepad++ Spell-checking Plug-in
