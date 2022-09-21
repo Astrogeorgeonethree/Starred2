@@ -606,6 +606,7 @@
 
 ## golang 
 
+- [hktalent/scan4all](https://github.com/hktalent/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 - [R4yGM/dorkscout](https://github.com/R4yGM/dorkscout) - DorkScout - Golang tool to automate google dork scan against the entiere internet or specific targets
 - [haydenwoodhead/burner.kiwi](https://github.com/haydenwoodhead/burner.kiwi) - No bullshit temporary mail service written in Go
