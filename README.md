@@ -239,6 +239,7 @@
 - [coj337/pwndb](https://github.com/coj337/pwndb) - pwndb is a tool that looks for leaked passwords from a dark web breach database given a user or domain.
 - [glebarez/padre](https://github.com/glebarez/padre) - Blazing fast, advanced Padding Oracle exploit
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
+- [dwisiswant0/go-stare](https://github.com/dwisiswant0/go-stare) - A fast & light web screenshot without headless browser but Chrome DevTools Protocol!
 - [dwisiswant0/cf-check](https://github.com/dwisiswant0/cf-check) - CloudFlare Checker written in Go
 - [FDlucifer/Proxy-Attackchain](https://github.com/FDlucifer/Proxy-Attackchain) - proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool
 - [chrisandoryan/Minemole](https://github.com/chrisandoryan/Minemole) - A simple Cryptojacking malware made with Go and XMRig, for educational purposes only.
@@ -701,6 +702,7 @@
 
 ## Python 
 
+- [p0dalirius/ApacheTomcatScanner](https://github.com/p0dalirius/ApacheTomcatScanner) - A python script to scan for Apache Tomcat server vulnerabilities.
 - [chrispetrou/FastAudit](https://github.com/chrispetrou/FastAudit) - :shipit: A wordpress security auditor! Audit your wordpress application for security issues with even 1 request.
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [svo80/vti_search](https://github.com/svo80/vti_search) - VirusTotal Intelligence Search
@@ -1454,7 +1456,6 @@
 - [martintjj/BreachCompilation](https://github.com/martintjj/BreachCompilation) - BreachCompilation Tools
 - [v4d1/SpoofThatMail](https://github.com/v4d1/SpoofThatMail) - Bash script to check if a domain or list of domains can be spoofed based in DMARC records
 - [bhdresh/CVE-2021-33766](https://github.com/bhdresh/CVE-2021-33766) - ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit
-- [dwisiswant0/go-stare](https://github.com/dwisiswant0/go-stare) - A fast & light web screenshot without headless browser but Chrome DevTools Protocol!
 - [BonJarber/SecUtils](https://github.com/BonJarber/SecUtils) - Random utilities from my security projects that might be useful to others
 - [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) - Rockyou for web fuzzing
 - [ByDog3r/90s-Checker-Account](https://github.com/ByDog3r/90s-Checker-Account) - 𝟗𝟎'𝐬 𝐂𝐡𝐞𝐜𝐤; verify emails/users and passwords in some pages.
