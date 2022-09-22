@@ -1231,6 +1231,7 @@
 
 ## others 
 
+- [p0dalirius/ApacheTomcatScanner](https://github.com/p0dalirius/ApacheTomcatScanner) - A python script to scan for Apache Tomcat server vulnerabilities.
 - [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
 - [Are-s-h/GovCracker](https://github.com/Are-s-h/GovCracker) - GovCracker is the best Wrapper and GUI for Hashcat, John the Ripper, PRINCE, Maskprocessor, Wordlister, CUPP, etc.
 - [svo80/vti_search](https://github.com/svo80/vti_search) - VirusTotal Intelligence Search
