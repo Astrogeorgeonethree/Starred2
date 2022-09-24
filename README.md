@@ -205,7 +205,7 @@
 
 ## Dart 
 
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - 
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - A Flutter frontend for quickget and quickemu.
 - [filiph/linkcheck](https://github.com/filiph/linkcheck) - Fast link checker
 
 ## Dockerfile 
@@ -220,6 +220,7 @@
 
 ## Go 
 
+- [random-robbie/firebaseio-checker-go](https://github.com/random-robbie/firebaseio-checker-go) - Firebase url checker in go
 - [hktalent/scan4all](https://github.com/hktalent/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. It is designed to maintain result reliability with an increased number of threads.
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
