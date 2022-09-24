@@ -804,14 +804,17 @@
 - [d-edge/Cardidy](https://github.com/d-edge/Cardidy) - A .net library to identify credit card number and cvv
 - [hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
 - [hhhrrrttt222111/Dorkify](https://github.com/hhhrrrttt222111/Dorkify) - Perform Google Dork search with Dorkify
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - A Flutter frontend for quickget and quickemu.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [dwisiswant0/awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty tips.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [x1mdev/ReconPi](https://github.com/x1mdev/ReconPi) - ReconPi - A lightweight recon tool that performs extensive scanning with the latest tools.
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [Xpykerz/Spotify-Checker](https://github.com/Xpykerz/Spotify-Checker) - Mass Spotify Accounts Checker
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 2
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
@@ -1231,6 +1234,7 @@
 
 ## others 
 
+- [random-robbie/firebaseio-checker-go](https://github.com/random-robbie/firebaseio-checker-go) - Firebase url checker in go
 - [p0dalirius/ApacheTomcatScanner](https://github.com/p0dalirius/ApacheTomcatScanner) - A python script to scan for Apache Tomcat server vulnerabilities.
 - [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
 - [Are-s-h/GovCracker](https://github.com/Are-s-h/GovCracker) - GovCracker is the best Wrapper and GUI for Hashcat, John the Ripper, PRINCE, Maskprocessor, Wordlister, CUPP, etc.
@@ -1296,7 +1300,6 @@
 - [iamavu/personal-security-checklist](https://github.com/iamavu/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
 - [cipher387/cipher387.github.io](https://github.com/cipher387/cipher387.github.io) - Repo for site with links to my projects
 - [rabeltester44/Magentolog](https://github.com/rabeltester44/Magentolog) - Dump cc + mail
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - 
 - [Plasmonix/Netflixer](https://github.com/Plasmonix/Netflixer) - 👻 Fast Netflix account checker
 - [Its-Vichy/IpVanish-Checker](https://github.com/Its-Vichy/IpVanish-Checker) - Ultra fast checker made in 10min
 - [kzorin52/stealerchecker](https://github.com/kzorin52/stealerchecker) - Работа с логами Echelon, RedLine, Racoon, DCRat etc
