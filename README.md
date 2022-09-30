@@ -703,6 +703,8 @@
 
 ## Python 
 
+- [Kr0ff/Pasta](https://github.com/Kr0ff/Pasta) - A PasteBin scrapper that doesnt rely on the PasteBin scrape API
+- [estebanpdl/telegram-api](https://github.com/estebanpdl/telegram-api) - It connects to Telegram's API. It generates JSON files containing channel's data, including channel's information and posts. You can search for a specific channel, or a set of channels provided in a t
 - [p0dalirius/ApacheTomcatScanner](https://github.com/p0dalirius/ApacheTomcatScanner) - A python script to scan for Apache Tomcat server vulnerabilities.
 - [chrispetrou/FastAudit](https://github.com/chrispetrou/FastAudit) - :shipit: A wordpress security auditor! Audit your wordpress application for security issues with even 1 request.
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
