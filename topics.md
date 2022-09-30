@@ -1113,6 +1113,7 @@
 
 ## open-source 
 
+- [estebanpdl/telegram-api](https://github.com/estebanpdl/telegram-api) - It connects to Telegram's API. It generates JSON files containing channel's data, including channel's information and posts. You can search for a specific channel, or a set of channels provided in a t
 - [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [cugu/awesome-forensics](https://github.com/cugu/awesome-forensics) - A curated list of awesome forensic analysis tools and resources
 
@@ -1126,6 +1127,8 @@
 
 ## osint 
 
+- [Kr0ff/Pasta](https://github.com/Kr0ff/Pasta) - A PasteBin scrapper that doesnt rely on the PasteBin scrape API
+- [estebanpdl/telegram-api](https://github.com/estebanpdl/telegram-api) - It connects to Telegram's API. It generates JSON files containing channel's data, including channel's information and posts. You can search for a specific channel, or a set of channels provided in a t
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. It is designed to maintain result reliability with an increased number of threads.
 - [Ginsberg5150/Discord-and-Telegram-OSINT-references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references) - Small repo for Telegram and Discord OSINT and research
@@ -2114,6 +2117,8 @@
 
 ## python 
 
+- [Kr0ff/Pasta](https://github.com/Kr0ff/Pasta) - A PasteBin scrapper that doesnt rely on the PasteBin scrape API
+- [estebanpdl/telegram-api](https://github.com/estebanpdl/telegram-api) - It connects to Telegram's API. It generates JSON files containing channel's data, including channel's information and posts. You can search for a specific channel, or a set of channels provided in a t
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
@@ -2244,6 +2249,7 @@
 
 ## python3 
 
+- [estebanpdl/telegram-api](https://github.com/estebanpdl/telegram-api) - It connects to Telegram's API. It generates JSON files containing channel's data, including channel's information and posts. You can search for a specific channel, or a set of channels provided in a t
 - [anshumanpattnaik/http-request-smuggling](https://github.com/anshumanpattnaik/http-request-smuggling) - HTTP Request Smuggling Detection Tool
 - [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
 - [AngelSecurityTeam/CC_Scrapper](https://github.com/AngelSecurityTeam/CC_Scrapper) - Telegram CC  Scrapper - Debit/Credit Card [channel public or private / group ]
