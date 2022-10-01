@@ -599,6 +599,7 @@
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [trandoshan-io/crawler](https://github.com/trandoshan-io/crawler) - Go process used to crawl websites
 - [firefart/pastebin_scraper](https://github.com/firefart/pastebin_scraper) - golang program to parse Pastebin for keywords and send them per E-Mail
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 - [notdodo/pastego](https://github.com/notdodo/pastego) - Scrape/Parse Pastebin using GO and expression grammar (PEG)
 - [graniet/operative-framework](https://github.com/graniet/operative-framework) - operative framework is a investigation OSINT framework, you can interact with multiple targets, execute multiple modules, create links with target, export rapport to PDF file, add note to target or re
@@ -636,6 +637,7 @@
 - [averagesecurityguy/scrape](https://github.com/averagesecurityguy/scrape) - Extensible paste site scraper written in Golang.
 - [firefart/pastebin_scraper](https://github.com/firefart/pastebin_scraper) - golang program to parse Pastebin for keywords and send them per E-Mail
 - [techjacker/repo-security-scanner](https://github.com/techjacker/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 - [graniet/operative-framework](https://github.com/graniet/operative-framework) - operative framework is a investigation OSINT framework, you can interact with multiple targets, execute multiple modules, create links with target, export rapport to PDF file, add note to target or re
@@ -1238,6 +1240,7 @@
 
 ## others 
 
+- [jackjack-jj/pywallet](https://github.com/jackjack-jj/pywallet) - bitcoin wallet importer/exporter
 - [random-robbie/firebaseio-checker-go](https://github.com/random-robbie/firebaseio-checker-go) - Firebase url checker in go
 - [p0dalirius/ApacheTomcatScanner](https://github.com/p0dalirius/ApacheTomcatScanner) - A python script to scan for Apache Tomcat server vulnerabilities.
 - [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
