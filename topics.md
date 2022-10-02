@@ -2213,6 +2213,7 @@
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [Porchetta-Industries/CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
 - [M3l0nPan/pwndb_api](https://github.com/M3l0nPan/pwndb_api) - Pwndb request API
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [abhisharma404/vault](https://github.com/abhisharma404/vault) - swiss army knife for hackers
 - [brutemap-dev/brutemap](https://github.com/brutemap-dev/brutemap) - Let's find someone's account
 - [BishopFox/GitGot](https://github.com/BishopFox/GitGot) - Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
