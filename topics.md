@@ -836,6 +836,7 @@
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [GoSecure/pyrdp](https://github.com/GoSecure/pyrdp) - RDP monster-in-the-middle (mitm) and library for Python with the ability to watch connections live or after the fact
+- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [techgaun/github-dorks](https://github.com/techgaun/github-dorks) - Find leaked secrets via github search
 - [tehw0lf/airbash](https://github.com/tehw0lf/airbash) - A POSIX-compliant, fully automated WPA PSK PMKID and handshake capture script aimed at penetration testing
@@ -1241,6 +1242,7 @@
 
 ## others 
 
+- [InQuest/yara-rules-vt](https://github.com/InQuest/yara-rules-vt) - Collection of YARA rules designed for usage through VirusTotal.com.
 - [jackjack-jj/pywallet](https://github.com/jackjack-jj/pywallet) - bitcoin wallet importer/exporter
 - [random-robbie/firebaseio-checker-go](https://github.com/random-robbie/firebaseio-checker-go) - Firebase url checker in go
 - [p0dalirius/ApacheTomcatScanner](https://github.com/p0dalirius/ApacheTomcatScanner) - A python script to scan for Apache Tomcat server vulnerabilities.
@@ -1477,7 +1479,7 @@
 - [NSAKEY/nsa-rules](https://github.com/NSAKEY/nsa-rules) - Password cracking rules and masks for hashcat that I generated from cracked passwords.
 - [clem9669/hashcat-rule](https://github.com/clem9669/hashcat-rule) - Rule for hashcat or john. Aiming to crack how people generate their password
 - [praetorian-inc/Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - Password cracking rules for Hashcat based on statistics and industry patterns
-- [braimee/bpatty](https://github.com/braimee/bpatty) - Brian's Pentesting and Technical Tips for You
+- [7MinSec/bpatty](https://github.com/7MinSec/bpatty) - Brian's Pentesting and Technical Tips for You
 - [h4x0r-dz/CVE-2021-26855](https://github.com/h4x0r-dz/CVE-2021-26855) - 
 - [p0wershe11/ProxyLogon](https://github.com/p0wershe11/ProxyLogon) - ProxyLogon(CVE-2021-26855+CVE-2021-27065) Exchange Server RCE(SSRF-&gt;GetWebShell)
 - [dwisiswant0/proxylogscan](https://github.com/dwisiswant0/proxylogscan) - A fast tool to mass scan for a vulnerability on Microsoft Exchange Server that allows an attacker bypassing the authentication and impersonating as the admin (CVE-2021-26855).
@@ -1493,7 +1495,6 @@
 - [0x09AL/IIS-Raid](https://github.com/0x09AL/IIS-Raid) - A native backdoor module for Microsoft IIS (Internet Information Services)
 - [joaovdonaton/hashcracker](https://github.com/joaovdonaton/hashcracker) - python hash cracker
 - [mazen160/Firefox-Security-Toolkit](https://github.com/mazen160/Firefox-Security-Toolkit) - A tool that transforms Firefox browsers into a penetration testing suite
-- [l4yton/js-parse](https://github.com/l4yton/js-parse) - Find subdomains, relative urls, parameter, custom headers and api keys in javascript files
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [0xred/HashMaster](https://github.com/0xred/HashMaster) - 
 - [eslam3kl/3klCon](https://github.com/eslam3kl/3klCon) - Automation Recon tool which works with Large & Medium scopes. It performs more than 20 tasks and gets back all the results in separated files.
