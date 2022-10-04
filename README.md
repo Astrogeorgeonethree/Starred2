@@ -330,7 +330,7 @@
 - [woj-ciech/intelx_viz](https://github.com/woj-ciech/intelx_viz) - Collect information about leaks for particular domain in IntelX and present it on a tree view graph.
 - [spcau/godiff](https://github.com/spcau/godiff) - Utility to compare files/directories with output in html. (like unix diff command)
 - [diveshlunker/Brute-Force-Passwords](https://github.com/diveshlunker/Brute-Force-Passwords) - Generate list of all possible passwords of your desired size and with desired starting alphabet. Link for the website:-
-- [braimee/bpatty](https://github.com/braimee/bpatty) - Brian's Pentesting and Technical Tips for You
+- [7MinSec/bpatty](https://github.com/7MinSec/bpatty) - Brian's Pentesting and Technical Tips for You
 - [allo-/firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) - Tool to create firefox profiles with good defaults.
 - [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With Python
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
@@ -1435,7 +1435,6 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [seanpianka/aws-incentives-api-rs](https://github.com/seanpianka/aws-incentives-api-rs) - A Rust service for using the Amazon Gift Card API
 - [MCOfficer/odcrawler-discovery](https://github.com/MCOfficer/odcrawler-discovery) - The (new) discovery backend for https://odcrawler.xyz
-- [l4yton/js-parse](https://github.com/l4yton/js-parse) - Find subdomains, relative urls, parameter, custom headers and api keys in javascript files
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, mul
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [leo-lb/wpbrute-rs](https://github.com/leo-lb/wpbrute-rs) - High performance WordPress login bruteforcer with automatic concurrency for maximum amount of tries per second.
@@ -1603,6 +1602,7 @@
 
 ## YARA 
 
+- [InQuest/yara-rules-vt](https://github.com/InQuest/yara-rules-vt) - Collection of YARA rules designed for usage through VirusTotal.com.
 - [ail-project/ail-yara-rules](https://github.com/ail-project/ail-yara-rules) - A set of YARA rules for the AIL framework to detect leak or information disclosure
 
 
