@@ -136,6 +136,7 @@
 
 ## android 
 
+- [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [EntySec/HatSploit](https://github.com/EntySec/HatSploit) - Modular penetration testing platform that enables you to write, test, and execute exploit code.
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
@@ -318,6 +319,7 @@
 
 ## c 
 
+- [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [nil0x42/duplicut](https://github.com/nil0x42/duplicut) - Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
 - [csete/gpredict](https://github.com/csete/gpredict) - Gpredict satellite tracking application
@@ -959,6 +961,7 @@
 
 ## library 
 
+- [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [d-edge/Cardidy](https://github.com/d-edge/Cardidy) - A .net library to identify credit card number and cvv
 - [RyuzakiH/CloudflareSolverRe](https://github.com/RyuzakiH/CloudflareSolverRe) - Cloudflare Javascript & reCaptcha challenge (I'm Under Attack Mode or IUAM) solving / bypass .NET Standard library.
 - [hahwul/XSpear](https://github.com/hahwul/XSpear) - Powerfull XSS Scanning and Parameter analysis tool&gem
@@ -1242,6 +1245,7 @@
 
 ## others 
 
+- [mnismt/CompressedCrack](https://github.com/mnismt/CompressedCrack) - Crack password .rar and .zip file with Python
 - [InQuest/yara-rules-vt](https://github.com/InQuest/yara-rules-vt) - Collection of YARA rules designed for usage through VirusTotal.com.
 - [jackjack-jj/pywallet](https://github.com/jackjack-jj/pywallet) - bitcoin wallet importer/exporter
 - [random-robbie/firebaseio-checker-go](https://github.com/random-robbie/firebaseio-checker-go) - Firebase url checker in go
