@@ -65,6 +65,7 @@
 
 ## BlitzBasic 
 
+- [eslam3kl/SQLiDetector](https://github.com/eslam3kl/SQLiDetector) - Simple python script supported with BurpBouty profile that helps you to detect SQL injection "Error based" by sending multiple requests with 14 payloads and checking for 152 regex patterns for differe
 - [1N3/IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 
 ## C 
@@ -518,6 +519,7 @@
 
 ## Others 
 
+- [Neo23x0/vti-dorks](https://github.com/Neo23x0/vti-dorks) - Awesome VirusTotal Intelligence Search Queries
 - [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [Ginsberg5150/Discord-and-Telegram-OSINT-references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references) - Small repo for Telegram and Discord OSINT and research
@@ -704,6 +706,7 @@
 
 ## Python 
 
+- [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [mnismt/CompressedCrack](https://github.com/mnismt/CompressedCrack) - Crack password .rar and .zip file with Python
 - [jackjack-jj/pywallet](https://github.com/jackjack-jj/pywallet) - bitcoin wallet importer/exporter
 - [Kr0ff/Pasta](https://github.com/Kr0ff/Pasta) - A PasteBin scrapper that doesnt rely on the PasteBin scrape API
