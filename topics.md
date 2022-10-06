@@ -410,6 +410,7 @@
 
 ## cybersecurity 
 
+- [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. It is designed to maintain result reliability with an increased number of threads.
 - [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
 - [pablosnt/rekono](https://github.com/pablosnt/rekono) - Execute full pentesting processes combining multiple hacking tools automatically
@@ -670,6 +671,7 @@
 
 ## hacking 
 
+- [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced
 - [pablosnt/rekono](https://github.com/pablosnt/rekono) - Execute full pentesting processes combining multiple hacking tools automatically
 - [doener2323/doenerium](https://github.com/doener2323/doenerium) - Fully undetected grabber (grabs wallets, passwords, cookies, modifies discord client etc.)
@@ -813,6 +815,7 @@
 - [dwisiswant0/awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty tips.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+- [projectdiscovery/cloudlist](https://github.com/projectdiscovery/cloudlist) - Cloudlist is a tool for listing Assets from multiple Cloud Providers.
 - [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -1245,6 +1248,8 @@
 
 ## others 
 
+- [Neo23x0/vti-dorks](https://github.com/Neo23x0/vti-dorks) - Awesome VirusTotal Intelligence Search Queries
+- [eslam3kl/SQLiDetector](https://github.com/eslam3kl/SQLiDetector) - Simple python script supported with BurpBouty profile that helps you to detect SQL injection "Error based" by sending multiple requests with 14 payloads and checking for 152 regex patterns for differe
 - [mnismt/CompressedCrack](https://github.com/mnismt/CompressedCrack) - Crack password .rar and .zip file with Python
 - [InQuest/yara-rules-vt](https://github.com/InQuest/yara-rules-vt) - Collection of YARA rules designed for usage through VirusTotal.com.
 - [jackjack-jj/pywallet](https://github.com/jackjack-jj/pywallet) - bitcoin wallet importer/exporter
@@ -2126,6 +2131,7 @@
 
 ## python 
 
+- [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [Kr0ff/Pasta](https://github.com/Kr0ff/Pasta) - A PasteBin scrapper that doesnt rely on the PasteBin scrape API
 - [estebanpdl/telegram-api](https://github.com/estebanpdl/telegram-api) - It connects to Telegram's API. It generates JSON files containing channel's data, including channel's information and posts. You can search for a specific channel, or a set of channels provided in a t
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
@@ -2259,6 +2265,7 @@
 
 ## python3 
 
+- [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [estebanpdl/telegram-api](https://github.com/estebanpdl/telegram-api) - It connects to Telegram's API. It generates JSON files containing channel's data, including channel's information and posts. You can search for a specific channel, or a set of channels provided in a t
 - [anshumanpattnaik/http-request-smuggling](https://github.com/anshumanpattnaik/http-request-smuggling) - HTTP Request Smuggling Detection Tool
 - [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
@@ -2358,6 +2365,7 @@
 
 ## security 
 
+- [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [chrispetrou/FastAudit](https://github.com/chrispetrou/FastAudit) - :shipit: A wordpress security auditor! Audit your wordpress application for security issues with even 1 request.
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
 - [chenjj/Awesome-HTTPRequestSmuggling](https://github.com/chenjj/Awesome-HTTPRequestSmuggling) - A curated list of awesome blogs and tools about HTTP request smuggling attacks.   Feel free to contribute!  🍻
