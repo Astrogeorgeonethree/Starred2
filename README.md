@@ -55,7 +55,6 @@
 ## Batchfile 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
-- [amirDEV/JohnTechFreeRDP](https://github.com/amirDEV/JohnTechFreeRDP) - 
 - [NirajShr3stha/coffinRDP](https://github.com/NirajShr3stha/coffinRDP) - You can get unlimited rdp for free.
 - [ZephrFish/WindowsHardeningScript](https://github.com/ZephrFish/WindowsHardeningScript) - Some settings stolen from multiple scripts @ZephrFish
 
@@ -706,6 +705,7 @@
 
 ## Python 
 
+- [securisec/chepy](https://github.com/securisec/chepy) - Chepy is a python lib/cli equivalent of the awesome CyberChef tool.
 - [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [mnismt/CompressedCrack](https://github.com/mnismt/CompressedCrack) - Crack password .rar and .zip file with Python
 - [jackjack-jj/pywallet](https://github.com/jackjack-jj/pywallet) - bitcoin wallet importer/exporter
