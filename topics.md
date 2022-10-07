@@ -354,6 +354,7 @@
 
 ## cli 
 
+- [securisec/chepy](https://github.com/securisec/chepy) - Chepy is a python lib/cli equivalent of the awesome CyberChef tool.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -410,6 +411,7 @@
 
 ## cybersecurity 
 
+- [securisec/chepy](https://github.com/securisec/chepy) - Chepy is a python lib/cli equivalent of the awesome CyberChef tool.
 - [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. It is designed to maintain result reliability with an increased number of threads.
 - [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
@@ -1442,7 +1444,6 @@
 - [7jdope8/AmazonGiftcard](https://github.com/7jdope8/AmazonGiftcard) - amazon giftcard generator + Checekr
 - [x-name15/Another-GiftCards-Bot](https://github.com/x-name15/Another-GiftCards-Bot) - This is a another Discord Giftcards Generator Bot
 - [Sheikhlipu123/MultipleGiftCardGenerator-3.0](https://github.com/Sheikhlipu123/MultipleGiftCardGenerator-3.0) - Python Random GiftCard Generator
-- [amirDEV/JohnTechFreeRDP](https://github.com/amirDEV/JohnTechFreeRDP) - 
 - [vektort13/AntiOS](https://github.com/vektort13/AntiOS) - Pyhton scripts that can change your Windows fingerprints and ID
 - [Jian-Wuyou/twitter-image-scraper](https://github.com/Jian-Wuyou/twitter-image-scraper) - 
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - This script lets you check whether a specific phone number is connected to a Telegram account.
@@ -2265,6 +2266,7 @@
 
 ## python3 
 
+- [securisec/chepy](https://github.com/securisec/chepy) - Chepy is a python lib/cli equivalent of the awesome CyberChef tool.
 - [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [estebanpdl/telegram-api](https://github.com/estebanpdl/telegram-api) - It connects to Telegram's API. It generates JSON files containing channel's data, including channel's information and posts. You can search for a specific channel, or a set of channels provided in a t
 - [anshumanpattnaik/http-request-smuggling](https://github.com/anshumanpattnaik/http-request-smuggling) - HTTP Request Smuggling Detection Tool
