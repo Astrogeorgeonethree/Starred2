@@ -1250,6 +1250,7 @@
 
 ## others 
 
+- [arimogi/Google-Dorks](https://github.com/arimogi/Google-Dorks) - I'm uploading dorks here.
 - [Neo23x0/vti-dorks](https://github.com/Neo23x0/vti-dorks) - Awesome VirusTotal Intelligence Search Queries
 - [eslam3kl/SQLiDetector](https://github.com/eslam3kl/SQLiDetector) - Simple python script supported with BurpBouty profile that helps you to detect SQL injection "Error based" by sending multiple requests with 14 payloads and checking for 152 regex patterns for differe
 - [mnismt/CompressedCrack](https://github.com/mnismt/CompressedCrack) - Crack password .rar and .zip file with Python
