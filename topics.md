@@ -136,6 +136,8 @@
 
 ## android 
 
+- [MobSF/mobsfscan](https://github.com/MobSF/mobsfscan) - mobsfscan is a static analysis tool that can find insecure code patterns in your Android and iOS source code. Supports Java, Kotlin, Swift, and Objective C Code. mobsfscan uses MobSF static analysis r
+- [alessandrodd/apk_api_key_extractor](https://github.com/alessandrodd/apk_api_key_extractor) - Automatically extracts API Keys from APK files
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [EntySec/HatSploit](https://github.com/EntySec/HatSploit) - Modular penetration testing platform that enables you to write, test, and execute exploit code.
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
@@ -147,6 +149,7 @@
 
 ## api 
 
+- [alessandrodd/apk_api_key_extractor](https://github.com/alessandrodd/apk_api_key_extractor) - Automatically extracts API Keys from APK files
 - [daffainfo/all-about-apikey](https://github.com/daffainfo/all-about-apikey) - Detailed information about API key / OAuth token (Description, Request, Response, Regex, Example)
 - [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
 - [seanpianka/aws-incentives-api-rs](https://github.com/seanpianka/aws-incentives-api-rs) - A Rust service for using the Amazon Gift Card API
@@ -2133,6 +2136,7 @@
 
 ## python 
 
+- [alessandrodd/apk_api_key_extractor](https://github.com/alessandrodd/apk_api_key_extractor) - Automatically extracts API Keys from APK files
 - [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [Kr0ff/Pasta](https://github.com/Kr0ff/Pasta) - A PasteBin scrapper that doesnt rely on the PasteBin scrape API
 - [estebanpdl/telegram-api](https://github.com/estebanpdl/telegram-api) - It connects to Telegram's API. It generates JSON files containing channel's data, including channel's information and posts. You can search for a specific channel, or a set of channels provided in a t
@@ -2267,6 +2271,7 @@
 
 ## python3 
 
+- [alessandrodd/apk_api_key_extractor](https://github.com/alessandrodd/apk_api_key_extractor) - Automatically extracts API Keys from APK files
 - [securisec/chepy](https://github.com/securisec/chepy) - Chepy is a python lib/cli equivalent of the awesome CyberChef tool.
 - [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [estebanpdl/telegram-api](https://github.com/estebanpdl/telegram-api) - It connects to Telegram's API. It generates JSON files containing channel's data, including channel's information and posts. You can search for a specific channel, or a set of channels provided in a t
