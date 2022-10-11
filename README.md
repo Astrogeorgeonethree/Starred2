@@ -353,6 +353,7 @@
 
 ## Java 
 
+- [MobSF/mobsfscan](https://github.com/MobSF/mobsfscan) - mobsfscan is a static analysis tool that can find insecure code patterns in your Android and iOS source code. Supports Java, Kotlin, Swift, and Objective C Code. mobsfscan uses MobSF static analysis r
 - [guardianproject/orbot](https://github.com/guardianproject/orbot) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [mayflower/agcod-java-client](https://github.com/mayflower/agcod-java-client) - Unofficial AGCOD (Amazon Gift Card On Demand) Client for Java
 - [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) - IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by p
@@ -706,6 +707,7 @@
 
 ## Python 
 
+- [alessandrodd/apk_api_key_extractor](https://github.com/alessandrodd/apk_api_key_extractor) - Automatically extracts API Keys from APK files
 - [securisec/chepy](https://github.com/securisec/chepy) - Chepy is a python lib/cli equivalent of the awesome CyberChef tool.
 - [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [mnismt/CompressedCrack](https://github.com/mnismt/CompressedCrack) - Crack password .rar and .zip file with Python
