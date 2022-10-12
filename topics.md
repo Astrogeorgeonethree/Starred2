@@ -2464,6 +2464,7 @@
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [M3l0nPan/pwndb_api](https://github.com/M3l0nPan/pwndb_api) - Pwndb request API
+- [GoSecure/pyrdp](https://github.com/GoSecure/pyrdp) - RDP monster-in-the-middle (mitm) and library for Python with the ability to watch connections live or after the fact
 - [abhisharma404/vault](https://github.com/abhisharma404/vault) - swiss army knife for hackers
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [defaultnamehere/cookie_crimes](https://github.com/defaultnamehere/cookie_crimes) - Read local Chrome cookies without root or decrypting
