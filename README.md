@@ -42,7 +42,6 @@
 - [Smarty](#smarty)
 - [TypeScript](#typescript)
 - [Vala](#vala)
-- [Vim Script](#vim-script)
 - [Visual Basic](#visual-basic)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
@@ -1547,6 +1546,7 @@
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [OneLogicalMyth/hashcat-scripts](https://github.com/OneLogicalMyth/hashcat-scripts) - A collection of scripts I use with hashcat
 - [streaak/pastebin-scraper](https://github.com/streaak/pastebin-scraper) - Pastebin-scraper tool leverages the API of https://psbdmp.ws/ to find emails/domains dumped in pastebin.
+- [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
 - [KALILINUXTRICKSYT/easysploit](https://github.com/KALILINUXTRICKSYT/easysploit) - EasySploit - Metasploit automation (EASIER and FASTER than EVER)
 - [screetsec/Sudomy](https://github.com/screetsec/Sudomy) - Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting
 - [screetsec/Dracnmap](https://github.com/screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and dif
@@ -1587,10 +1587,6 @@
 ## Vala 
 
 - [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
-
-## Vim Script 
-
-- [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
 
 ## Visual Basic 
 
