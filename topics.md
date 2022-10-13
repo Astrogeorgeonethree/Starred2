@@ -902,6 +902,7 @@
 
 ## java 
 
+- [kozmer/log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc) - A Proof-Of-Concept for the CVE-2021-44228 vulnerability.
 - [hacktoolspack/hack-tools](https://github.com/hacktoolspack/hack-tools) - hack tools
 - [snyk-labs/awesome-log4shell](https://github.com/snyk-labs/awesome-log4shell) - An Awesome List of Log4Shell resources to help you stay informed and secure! 🔒
 - [SNGWN/Burp-Suite](https://github.com/SNGWN/Burp-Suite) - || Activate Burp Suite Pro with Key-Generator and Key-Loader ||
@@ -2373,6 +2374,7 @@
 
 ## security 
 
+- [kozmer/log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc) - A Proof-Of-Concept for the CVE-2021-44228 vulnerability.
 - [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [chrispetrou/FastAudit](https://github.com/chrispetrou/FastAudit) - :shipit: A wordpress security auditor! Audit your wordpress application for security issues with even 1 request.
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
