@@ -1193,7 +1193,7 @@
 - [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor) - Extract and aggregate threat intelligence.
 - [christophetd/censys-subdomain-finder](https://github.com/christophetd/censys-subdomain-finder) - ⚡ Perform subdomain enumeration using the certificate transparency logs from Censys.
 - [s0md3v/Orbit](https://github.com/s0md3v/Orbit) - Blockchain Transactions Investigation Tool
-- [nerrorsec/nDorker](https://github.com/nerrorsec/nDorker) - Automate dorking while doing bug bounty or other stuffs.
+- [nerrorsec/Google-Dorker](https://github.com/nerrorsec/Google-Dorker) - Automate dorking while doing bug bounty or other stuffs.
 - [MandConsultingGroup/Scylla](https://github.com/MandConsultingGroup/Scylla) - The Simplistic Information Gathering Engine | Find Advanced Information on a Username, Website, Phone Number, etc.
 - [evilsocket/xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
 - [0x0FB0/pulsar](https://github.com/0x0FB0/pulsar) - Network footprint scanner platform. Discover domains and run your custom checks periodically.
@@ -1254,6 +1254,7 @@
 
 ## others 
 
+- [ramoona/banks-db](https://github.com/ramoona/banks-db) - Community driven database to get bank info (name, brand color etc.) by bankcard prefix (BIN)
 - [arimogi/Google-Dorks](https://github.com/arimogi/Google-Dorks) - I'm uploading dorks here.
 - [Neo23x0/vti-dorks](https://github.com/Neo23x0/vti-dorks) - Awesome VirusTotal Intelligence Search Queries
 - [eslam3kl/SQLiDetector](https://github.com/eslam3kl/SQLiDetector) - Simple python script supported with BurpBouty profile that helps you to detect SQL injection "Error based" by sending multiple requests with 14 payloads and checking for 152 regex patterns for differe
@@ -2116,7 +2117,7 @@
 
 ## php 
 
-- [kristuff/abuseipdb-cli](https://github.com/kristuff/abuseipdb-cli) - A CLI tool to check ✔️, report 🚩 IP address, download blacklist 🚫 with AbuseIPDB API v2
+- [kristuff/abuseipdb-cli](https://github.com/kristuff/abuseipdb-cli) - A CLI tool to check ✔️, report 🚩 IP addresses, download blacklist 🚫 with AbuseIPDB API v2
 - [Aron-Tn/Mega-Bot](https://github.com/Aron-Tn/Mega-Bot) - [NEW] : Mega Bot ☣ Scanner & Auto Exploiter
 - [A3h1nt/Grawler](https://github.com/A3h1nt/Grawler) - Grawler is a tool written in PHP which comes with a web interface that automates the task of using google dorks, scrapes the results, and stores them in a file.
 - [vitaminarts/Telegram-scraper-api](https://github.com/vitaminarts/Telegram-scraper-api) - An easy-to-use PHP api for Getting contents of Telegram's public channels and groups Messages without needing to join them.
@@ -2442,7 +2443,7 @@
 - [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 DalFox is an powerful open source XSS scanning tool and parameter analyzer, utility
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [stefanoj3/dirstalk](https://github.com/stefanoj3/dirstalk) - Modern alternative to dirbuster/dirb
-- [nerrorsec/nDorker](https://github.com/nerrorsec/nDorker) - Automate dorking while doing bug bounty or other stuffs.
+- [nerrorsec/Google-Dorker](https://github.com/nerrorsec/Google-Dorker) - Automate dorking while doing bug bounty or other stuffs.
 - [Ullaakut/camerattack](https://github.com/Ullaakut/camerattack) - An attack tool designed to remotely disable CCTV camera streams (like in spy movies)
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
