@@ -378,6 +378,7 @@
 
 ## JavaScript 
 
+- [ramoona/banks-db](https://github.com/ramoona/banks-db) - Community driven database to get bank info (name, brand color etc.) by bankcard prefix (BIN)
 - [0140454/hackbar](https://github.com/0140454/hackbar) - A browser extension for Penetration Testing
 - [ofirgt0/captainServer](https://github.com/ofirgt0/captainServer) - 
 - [doener2323/doenerium](https://github.com/doener2323/doenerium) - Fully undetected grabber (grabs wallets, passwords, cookies, modifies discord client etc.)
@@ -652,7 +653,7 @@
 ## PHP 
 
 - [rabeltester44/Magentolog](https://github.com/rabeltester44/Magentolog) - Dump cc + mail
-- [kristuff/abuseipdb-cli](https://github.com/kristuff/abuseipdb-cli) - A CLI tool to check ✔️, report 🚩 IP address, download blacklist 🚫 with AbuseIPDB API v2
+- [kristuff/abuseipdb-cli](https://github.com/kristuff/abuseipdb-cli) - A CLI tool to check ✔️, report 🚩 IP addresses, download blacklist 🚫 with AbuseIPDB API v2
 - [helich0pper/Karkinos](https://github.com/helich0pper/Karkinos) - Penetration Testing and Hacking CTF's Swiss Army Knife with: Reverse Shell Handling - Encoding/Decoding - Encryption/Decryption - Cracking Hashes / Hashing
 - [kamerk22/AmazonGiftCode](https://github.com/kamerk22/AmazonGiftCode) - Laravel package for Amazon Gift Codes On Demand (AGCOD). Integration for Amazon Incentive API 🎁
 - [KatieP/gp-wp-core](https://github.com/KatieP/gp-wp-core) - Green Pages wordpress core plugin
@@ -706,6 +707,7 @@
 
 ## Python 
 
+- [kozmer/log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc) - A Proof-Of-Concept for the CVE-2021-44228 vulnerability.
 - [alessandrodd/apk_api_key_extractor](https://github.com/alessandrodd/apk_api_key_extractor) - Automatically extracts API Keys from APK files
 - [securisec/chepy](https://github.com/securisec/chepy) - Chepy is a python lib/cli equivalent of the awesome CyberChef tool.
 - [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
@@ -1161,7 +1163,7 @@
 - [s0md3v/Orbit](https://github.com/s0md3v/Orbit) - Blockchain Transactions Investigation Tool
 - [N4rr34n6/uDork](https://github.com/N4rr34n6/uDork) - 
 - [unix-ninja/infosec-pastebin-scraper](https://github.com/unix-ninja/infosec-pastebin-scraper) - Scrape pastes from pastebin and archive them for review
-- [nerrorsec/nDorker](https://github.com/nerrorsec/nDorker) - Automate dorking while doing bug bounty or other stuffs.
+- [nerrorsec/Google-Dorker](https://github.com/nerrorsec/Google-Dorker) - Automate dorking while doing bug bounty or other stuffs.
 - [sleeyax/Chainforger](https://github.com/sleeyax/Chainforger) - Proxy scraper for proxychains
 - [n4xh4ck5/N4xD0rk](https://github.com/n4xh4ck5/N4xD0rk) - Listing subdomains about a main domain
 - [taraslayshchuk/es2csv](https://github.com/taraslayshchuk/es2csv) - Export from an Elasticsearch into a CSV file
