@@ -724,7 +724,7 @@
 - [VirusTotal/vt-py](https://github.com/VirusTotal/vt-py) - The official Python 3 client library for VirusTotal
 - [mpgn/CVE-2019-19781](https://github.com/mpgn/CVE-2019-19781) - CVE-2019-19781 - Remote Code Execution on Citrix ADC Netscaler exploit
 - [jas502n/CVE-2019-19781](https://github.com/jas502n/CVE-2019-19781) - Citrix ADC Remote Code Execution
-- [d1vious/git-wild-hunt](https://github.com/d1vious/git-wild-hunt) - A tool to hunt for credentials in github wild AKA git*hunt
+- [josehelps/git-wild-hunt](https://github.com/josehelps/git-wild-hunt) - A tool to hunt for credentials in github wild AKA git*hunt
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
 - [rly0nheart/thelordseye](https://github.com/rly0nheart/thelordseye) - thelordseye searches and returns detailed information about devices that are directly connected to the internet [IoT] (Smart TV's, Fridges, Webcams, Traffic Lights etc).
