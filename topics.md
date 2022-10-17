@@ -1274,7 +1274,7 @@
 - [mpgn/CVE-2019-19781](https://github.com/mpgn/CVE-2019-19781) - CVE-2019-19781 - Remote Code Execution on Citrix ADC Netscaler exploit
 - [jas502n/CVE-2019-19781](https://github.com/jas502n/CVE-2019-19781) - Citrix ADC Remote Code Execution
 - [projectzeroindia/CVE-2019-11510](https://github.com/projectzeroindia/CVE-2019-11510) - Exploit for Arbitrary File Read on Pulse Secure SSL VPN (CVE-2019-11510)
-- [d1vious/git-wild-hunt](https://github.com/d1vious/git-wild-hunt) - A tool to hunt for credentials in github wild AKA git*hunt
+- [josehelps/git-wild-hunt](https://github.com/josehelps/git-wild-hunt) - A tool to hunt for credentials in github wild AKA git*hunt
 - [ofirgt0/captainServer](https://github.com/ofirgt0/captainServer) - 
 - [rly0nheart/thelordseye](https://github.com/rly0nheart/thelordseye) - thelordseye searches and returns detailed information about devices that are directly connected to the internet [IoT] (Smart TV's, Fridges, Webcams, Traffic Lights etc).
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) - A repository with 3 tools for pwn'ing websites with .git repositories available
