@@ -53,6 +53,7 @@
 - [golang](#golang)
 - [google](#google)
 - [google-cloud](#google-cloud)
+- [graphql](#graphql)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
@@ -669,6 +670,10 @@
 ## google-cloud 
 
 - [belane/CloudHunter](https://github.com/belane/CloudHunter) - AWS, Azure and Google bucket scanner
+
+## graphql 
+
+- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
 
 ## hackathon 
 
